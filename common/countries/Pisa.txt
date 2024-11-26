@@ -28,24 +28,24 @@ historical_units = {
 	western_men_at_arms
 }
 monarch_names = {
-	"Adalgisa #0" = -1
-	"Alarico #1" = 10
-	"Azzo #1" = 10
-	"Brun #0" = 0
-	"Hasala #0" = -1
-	"Liutpold #0" = 0
-	"Lucinetta #0" = -1
-	"Micheli #0" = 0
-	"Nolfo #0" = 0
-	"Rinaldo #1" = 10
-	"Sami #0" = 0
-	"Sebastiano #0" = 0
-	"Sigeriu #0" = 0
-	"Simone #0" = 0
+	"Alighiero #1" = 10
+	"Amaneus #0" = 0
+	"Ausonia #0" = -1
+	"Baldovino #1" = 10
+	"Berto #1" = 10
+	"Bertoldo #0" = 0
+	"Buoso #1" = 10
+	"Carla #0" = -1
+	"Corrado #0" = 0
+	"Dora #0" = -1
+	"Fiorello #1" = 10
+	"Gabrino #1" = 10
+	"Ippolito #1" = 10
+	"Lodovica #1" = -1
+	"Rafaello #1" = 10
+	"Roberto #1" = 10
 	"Tedice #1" = 10
-	"Thiébaut #0" = 0
-	"Tommaso #1" = 10
-	"Welf #2" = 10
+	"Violante #0" = -1
 }
 leader_names = {
 	"Amelia"

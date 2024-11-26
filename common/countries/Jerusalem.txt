@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = westerngfx
+graphical_culture = muslimgfx
 color = { 211 230 211 }
 revolutionary_colors = { 13 0 13 }
 historical_idea_groups = {
@@ -28,20 +28,19 @@ historical_units = {
 	western_men_at_arms
 }
 monarch_names = {
-	"Aspuraces #0" = 0
-	"Baturay #0" = 0
-	"Bohemond #0" = 0
-	"Ciuccio #0" = 0
-	"Enguerrand #0" = 0
-	"Gerolt #1" = 10
-	"Guillaumette #1" = -1
-	"Hamelin #0" = 0
-	"Imamaddin #0" = 0
-	"Lukács #0" = 0
-	"Qayshan #0" = 0
-	"Seba #0" = 0
-	"Wahid #0" = 0
-	"William #0" = 0
+	"Akab #0" = 0
+	"Androus #0" = 0
+	"Griselda #0" = -1
+	"Guthfrith #0" = 0
+	"Habil #0" = 0
+	"Ignatios #0" = 0
+	"Jönga #0" = 0
+	"Jönk #0" = 0
+	"Manuel #0" = 0
+	"Mariam #0" = -1
+	"Murshid #0" = 0
+	"Titi #0" = -1
+	"Wulfmær #0" = 0
 }
 leader_names = {
 	"Arenberg"

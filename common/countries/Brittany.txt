@@ -12,7 +12,6 @@ historical_idea_groups = {
 	innovativeness_ideas
 	offensive_ideas
 }
-historical_score = 25
 historical_units = {
 	anglofrench_line
 	chevauchee
@@ -31,51 +30,31 @@ historical_units = {
 	western_men_at_arms
 }
 monarch_names = {
-	"Anne #0" = -10
-	"Arthur #2" = 20
-	"Catherine #0" = -1
-	"Charles #1" = 5
-	"Claudine #0" = -10
-	"Corentin #0" = 0
-	"Deniel #0" = 0
-	"Dinan #0" = 0
-	"Erwan #0" = 0
-	"Fran0ois #0" = 60
-	"Ga0l #0" = 0
-	"Gilles #0" = 5
-	"Gwena0l #0" = 0
-	"Gwenneg #0" = 0
-	"Gwenola #0" = -1
-	"Gwenvred #0" = -10
-	"Gwilherm #0" = 0
-	"Henri #0" = 10
-	"Iouennic #0" = 0
-	"Isabelle #0" = -1
-	"Jean #4" = 40
-	"Lo0c #0" = 0
-	"Maeldan #0" = 0
-	"Marguerite #0" = -1
-	"Ma0lle #0" = -1
-	"Mikael #0" = 0
-	"Olier #0" = 0
-	"Padrig #0" = 0
-	"Paol #0" = 0
-	"Patern #0" = 0
-	"Pier #0" = 0
-	"Pierre #2" = 20
-	"Primel #0" = 0
-	"Richard #0" = 5
-	"Ronan #0" = 0
-	"Roparzh #0" = 0
-	"Servan #0" = 0
-	"Similien #0" = 0
-	"Sklaer #0" = 0
-	"Sulio #0" = 0
-	"Venec #0" = 0
-	"Visant #0" = 0
-	"Vonig #0" = 0
-	"Vougay #0" = 0
-	"Yann #0" = 0
+	"Alan #1" = 10
+	"Benedetta #0" = -1
+	"Bobbr #2" = 10
+	"Canann #0" = 0
+	"Canna #0" = -1
+	"Eadmund #0" = 0
+	"Erispoë #1" = 10
+	"Gaucelin #0" = 0
+	"Helena #0" = -1
+	"Herbert #0" = 0
+	"Ida #0" = -1
+	"Játvarðr #0" = 0
+	"Lancelin #0" = 0
+	"Maria #1" = -1
+	"Marthin #0" = 0
+	"Marçau #0" = 0
+	"NUKEMAN GAY LASH MAN #1" = -1
+	"Nominoë #1" = 10
+	"Salomon #1" = 10
+	"Savary #0" = 0
+	"Turquetil #0" = 0
+	"Valentina #0" = -1
+	"Walter #0" = 0
+	"William #0" = 0
+	"Æthelbald #0" = 0
 }
 leader_names = {
 	"Couasnon de la Barillière"

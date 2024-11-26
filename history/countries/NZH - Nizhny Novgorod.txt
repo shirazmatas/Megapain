@@ -1,16 +1,55 @@
 government = monarchy
-add_government_reform = principality
+add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = eastern
-religion = orthodox
-primary_culture = russian
-capital = 306
-1350.1.1= {
+religion = iconoclast
+primary_culture = uralic
+capital = 4254
+1444.11.11= {
 	monarch = {
-		name = "Dmitry I"
-		dynasty = "Rurikovich"
+		name = "Tyueykezhut"
+		dynasty = "af Nykøbing"
 		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 1409.8.9
+		religion = iconoclast
+		culture = uralic
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Vida"
+		dynasty = "Palemonaitis-Braslau"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = NZH
+		birth_date = 1421.2.25
+		death_date = 1481.2.25
+		female = yes
+		religion = iconoclast
+		culture = lithuanian
+	}
+	add_queen_personality = secretive_personality
+	add_queen_personality = silver_tongue_personality
+	heir = {
+		name = "Mads"
+		monarch_name = "Mads III"
+		dynasty = "af Nykøbing"
+		adm = 2
 		dip = 2
 		mil = 4
+		birth_date = 1433.4.3
+		death_date = 1498.4.3
+		claim = 89
+		religion = iconoclast
+		culture = uralic
 	}
+	add_heir_personality = industrious_personality
+	add_heir_personality = lawgiver_personality
+}
+1444.11.11= {
+	add_prestige = 70
+	add_treasury = 0
 }

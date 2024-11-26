@@ -2,6 +2,6 @@ version="1"
 tags={
 	"Converted From CKII"
 }
-name="The Mega Pain V2"
-supported_version="1.36.1"
-remote_file_id="3094024200"
+name="Mega Pain S2"
+supported_version="v1.37.5.0"
+remote_file_id="3372299705"

@@ -29,24 +29,18 @@ historical_units = {
 	western_men_at_arms
 }
 monarch_names = {
-	"Adalbert #0" = 0
-	"Afiya #0" = -1
-	"Barisone #1" = 10
-	"Bernhard #0" = 0
-	"Emma #0" = -1
-	"Gerold #1" = 10
-	"Gialetu #0" = 0
-	"Gomita #0" = 0
-	"Guantine #0" = 0
-	"Hartneid #0" = 0
-	"Herbert #0" = 0
-	"Izbor #0" = 0
-	"Marku #0" = 0
-	"Pascalina #0" = -1
-	"Rada #0" = -1
-	"Rothard #0" = 0
-	"Siegfried #1" = 10
-	"Udo #1" = 10
+	"Ausone #1" = 10
+	"Bishoi #1" = 10
+	"Dawlat #1" = 10
+	"Dionisi #0" = 0
+	"Gialetu #1" = 10
+	"Goffredu #1" = 10
+	"Habil #1" = 10
+	"Kriemhild #0" = -1
+	"Nicolau #1" = 10
+	"Sebustianu #1" = 10
+	"Tedu #1" = 10
+	"Torchitoriu #1" = 10
 }
 leader_names = {
 	"Alfieri"

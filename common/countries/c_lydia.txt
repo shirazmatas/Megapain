@@ -1,0 +1,21 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 167 74 151 }
+monarch_names = {
+	"Alexandros #1" = 10
+	"Basillike #0" = -1
+	"Burundai #0" = 0
+	"Chotan #0" = -1
+	"Damianos #0" = 0
+	"Dobroslav #0" = 0
+	"Eljigedei #1" = 10
+	"Eudoxios #0" = 0
+	"Iouliana #0" = -1
+	"Ioustinianos #0" = 0
+	"Konstantinos #0" = 0
+	"Kyra #0" = -1
+	"Leon #1" = 10
+	"Michael #1" = 10
+	"Suddhipala #0" = 0
+	"Theodoros #1" = 10
+}

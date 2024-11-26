@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 1
+technology_group = muslim
+religion = coptic
+primary_culture = dynamic-andalucian-berber-culture-num1
+capital = 4702
+mercantilism = 15
+add_accepted_culture = greek
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Aaliyah"
+		dynasty = "Harkonnen"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1410.10.25
+		female = yes
+		religion = coptic
+		culture = dynamic-andalucian-berber-culture-num1
+	}
+	add_ruler_personality = fertile_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+	queen = {
+		name = "Isaakios"
+		dynasty = "of Akhtamar"
+		adm = 4
+		dip = 3
+		mil = 5
+		country_of_origin = Z3T
+		birth_date = 1391.1.28
+		death_date = 1451.1.28
+		religion = coptic
+		culture = greek
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = intricate_web_weaver_personality
+	heir = {
+		name = "Adrir"
+		monarch_name = "Adrir"
+		dynasty = "Aaliyahid"
+		adm = 3
+		dip = 2
+		mil = 3
+		birth_date = 1433.9.28
+		death_date = 1498.9.28
+		claim = 89
+		religion = coptic
+		culture = dynamic-andalucian-berber-culture-num1
+	}
+	add_heir_personality = drunkard_personality
+	add_heir_personality = free_thinker_personality
+}
+1444.11.11= {
+	add_prestige = 78
+	add_treasury = 65
+}

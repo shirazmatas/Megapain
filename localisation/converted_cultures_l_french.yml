@@ -41,6 +41,7 @@
  carantanian:3 "Carantanienne"
  carthaginian:0 "Carthaginoise"
  carthaginian:3 "Carthaginienne"
+ caspian:0 "Caspienne"
  cat:3 "Chatte"
  cat_group:3 "Felidae"
  celtiberian:0 "Celtibérienne"
@@ -283,3 +284,14 @@
  hephthalite:0 "Shvetahûna"
  parsim:0 "Parsim"
  teimani:0 "Teimani"
+
+ # Fallen Eagle
+ hunnic:0 "Hunnique"
+ 
+ # More Bookmarks Plus
+ siculo_arabic:0 "Arabe Sicilien"
+ aslian:0 "Asliennes"
+ dayak:0 "Dayak"
+ katuic:0 "Katu"
+ kam_sui:0 "Kam-Sui"
+ hlai:0 "Hlai"

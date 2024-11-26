@@ -1,0 +1,7 @@
+
+
+sound = {
+    name = "charles_mogavia"
+    file = "moggovia.wav"
+	always_load = yes
+}

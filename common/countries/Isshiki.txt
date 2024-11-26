@@ -79,7 +79,6 @@ leader_names = {
 	"Inoue"
 	"Ishikawa"
 	"Isshiki"
-	"Issiki"
 	"Ito"
 	"Jinbo"
 	"Kamei"

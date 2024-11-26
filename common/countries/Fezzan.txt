@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = muslimgfx
+graphical_culture = easterngfx
 color = { 113 176 151 }
 revolutionary_colors = { 5 0 5 }
 historical_idea_groups = {
@@ -22,13 +22,24 @@ historical_units = {
 	muslim_mass_infantry
 }
 monarch_names = {
-	"Abdul #0" = 0
-	"Fadl #1" = 10
-	"Hawwa #0" = -1
-	"Mubarak #2" = 10
-	"Waagaan #0" = 0
-	"Ya'qub #0" = 0
-	"Youkhanna #1" = 10
+	"Anna #0" = -1
+	"Antonija #0" = -1
+	"Bartholomaios #0" = 0
+	"Dragutin #0" = 0
+	"Godimir #0" = 0
+	"Grana #0" = -1
+	"Haidar #0" = 0
+	"Ioustinos #0" = 0
+	"Masinissa #0" = 0
+	"Milutin #0" = 0
+	"Mircea #0" = 0
+	"Nazar #0" = 0
+	"Petar #1" = 10
+	"Philippa #0" = -1
+	"Radu #0" = 0
+	"Urtilian #0" = 0
+	"Yaghmurasen #0" = 0
+	"Yugerten #0" = 0
 }
 leader_names = {
 	"Adhoum"

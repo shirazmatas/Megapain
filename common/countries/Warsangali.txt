@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = africangfx
+graphical_culture = muslimgfx
 color = { 18 97 128 }
 revolutionary_colors = { 9 0 5 }
 historical_idea_groups = {
@@ -26,20 +26,14 @@ historical_units = {
 	westernized_adal
 }
 monarch_names = {
-	"Abu-Bakr #1" = 10
-	"Adan #0" = 0
-	"Adey #0" = -1
-	"Bozan #0" = 0
-	"Cawo #0" = -1
-	"Geesi #0" = -1
-	"Hamar #1" = 10
-	"Ibrahim #0" = 0
-	"Iftiin #0" = -1
-	"Ipek #0" = -1
-	"Isman #0" = 0
-	"Kamala #0" = -1
-	"Kedafu #0" = 0
-	"Umardin #0" = 0
+	"Arliqo #1" = 60
+	"Fadumo #0" = 40
+	"Khadija #0" = -1
+	"Muhammad #0" = 20
+	"Sadaf #0" = -1
+	"Sarjelle #0" = 60
+	"Umar #0" = 40
+	"Zaynab #0" = -1
 }
 leader_names = {
 	"Abdallah"

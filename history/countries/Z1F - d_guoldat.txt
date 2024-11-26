@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = swedish
+capital = 1777
+add_accepted_culture = sapmi
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Katarina"
+		dynasty = "Sparre"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 1380.1.9
+		female = yes
+		religion = catholic
+		culture = swedish
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Bijás"
+		dynasty = "Sparre"
+		adm = 4
+		dip = 4
+		mil = 3
+		country_of_origin = Z1F
+		birth_date = 1377.10.16
+		death_date = 1437.10.16
+		religion = catholic
+		culture = dynamic-norwegian-sapmi-culture-num1
+	}
+	add_queen_personality = pious_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Fólki"
+		monarch_name = "Fólki"
+		dynasty = "Sparre"
+		adm = 5
+		dip = 6
+		mil = 4
+		birth_date = 1404.8.21
+		death_date = 1469.8.21
+		claim = 89
+		religion = catholic
+		culture = dynamic-norwegian-sapmi-culture-num1
+	}
+	add_heir_personality = expansionist_personality
+	add_heir_personality = infertile_personality
+}
+1444.11.11= {
+	add_prestige = 64
+	add_treasury = 0
+}

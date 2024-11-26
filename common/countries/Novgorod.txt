@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = easterngfx
+graphical_culture = westerngfx
 color = { 97 126 37 }
 revolutionary_colors = { 8 13 0 }
 historical_idea_groups = {
@@ -31,20 +31,22 @@ historical_units = {
 	slavic_stradioti
 }
 monarch_names = {
-	"Aristarkh #0" = 0
-	"Bashar #0" = 0
-	"Grigoriy #0" = 0
-	"Iakov #0" = 0
-	"Malfrida #0" = -1
-	"Maria #0" = -1
-	"Marin #0" = 0
-	"Prebrana #0" = -1
-	"Simeon #0" = 0
-	"Sviatoslav #0" = 0
-	"Terentiy #0" = 0
-	"Vasiliy #0" = 0
-	"Volodar #0" = 0
-	"Çiltanesi #0" = -1
+	"Bagge #1" = 10
+	"Bror #0" = 0
+	"Elaiodora #0" = -1
+	"Etrek #0" = 0
+	"Gustav #0" = 0
+	"Ingfrid #1" = -1
+	"Kassu #0" = 0
+	"Laurentios #0" = 0
+	"Märta #0" = -1
+	"Pál #0" = 0
+	"Thomas #1" = 10
+	"Varvoi #0" = -1
+	"Vasilko #0" = 0
+	"Åke #1" = 10
+	"Õdön #0" = 0
+	"Örvar #0" = 0
 }
 leader_names = {
 	"Barashev"

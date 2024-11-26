@@ -1,0 +1,6 @@
+spriteTypes = {	
+	spriteType = {
+		name = "rumbling_eventPicture"
+		texturefile = "gfx//event_pictures//rumbling_eventPicture.dds"
+	}
+}

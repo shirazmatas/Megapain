@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = inuitgfx
+graphical_culture = asiangfx
 color = { 108 153 65 }
 revolutionary_colors = { 4 15 4 }
 historical_idea_groups = {
@@ -26,19 +26,22 @@ historical_units = {
 	steppe_uhlans
 }
 monarch_names = {
-	"Aepak #1" = 10
-	"Borte #0" = -1
-	"Bulughan #0" = 0
-	"Chotan #0" = -1
-	"Dayir #0" = 0
-	"Doregene #0" = -1
-	"Eljigedei #0" = 0
-	"Eshegen #1" = 10
-	"Gughlug #0" = 0
-	"Kadan #0" = 0
-	"Khulan #0" = -1
-	"Khutulan #0" = -1
-	"Khutulun #0" = -1
+	"Agne #0" = -1
+	"Begluk #0" = 0
+	"Boroghson #0" = 0
+	"Bulughan #0" = -1
+	"Börte #0" = -1
+	"Dakmo #0" = -1
+	"Euphrasia #0" = -1
+	"Iakobos #0" = 0
+	"Khadagan #0" = -1
+	"Khogaghchin #0" = -1
+	"Kurboga #0" = 0
+	"Kutlug #0" = 0
+	"Petronia #0" = -1
+	"Sokhatai #0" = -1
+	"Xuršîd #0" = 0
+	"Zorikto #0" = 0
 }
 leader_names = {
 	"Abaga"

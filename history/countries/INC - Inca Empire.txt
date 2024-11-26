@@ -33,7 +33,7 @@ unit_type = south_american
 		name = "Pachacuti Inca"
 		dynasty = "Hanan"
 		adm = 5
-		dip = 4
+		dip = 5
 		mil = 6
 		leader = { name = "Pachacuti"	type = general	fire = 3	shock = 5	manuever = 4	siege = 2 }
 	}

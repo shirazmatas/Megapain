@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = rajput_kingdom
+government_rank = 1
+technology_group = indian
+religion = animism
+primary_culture = dynamic-assamese-nepali-culture-num1
+capital = 2132
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Brahmapala"
+		dynasty = "Harshadevid"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 1412.8.31
+		religion = animism
+		culture = dynamic-assamese-nepali-culture-num1
+	}
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = kind_hearted_personality
+	queen = {
+		name = "Sarica"
+		dynasty = "Barsbegid"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = Z19
+		birth_date = 1405.2.10
+		death_date = 1465.2.10
+		female = yes
+		religion = tengri_pagan
+		culture = kirgiz
+	}
+	add_queen_personality = strict_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Balavarman"
+		monarch_name = "Balavarman II"
+		dynasty = "Harshadevid"
+		adm = 4
+		dip = 6
+		mil = 4
+		birth_date = 1430.9.29
+		death_date = 1495.9.29
+		claim = 89
+		religion = animism
+		culture = dynamic-assamese-nepali-culture-num1
+	}
+	add_heir_personality = conqueror_personality
+	add_heir_personality = just_personality
+}
+1444.11.11= {
+	add_prestige = 75
+	add_treasury = 60
+}

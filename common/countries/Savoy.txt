@@ -29,28 +29,16 @@ historical_units = {
 	western_men_at_arms
 }
 monarch_names = {
-	"Adèle #0" = -1
-	"Adémar #0" = 0
-	"Alessandro #0" = 0
-	"Alix #0" = -1
-	"Amedeo #0" = 0
-	"Amédée #2" = 10
-	"Benedetta #0" = -1
-	"Dobromil #0" = 0
-	"Eustache #0" = 0
-	"Felicia #0" = -1
-	"Godefroy #0" = 0
-	"Guichard #1" = 10
-	"Hugues #1" = 10
+	"Amédée #1" = 10
+	"Archambaud #1" = 10
+	"Bertrand #1" = 10
+	"Guallon #0" = 0
 	"Humbert #1" = 10
-	"Jaspert #1" = 10
-	"Jeanne #1" = -1
+	"Ide #1" = -1
+	"Natronai #0" = 0
 	"Oddon #1" = 10
-	"Perinne #0" = -1
-	"Pierre #1" = 10
-	"Savary #0" = 0
-	"Violante #1" = -1
-	"Walram #0" = 0
+	"Pietro #1" = 10
+	"Robin #1" = 10
 }
 leader_names = {
 	"Alfieri"

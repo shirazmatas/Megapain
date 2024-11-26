@@ -1,34 +1,55 @@
 government = monarchy
-add_government_reform = tanistry_reform
+add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
 religion = catholic
 primary_culture = irish
-capital = 4121
-1444.1.1= { #Magginis clan gained control of much of this province following the collapse of English control of the Earldom of Ulster. Date and name fictional as we haven't found a list of these Magginises.
+capital = 4380
+1444.11.11= {
 	monarch = {
-		name = "Art Roe"
-		dynasty = "Magginis"
-		adm = 2
-		dip = 2
-		mil = 2
+		name = "Rumann"
+		dynasty = "av Finnmark"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 1422.8.7
+		religion = catholic
+		culture = irish
 	}
-}
-1480.1.1= { #Also Fictional
-	monarch = {
-		name = "Donal"
-		dynasty = "Magginis"
-		adm = 2
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = drunkard_personality
+	queen = {
+		name = "Affraic"
+		dynasty = "de Killala"
+		adm = 3
 		dip = 2
-		mil = 3
+		mil = 4
+		country_of_origin = ULS
+		birth_date = 1422.5.18
+		death_date = 1482.5.18
+		female = yes
+		religion = catholic
+		culture = irish
 	}
-}
-1500.1.1= { #Date unknown
-	monarch = {
-		name = "Arthur"
-		dynasty = "Magginis"
-		adm = 2
-		dip = 2
+	add_queen_personality = pious_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Áindle"
+		monarch_name = "Áindle"
+		dynasty = "av Finnmark"
+		adm = 1
+		dip = 1
 		mil = 1
+		birth_date = 1439.8.4
+		death_date = 1504.8.4
+		claim = 89
+		religion = catholic
+		culture = irish
 	}
+	add_heir_personality = cruel_personality
+	add_heir_personality = inspiring_leader_personality
+}
+1444.11.11= {
+	add_prestige = 72
+	add_treasury = 62
 }

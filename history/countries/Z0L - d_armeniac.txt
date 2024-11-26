@@ -1,0 +1,12 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = chinese
+religion = tengri_pagan
+primary_culture = mongol
+capital = 328
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	add_prestige = 55
+	add_treasury = 49
+}

@@ -1,9 +1,0 @@
-
-
-song = {
-    name = "Pitbull - International Love"
-    chance = {
-        modifier = { factor = 1 }
-        modifier = { factor = 2 is_at_war = no }
-    }
-}

@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = siberian_tribe
+government_rank = 1
+technology_group = nomad_group
+religion = iconoclast
+primary_culture = siberian
+capital = 4689
+fixed_capital = 4689
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Inancha"
+		dynasty = "Solenoye"
+		adm = 4
+		dip = 4
+		mil = 2
+		birth_date = 1412.11.26
+		religion = iconoclast
+		culture = siberian
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = lawgiver_personality
+	queen = {
+		name = "Inyava"
+		dynasty = "Orsini"
+		adm = 2
+		dip = 3
+		mil = 4
+		country_of_origin = Z63
+		birth_date = 1416.7.8
+		death_date = 1476.7.8
+		female = yes
+		religion = tengri_pagan
+		culture = ostyaki
+	}
+	add_queen_personality = craven_personality
+	add_queen_personality = midas_touched_personality
+	heir = {
+		name = "Yokhunan"
+		monarch_name = "Yokhunan"
+		dynasty = "Borjigin"
+		adm = 4
+		dip = 6
+		mil = 6
+		birth_date = 1408.10.9
+		death_date = 1473.10.9
+		claim = 89
+		religion = iconoclast
+		culture = mongol
+	}
+	add_heir_personality = drunkard_personality
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11= {
+	add_prestige = 48
+	add_treasury = 47
+}

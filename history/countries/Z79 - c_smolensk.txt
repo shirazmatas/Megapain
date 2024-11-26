@@ -1,0 +1,59 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = orthodox
+primary_culture = dalmatian
+capital = 293
+fixed_capital = 293
+add_accepted_culture = dynamic-russian_culture-culture-num1
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Adrianos"
+		dynasty = "Kallierges"
+		adm = 5
+		dip = 5
+		mil = 5
+		birth_date = 1398.5.1
+		religion = orthodox
+		culture = dalmatian
+	}
+	add_ruler_personality = architectural_visionary_personality
+	add_ruler_personality = drunkard_personality
+	queen = {
+		name = "Rana"
+		dynasty = "Sus of Mongus"
+		adm = 5
+		dip = 3
+		mil = 6
+		country_of_origin = Z79
+		birth_date = 1398.1.15
+		death_date = 1458.1.15
+		female = yes
+		religion = orthodox
+		culture = berber
+	}
+	add_queen_personality = just_personality
+	add_queen_personality = strict_personality
+	heir = {
+		name = "Dragoslava"
+		monarch_name = "Dragoslava"
+		dynasty = "Kallierges"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1423.11.11
+		death_date = 1488.11.11
+		female = yes
+		claim = 89
+		religion = orthodox
+		culture = dalmatian
+	}
+	add_heir_personality = conqueror_personality
+	add_heir_personality = expansionist_personality
+}
+1444.11.11= {
+	add_prestige = 75
+	add_treasury = 42
+}

@@ -1,120 +1,57 @@
 government = monarchy
-add_government_reform = autocracy_reform
+add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = eastern
-religion = orthodox
-primary_culture = georgian
-capital = 2204
-1444.1.1= {
+religion = coptic
+primary_culture = pontic_greek
+capital = 4303
+add_accepted_culture = georgian
+1444.11.11= {
 	monarch = {
-		name = "Aghbugha II"
-		dynasty = "Jaqeli"
-		birth_date = 1425.1.1
-		adm = 3
-		dip = 2
+		name = "Eirenaios"
+		dynasty = "Melissenos"
+		adm = 4
+		dip = 3
 		mil = 4
+		birth_date = 1409.12.12
+		religion = coptic
+		culture = pontic_greek
 	}
+	add_ruler_personality = martial_educator_personality
+	add_ruler_personality = naive_personality
+	queen = {
+		name = "Anna"
+		dynasty = "Melissenos"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = SME
+		birth_date = 1410.11.8
+		death_date = 1470.11.8
+		female = yes
+		religion = coptic
+		culture = greek
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = free_thinker_personality
 	heir = {
-		name = "Qvarqvare"
-		monarch_name = "Qvarqvare II"
-		dynasty = "Jaqeli"
-		birth_date = 1416.1.1
-		death_date = 1498.1.1
-		claim = 95
-		adm = 3
-		dip = 5
-		mil = 4
+		name = "Athanasia"
+		monarch_name = "Athanasia"
+		dynasty = "Melissenos"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 1442.10.31
+		death_date = 1507.10.31
+		female = yes
+		claim = 89
+		religion = coptic
+		culture = greek
 	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = lawgiver_personality
-	add_heir_personality = intricate_web_weaver_personality
-	every_province = {
-		limit = { region = persia_region }
-		ROOT = { discover_province = PREV }
-	}
-	discover_province = 4170 
-	discover_province = 4172
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
 }
-1451.1.1= {
-	monarch = {
-		name = "Qvarqvare II"
-		dynasty = "Jaqeli"
-		adm = 3
-		dip = 5
-		mil = 4
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = intricate_web_weaver_personality
-}
-1498.1.1= {
-	monarch = {
-		name = "Kaikhosro I"
-		dynasty = "Jaqeli"
-		adm = 3
-		dip = 2
-		mil = 2
-	}
-}
-1500.1.1= {
-	monarch = {
-		name = "Mzetchabuki"
-		dynasty = "Jaqeli"
-		adm = 2
-		dip = 2
-		mil = 1
-	}
-}
-1515.1.1= {
-	monarch = {
-		name = "Manuchar I"
-		dynasty = "Jaqeli"
-		adm = 2
-		dip = 3
-		mil = 2
-	}
-}
-1518.1.1= {
-	monarch = {
-		name = "Qvarqvare III"
-		dynasty = "Jaqeli"
-		adm = 1
-		dip = 3
-		mil = 1
-	}
-}
-1535.1.1= {
-	monarch = {
-		name = "Kaikhosro II"
-		dynasty = "Jaqeli"
-		adm = 1
-		dip = 2
-		mil = 1
-	}
-}
-1573.1.1= {
-	monarch = {
-		name = "Qvarqvare IV"
-		dynasty = "Jaqeli"
-		adm = 2
-		dip = 2
-		mil = 3
-	}
-}
-1581.1.1= {
-	monarch = {
-		name = "Manuchar II"
-		dynasty = "Jaqeli"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-}
-1607.1.1= {
-	monarch = {
-		name = "Manuchar III"
-		dynasty = "Jaqeli"
-		adm = 3
-		dip = 3
-		mil = 2
-	}
+1444.11.11= {
+	add_prestige = 77
+	add_treasury = 58
 }

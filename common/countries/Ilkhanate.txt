@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
 graphical_culture = asiangfx
-color = { 62 129 20 }
+color = { 232 48 2 }
 historical_idea_groups = {
 	humanist_ideas
 	trade_ideas
@@ -25,19 +25,29 @@ historical_units = {
 	steppe_uhlans
 }
 monarch_names = {
-	"Altan #0" = 0
-	"Atrak #0" = 0
-	"Bartan #0" = 0
-	"Chotan #0" = -1
-	"Guyug #0" = 0
-	"Ibakha #0" = -1
-	"Inancha #0" = 0
-	"Khudu #0" = 0
-	"Kogsegu #0" = 0
-	"Mandukhai #0" = -1
-	"Odchigin #0" = 0
-	"Töregene #0" = -1
-	"Yesugun #0" = -1
+	"Abaqa #1" = 20
+	"Abu Sa'id #1" = 20
+	"Anushirwan #1" = 20
+	"Arghun #1" = 20
+	"Arpa #1" = 20
+	"Bahar Banu #0" = -1
+	"Baydu #1" = 20
+	"Fatin #1" = -1
+	"Gaykhatu #1" = 20
+	"Gazan #2" = 20
+	"Hulagu #1" = 20
+	"Jahan #0" = 10
+	"Jahan Tem0r #1" = 20
+	"Jahanara #0" = -1
+	"Muhammad #1" = 20
+	"Mumtaz #0" = -1
+	"Musa #1" = 20
+	"Oljeitu #1" = 20
+	"Roshanara #0" = -1
+	"Sati Beg #1" = 20
+	"Solayman #1" = 20
+	"Tekuder #1" = 20
+	"Tem0r #0" = 10
 }
 leader_names = {
 	"Abbâs"

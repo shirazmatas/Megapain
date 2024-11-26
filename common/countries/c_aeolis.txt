@@ -1,0 +1,14 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 121 50 204 }
+monarch_names = {
+	"Batu #0" = 0
+	"Dorothea #0" = -1
+	"Evangelos #0" = 0
+	"Hektorios #0" = 0
+	"Kosmas #0" = 0
+	"Orbei #0" = -1
+	"Oronartai #0" = 0
+	"Philotheos #0" = 0
+	"Traianos #0" = 0
+}

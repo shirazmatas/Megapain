@@ -1,0 +1,23 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 153 153 50 }
+monarch_names = {
+	"Bassarou #2" = 10
+	"Bisi #0" = 0
+	"Demba #1" = 10
+	"Deye #0" = -1
+	"Djeneba #0" = -1
+	"Fatoumata #0" = -1
+	"Hakiem #0" = 0
+	"Kusoy #0" = 0
+	"Mahmud #0" = 0
+	"Morobani #1" = 10
+	"Paye #0" = 0
+	"Safiatou #0" = -1
+	"Shujah #0" = 0
+	"Tekhaye #0" = -1
+	"Umar #1" = 10
+	"Wadanh #0" = 0
+	"Ya'qub #0" = 0
+	"Yaqub #1" = 10
+}

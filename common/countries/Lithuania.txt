@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = easterngfx
+graphical_culture = inuitgfx
 color = { 154 69 116 }
 revolutionary_colors = { 9 0 5 }
 historical_idea_groups = {
@@ -30,32 +30,20 @@ historical_units = {
 	slavic_stradioti
 }
 monarch_names = {
-	"Cirulis #1" = 10
-	"Dannila #0" = -1
-	"Dravenis #0" = 0
-	"Gintare #0" = -1
-	"Imanta #1" = 10
-	"Jevna #0" = -1
-	"Jogaila #1" = 10
-	"Kernius #1" = 10
-	"Kiras #1" = 10
-	"Kukovaitis #1" = 10
-	"Kunos #1" = 10
-	"Laptsui #0" = -1
-	"Mantvydas #2" = 10
-	"Manvydas #1" = 10
-	"Mstislav #0" = 0
-	"Palemon #1" = 10
-	"Peyman #0" = -1
-	"Pukuveras #1" = 10
-	"Sarunas #0" = 0
-	"Skirmantas #1" = 10
-	"Traidenis #0" = 0
-	"Utenis #1" = 10
-	"Virmantas #0" = 0
-	"Visvaldis #0" = 0
-	"Vsevolod #0" = 0
-	"Šventaragis #1" = 10
+	"Galene #0" = -1
+	"Gunda #0" = -1
+	"Ihalemb #0" = 0
+	"Kai #1" = -1
+	"Karuvald #0" = 0
+	"Koit #0" = 0
+	"Lible #1" = 10
+	"Ohetõiv #0" = 0
+	"Ott #1" = 10
+	"Sergonis #1" = 10
+	"Tornik #0" = 0
+	"Ulitis #1" = 10
+	"Vootele #1" = 10
+	"Ülle #1" = -1
 }
 leader_names = {
 	"Alseniskis"

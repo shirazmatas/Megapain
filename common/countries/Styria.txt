@@ -29,26 +29,30 @@ historical_units = {
 	western_men_at_arms
 }
 monarch_names = {
-	"Adalbero #1" = 10
 	"Adalbert #1" = 10
-	"Baldomar #0" = 0
-	"Cothilda #0" = -1
-	"Demetrio #1" = 10
-	"Dietrich #0" = 0
-	"Ekbert #0" = 0
-	"Emelrich #0" = 0
+	"Amaury #0" = 0
+	"Arnold #0" = 0
+	"Bedrich #0" = 0
+	"Berengar #1" = 10
+	"Berthold #0" = 0
+	"Elisabeth #0" = -1
 	"Ernst #1" = 10
-	"Gabriela #0" = -1
+	"Gerbirg #0" = -1
+	"Guntpolt #1" = 10
+	"Heilwich #0" = 0
 	"Heinrich #1" = 10
-	"Júlia #0" = -1
-	"Kuno #0" = 0
+	"Hicela #0" = -1
+	"Jakusz #0" = 0
 	"Leopold #1" = 10
-	"Mszczuj #0" = 0
-	"Otakar #3" = 10
-	"Pandolfo #1" = 10
-	"Tunca #0" = -1
-	"Ugonino #1" = 10
-	"Viktor #0" = 0
+	"Otakar #2" = 10
+	"Pilihilde #0" = -1
+	"Ramhilde #0" = -1
+	"Richer #0" = 0
+	"Stephan #1" = 10
+	"Susanna #0" = -1
+	"Tuta #0" = -1
+	"Udo #0" = 0
+	"Wernher #0" = 0
 }
 leader_names = {
 	"Absenger"

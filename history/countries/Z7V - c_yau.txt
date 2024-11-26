@@ -1,0 +1,44 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = sub_saharan
+religion = sunni
+primary_culture = kanuri
+capital = 1157
+fixed_capital = 1157
+religious_school = hanbali_school
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Aziza"
+		dynasty = "Teda"
+		adm = 5
+		dip = 3
+		mil = 4
+		birth_date = 1391.4.14
+		female = yes
+		religion = sunni
+		culture = kanuri
+	}
+	add_ruler_personality = architectural_visionary_personality
+	add_ruler_personality = fertile_personality
+	heir = {
+		name = "Abubakar"
+		monarch_name = "Abubakar"
+		dynasty = "Garoua"
+		adm = 4
+		dip = 2
+		mil = 2
+		birth_date = 1433.2.6
+		death_date = 1498.2.6
+		claim = 89
+		religion = sunni
+		culture = kanuri
+	}
+	add_heir_personality = kind_hearted_personality
+	add_heir_personality = pious_personality
+}
+1444.11.11= {
+	add_prestige = 76
+	add_treasury = 48
+}

@@ -1,6 +1,0 @@
-
-sound = {
-    name = yoan_usa
-    file = "yoan_usa.wav"
-	always_load = yes
-}

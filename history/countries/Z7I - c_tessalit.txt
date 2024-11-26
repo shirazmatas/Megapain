@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = berber
+capital = 1130
+fixed_capital = 1130
+religious_school = hanbali_school
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Uregh"
+		dynasty = "Hafsid"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 1394.7.5
+		religion = sunni
+		culture = berber
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = kind_hearted_personality
+	queen = {
+		name = "Busilla"
+		dynasty = "de Tamentit"
+		adm = 4
+		dip = 2
+		mil = 3
+		country_of_origin = Z7I
+		birth_date = 1399.8.14
+		death_date = 1459.8.14
+		female = yes
+		religion = sunni
+		culture = normand
+	}
+	add_queen_personality = kind_hearted_personality
+	add_queen_personality = naive_personality
+	heir = {
+		name = "Az'ar"
+		monarch_name = "Az'ar"
+		dynasty = "Hafsid"
+		adm = 4
+		dip = 6
+		mil = 4
+		birth_date = 1420.11.14
+		death_date = 1485.11.14
+		claim = 89
+		religion = sunni
+		culture = berber
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = tolerant_personality
+}
+1444.11.11= {
+	add_prestige = 66
+	add_treasury = 36
+}

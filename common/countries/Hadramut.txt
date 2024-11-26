@@ -25,23 +25,20 @@ historical_units = {
 	topchis_artillery
 }
 monarch_names = {
-	"Aghlab #0" = 0
-	"Ali #1" = 10
-	"Faghira #0" = -1
-	"Firuz #0" = 0
+	"Asiya #0" = -1
+	"Azam #1" = 10
+	"Fadl #1" = 10
+	"Fariborz #0" = 0
+	"Faruk #1" = 10
+	"Hafiz #0" = 0
 	"Husam #0" = 0
-	"Ibrahim #2" = 10
-	"Mala #0" = -1
-	"Muhammad #1" = 10
-	"Nazaneen #0" = -1
+	"Mahmud #0" = 0
+	"Mukhtar #0" = 0
+	"Murad #1" = 10
+	"Qamara #0" = -1
+	"Rashida #0" = -1
 	"Sabba #0" = -1
-	"Saghar #0" = -1
-	"Samir #0" = 0
-	"Shokouh #0" = -1
-	"Shola #0" = -1
-	"Souzan #0" = -1
-	"Tìsemir #0" = 0
-	"Uways #1" = 10
+	"Uways #0" = 0
 }
 leader_names = {
 	"Ali"

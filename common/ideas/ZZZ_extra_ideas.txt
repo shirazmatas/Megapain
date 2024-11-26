@@ -294,7 +294,10 @@ HSA_ideas = {
 
 MLO_ideas = {
 	trigger = {
-		tag = MLO
+	OR = {
+			tag = MLO
+			tag = Z0C
+		}
 	}
 }
 

@@ -1,15 +1,56 @@
 government = monarchy
-add_government_reform = appanage_reform
+add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
 religion = catholic
 primary_culture = occitain
 capital = 196
-fixed_capital = 196
-add_accepted_culture = occitain
-1515.1.1= { government = monarchy
-add_government_reform = autocracy_reform }
-1560.1.1= { religion = reformed }
-1589.8.3= { set_legacy_government = administrative_monarchy }
-1661.3.9= { government = monarchy
-add_government_reform = autocracy_reform }
+add_accepted_culture = aquitaine
+1444.11.11= {
+	monarch = {
+		name = "Clemència"
+		dynasty = "Toulouse-Lèze"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1412.4.5
+		female = yes
+		religion = catholic
+		culture = occitain
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = scholar_personality
+	queen = {
+		name = "Heribert"
+		dynasty = "von Meran"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = TOU
+		birth_date = 1410.9.5
+		death_date = 1470.9.5
+		religion = catholic
+		culture = dynamic-bavarian-culture-num1
+	}
+	add_queen_personality = pious_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Rogier"
+		monarch_name = "Rogier"
+		dynasty = "Toulouse-Lèze"
+		adm = 1
+		dip = 2
+		mil = 1
+		birth_date = 1440.12.19
+		death_date = 1505.12.19
+		claim = 89
+		religion = catholic
+		culture = occitain
+	}
+	add_heir_personality = cruel_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 70
+	add_treasury = 62
+}

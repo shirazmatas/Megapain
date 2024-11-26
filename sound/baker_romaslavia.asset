@@ -1,0 +1,6 @@
+
+sound = {
+    name = baker_romaslavia
+    file = "baker_romaslavia.wav"
+	always_load = yes
+}

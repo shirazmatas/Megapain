@@ -31,18 +31,22 @@ historical_units = {
 	slavic_stradioti
 }
 monarch_names = {
-	"Boris #2" = 10
-	"Davit #0" = 0
-	"Feodora #1" = -1
-	"Gradislava #0" = -1
-	"Guta #0" = -1
-	"Kirill #0" = 0
-	"Nizâr #0" = 0
-	"Rogneda #0" = -1
-	"Stepan #0" = 0
-	"Uzur #0" = 0
-	"Yaropolk #1" = 10
-	"Ágnes #0" = -1
+	"Agafya #0" = -1
+	"Aotõiv #1" = 10
+	"Aristarkh #0" = 0
+	"Briachislav #1" = 10
+	"Daniel #0" = 0
+	"Feodosia #0" = -1
+	"Irina #0" = -1
+	"Iziaslav #1" = 10
+	"Jamila #0" = -1
+	"Leelo #0" = -1
+	"Mitrofan #0" = 0
+	"Ohevald #1" = 10
+	"Sviatoslav #2" = 10
+	"Volodar #0" = 0
+	"Vseslav #2" = 10
+	"Zarmihr #0" = 0
 }
 leader_names = {
 	"Aladyin"

@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = indian
+religion = sunni
+primary_culture = sindhi
+capital = 4505
+religious_school = hanafi_school
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Taslima"
+		dynasty = "Samma"
+		adm = 3
+		dip = 2
+		mil = 4
+		birth_date = 1406.3.19
+		female = yes
+		religion = sunni
+		culture = sindhi
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = righteous_personality
+	queen = {
+		name = "Kaya"
+		dynasty = "Seljuk"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = Z3K
+		birth_date = 1397.12.6
+		death_date = 1457.12.6
+		religion = sunni
+		culture = persian
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = lawgiver_personality
+	heir = {
+		name = "Mahmud"
+		monarch_name = "Mahmud"
+		dynasty = "Ghaznavid"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1394.12.21
+		death_date = 1459.12.21
+		claim = 89
+		religion = sunni
+		culture = persian
+	}
+	add_heir_personality = benevolent_personality
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11= {
+	add_prestige = 79
+	add_treasury = 32
+}

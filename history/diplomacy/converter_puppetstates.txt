@@ -117,32 +117,16 @@ dependency=
 
 vassal=
 {
-	first="ARB"
-	second="Z1I"
+	first="Z0A"
+	second="Z07"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
 vassal=
 {
-	first="ARM"
-	second="Z15"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-vassal=
-{
-	first="BNG"
-	second="Z2C"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-vassal=
-{
-	first="GLH"
-	second="SIB"
+	first="DLH"
+	second="Z1T"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
@@ -150,55 +134,48 @@ vassal=
 vassal=
 {
 	first="KRK"
-	second="Z1U"
+	second="Z3D"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
 vassal=
 {
-	first="LOT"
-	second="FKN"
+	first="NOR"
+	second="Z1F"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
 vassal=
 {
-	first="MAD"
-	second="KND"
+	first="BOH"
+	second="KRA"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
 vassal=
 {
-	first="MAD"
-	second="Z27"
+	first="BOH"
+	second="SIL"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
 vassal=
 {
-	first="RJP"
-	second="BND"
+	first="Z0C"
+	second="FER"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
 vassal=
 {
-	first="SYR"
-	second="Z0H"
+	first="Z0C"
+	second="GEN"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
-vassal=
-{
-	first="GER"
-	second="FRI"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}

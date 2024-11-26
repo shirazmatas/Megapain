@@ -26,25 +26,26 @@ historical_units = {
 	topchis_artillery
 }
 monarch_names = {
-	"Asan #0" = -1
-	"Bawan #0" = -1
-	"Erdešîr #0" = 0
-	"Estêre #0" = -1
-	"Feriburz #2" = 10
-	"Fezlun #0" = 0
-	"Gholam #0" = 0
-	"Gulçiçek #0" = -1
-	"Mahtab #0" = -1
-	"Mihemed #0" = 0
-	"Minoo #0" = -1
-	"Perçem #0" = -1
-	"Xušyar #0" = 0
-	"Zerî #0" = -1
-	"Zia #1" = 10
-	"Zoya #0" = -1
-	"Šahruz #0" = 0
-	"Šarvin #1" = 10
-	"Šayan #2" = 10
+	"Ala'i #2" = 10
+	"Artuk #0" = 0
+	"Aurang #0" = 0
+	"Blush #0" = 0
+	"Bozan #0" = 0
+	"Elham #0" = -1
+	"Gumus #0" = -1
+	"Hoelun #0" = -1
+	"Kinah #0" = -1
+	"Mutlu #0" = -1
+	"Orhan #0" = 0
+	"Shila #1" = 10
+	"Suleyman #0" = 0
+	"Toghan-Shah #0" = 0
+	"Turhan #0" = 0
+	"Ubayd #0" = 0
+	"Umay #0" = -1
+	"Vishtasb #0" = 0
+	"Yeldem #0" = -1
+	"Çagri #0" = 0
 }
 leader_names = {
 	"Ali Sherwan"

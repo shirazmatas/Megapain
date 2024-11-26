@@ -1,61 +1,56 @@
 government = monarchy
-add_government_reform = tanistry_reform
+add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
 religion = catholic
 primary_culture = irish
-capital = 4378
-1428.1.1= {
+capital = 375
+1444.11.11= {
 	monarch = {
-		name = "Domhnall an Dana"
-		dynasty = "MacCarthy"
+		name = "Conlang II"
+		dynasty = "Briain"
 		adm = 3
 		dip = 3
 		mil = 3
+		birth_date = 1428.1.7
+		religion = catholic
+		culture = irish
 	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = pious_personality
+	queen = {
+		name = "Wulfwynn"
+		dynasty = "of Devon"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = MCM
+		birth_date = 1423.10.4
+		death_date = 1483.10.4
+		female = yes
+		religion = catholic
+		culture = anglosaxon
+	}
+	add_queen_personality = malevolent_personality
+	add_queen_personality = obsessive_perfectionist_personality
+	heir = {
+		name = "Conchenn"
+		monarch_name = "Conchenn"
+		dynasty = "Briain"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1397.8.19
+		death_date = 1462.8.19
+		female = yes
+		claim = 89
+		religion = catholic
+		culture = irish
+	}
+	add_heir_personality = pious_personality
+	add_heir_personality = strict_personality
 }
-1469.1.1= {
-	monarch = {
-		name = "Tadgh Liath"
-		dynasty = "MacCarthy"
-		adm = 3
-		dip = 4
-		mil = 2
-	}
-}
-1503.1.1= {
-	monarch = {
-		name = "Domhnall"
-		dynasty = "MacCarthy"
-		adm = 3
-		dip = 4
-		mil = 2
-	}
-}
-1508.1.1= {
-	monarch = {
-		name = "Cormac Ladhrach"
-		dynasty = "MacCarthy"
-		adm = 3
-		dip = 4
-		mil = 2
-	}
-}
-1516.1.1= {
-	monarch = {
-		name = "Domhnall an Druiminin"
-		dynasty = "MacCarthy"
-		adm = 3
-		dip = 4
-		mil = 2
-	}
-}
-1558.1.1= {
-	monarch = {
-		name = "Domhnall"
-		dynasty = "MacCarthy"
-		adm = 3
-		dip = 4
-		mil = 2
-	}
+1444.11.11= {
+	add_prestige = 61
+	add_treasury = 67
 }

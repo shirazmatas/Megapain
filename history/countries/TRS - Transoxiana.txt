@@ -6,6 +6,7 @@ religion = sunni
 primary_culture = uzbehk
 capital = 454
 religious_school = hanafi_school
+add_army_professionalism = 0.05
 1409.5.13= {
 	monarch = {
 		name = "Ulugh Beg"

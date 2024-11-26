@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = muslimgfx
+graphical_culture = asiangfx
 color = { 212 80 154 }
 historical_idea_groups = {
 	defensive_ideas
@@ -25,37 +25,21 @@ historical_units = {
 	topchis_artillery
 }
 monarch_names = {
-	"Abdullah #0" = 10
-	"Ahmad #0" = 30
-	"Aliqulu #0" = 10
-	"Amanullah #0" = 10
-	"Atiya #0" = -1
-	"Badr #0" = 20
-	"Dilaram #0" = -1
-	"Haji #0" = 10
-	"Hassan #0" = 10
-	"Hossein #0" = 20
-	"Iskender #0" = 10
-	"Jafar #0" = 10
-	"Kazim #0" = 10
-	"Khayr al-Nisa #0" = -1
-	"Maryam #0" = -1
-	"Mirza #0" = 10
-	"Mohammad #0" = 30
-	"Mohammadreza #0" = 10
-	"Murtuzaqulu #0" = 10
-	"Najaf #0" = 30
-	"Nasir #0" = 10
-	"Nazarali #0" = 10
-	"Pari #0" = -1
-	"Razia #0" = -1
-	"Sadiq #0" = 10
-	"Samed #0" = 10
-	"Shahbanu #0" = -1
-	"Shahbaz #0" = 30
-	"Tajlu #0" = -1
-	"Teymur #0" = 5
-	"Zulfaqar #0" = 10
+	"Agul #0" = 0
+	"Anastasia #0" = -1
+	"Badai #0" = 0
+	"Bilal Hecebani #1" = 10
+	"Chitska #0" = -1
+	"Isidoros #0" = 0
+	"Khogaghchin #0" = -1
+	"Khutulun #0" = -1
+	"Mamlan #1" = 10
+	"Muhammad #1" = 10
+	"Nawid #1" = 10
+	"Philaretos #0" = 0
+	"Vahusdan #1" = 10
+	"Yahya #1" = 10
+	"Zahir #0" = 0
 }
 leader_names = {
 	"Ahrari"

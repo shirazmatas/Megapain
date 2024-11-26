@@ -22,28 +22,26 @@ historical_units = {
 	muslim_mass_infantry
 }
 monarch_names = {
-	"Aamira #0" = -1
 	"Abu-Bakr #1" = 10
-	"Ahamatu #0" = 0
+	"Alfonso #0" = 0
 	"Ali #1" = 10
-	"Amri #1" = 10
-	"Anaba #1" = 10
-	"Balzhinima #0" = 0
-	"Chisom #0" = -1
-	"Dawud #0" = 0
-	"Ibrahim #3" = 10
+	"Awzal #0" = 0
+	"Ayshuna #0" = -1
+	"Bashir #0" = 0
+	"Eormenred #0" = 0
+	"Fariza #0" = -1
 	"Idris #2" = 10
-	"Ina #0" = -1
-	"Isalcas #0" = 0
+	"Lewnis #0" = 0
+	"Massiva #0" = 0
 	"Muhammad #1" = 10
-	"Raphael #0" = 0
-	"Saim #0" = 0
-	"Sia #0" = -1
-	"Tayri #0" = -1
-	"Thuriya #0" = -1
-	"Vahid #0" = 0
+	"Nassib #0" = 0
+	"Onni #0" = 0
+	"Radiya #0" = -1
+	"Vlad #1" = 10
+	"Ya'ish #3" = 10
 	"Yahya #3" = 10
-	"Zunagha #0" = -1
+	"Z'diant #0" = -1
+	"A'isha #0" = -1
 }
 leader_names = {
 	"Alami"

@@ -1,0 +1,6 @@
+spriteTypes = {	
+	spriteType = {
+		name = "handsome_squidward_eventPicture"
+		texturefile = "gfx//event_pictures//handsome_squidward_eventPicture.dds"
+	}
+}

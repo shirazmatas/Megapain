@@ -1,0 +1,23 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 150 203 214 }
+monarch_names = {
+	"Achigh #0" = 0
+	"Buri #0" = 0
+	"Chinzhay #0" = -1
+	"Dergun #0" = 0
+	"Kokachin #0" = -1
+	"Kunyavka #0" = -1
+	"Kya #1" = 10
+	"Nyal'ka #1" = -1
+	"Nylog #0" = 0
+	"Olota #1" = -1
+	"Parush #0" = 0
+	"Sektev #0" = 0
+	"Sinyava #0" = -1
+	"Tsydyp #0" = 0
+	"Tugan #1" = 10
+	"Tyueykezhut #2" = 10
+	"Varaka #1" = 10
+	"Zhuneg #1" = 10
+}

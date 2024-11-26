@@ -26,22 +26,24 @@ historical_units = {
 	steppe_uhlans
 }
 monarch_names = {
-	"Chindyapa #0" = -1
-	"Chuga #0" = 0
-	"Dobrinya #0" = 0
-	"Khotsa #1" = 10
-	"Liyava #0" = -1
-	"Nydog #0" = 0
-	"Nyumina #0" = -1
-	"Odeg #0" = 0
-	"Ordava #0" = -1
-	"Oshama #1" = 10
-	"Oshypel #0" = 0
-	"Ovtay #0" = 0
+	"Anava #0" = -1
+	"Biyar #0" = 0
+	"Dergun #0" = 0
+	"Inyava #0" = -1
+	"Irter #1" = 10
+	"Kezhevat #0" = 0
+	"Kirdyava #0" = -1
+	"Kuaz #1" = 10
+	"Pakstyan #1" = 10
+	"Parush #0" = 0
+	"Pivtsay #0" = 0
 	"Ravzhava #0" = -1
-	"Setyamka #0" = 0
-	"Tuhan #1" = 10
-	"Tundya #0" = -1
+	"Spira #1" = 10
+	"Syrka #1" = 10
+	"Tugan #1" = 10
+	"Turush #0" = 0
+	"Tyueykezhut #0" = 0
+	"Viryas #0" = 0
 }
 leader_names = {
 	"Arinin"

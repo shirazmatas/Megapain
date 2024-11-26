@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = sub_saharan
+religion = sunni
+primary_culture = kanuri
+capital = 1158
+fixed_capital = 1158
+religious_school = hanbali_school
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Ahmed"
+		dynasty = "Udure"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1414.6.19
+		religion = sunni
+		culture = kanuri
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = tolerant_personality
+	queen = {
+		name = "Tere"
+		dynasty = "Giragi"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = Z5X
+		birth_date = 1413.7.10
+		death_date = 1473.7.10
+		female = yes
+		religion = sunni
+		culture = kanuri
+	}
+	add_queen_personality = bold_fighter_personality
+	add_queen_personality = kind_hearted_personality
+	heir = {
+		name = "Udure"
+		monarch_name = "Udure II"
+		dynasty = "Udure"
+		adm = 6
+		dip = 6
+		mil = 5
+		birth_date = 1425.10.9
+		death_date = 1490.10.9
+		claim = 89
+		religion = sunni
+		culture = zaghawa
+	}
+	add_heir_personality = kind_hearted_personality
+	add_heir_personality = tolerant_personality
+}
+1444.11.11= {
+	add_prestige = 64
+	add_treasury = 51
+}

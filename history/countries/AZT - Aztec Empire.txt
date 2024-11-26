@@ -1,10 +1,11 @@
 government = monarchy
-add_government_reform = autocracy_reform
+add_government_reform = aztec_empire_reform
 government_rank = 1
 technology_group = mesoamerican
 religion = nahuatl
 primary_culture = aztek
 capital = 852
+fixed_capital = 852
 add_army_professionalism = 0.1
 1391.1.1= {
 	monarch = {
@@ -80,8 +81,10 @@ add_army_professionalism = 0.1
 		adm = 4
 		dip = 3
 		mil = 5
-		leader = {	name = "Moctezuma I"           	type = general	fire = 3	shock = 4	manuever = 4	siege = 0}
 	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = legendary_conqueror_personality
+	set_ruler_flag = azt_montezuma
 }
 1440.8.14= {
 	heir = {

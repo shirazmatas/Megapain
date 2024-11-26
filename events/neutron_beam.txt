@@ -1,13 +1,13 @@
-namestate = neutron_beam
+namespace = neutron_beam
 country_event = {
 	id = neutron_beam.1
 	title = neutron_beam.t
 	desc = neutron_beam.d
-	picture = PILLAR_OF_ETERNITY_ANIMATED_eventPicture
+	picture = rumbling_eventPicture
 
 
 	trigger = {
-		OR = { tag = ADU tag = ENG tag = FRA tag = GEO tag = GER tag = KIE tag = ORI tag = KHA }
+		OR = { tag = MOR tag = ENG tag = FRA tag = BAV tag = Z0C tag = GMA tag = FRI tag = Z0A tag = RIG tag = EGY tag = ASK tag = GBR tag = MLO tag = BOH }
 		NOT = { has_country_flag = neutron_beam_fired }
 	}
 	mean_time_to_happen = {
@@ -16,6 +16,7 @@ country_event = {
 	
 	immediate = {
 		set_country_flag = neutron_beam_fired
+		play_sound = rumbling
 	}
 	
 	option = {

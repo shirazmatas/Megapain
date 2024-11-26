@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = sub_saharan
+religion = sunni
+primary_culture = kanuri
+capital = 2277
+religious_school = hanbali_school
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Mahmoud"
+		dynasty = "Kunkuna"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1399.7.31
+		religion = sunni
+		culture = kanuri
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = fierce_negotiator_personality
+	queen = {
+		name = "Tayri"
+		dynasty = "Umarid"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = Z3U
+		birth_date = 1416.9.16
+		death_date = 1476.9.16
+		female = yes
+		religion = sunni
+		culture = berber
+	}
+	add_queen_personality = fertile_personality
+	add_queen_personality = pious_personality
+	heir = {
+		name = "Salmama"
+		monarch_name = "Salmama"
+		dynasty = "Kunkuna"
+		adm = 5
+		dip = 4
+		mil = 6
+		birth_date = 1422.8.21
+		death_date = 1487.8.21
+		claim = 89
+		religion = sunni
+		culture = kanuri
+	}
+	add_heir_personality = conqueror_personality
+	add_heir_personality = industrious_personality
+}
+1444.11.11= {
+	add_prestige = 63
+	add_treasury = 37
+}

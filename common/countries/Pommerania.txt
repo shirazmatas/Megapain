@@ -29,28 +29,18 @@ historical_units = {
 	western_men_at_arms
 }
 monarch_names = {
-	"Adémar #1" = 10
-	"Antoine #0" = 0
-	"Arnaud #0" = 0
-	"Arnold #0" = 0
-	"Arnulf #1" = 10
-	"Baudouin #0" = 0
-	"Benoîte #0" = -1
-	"Birgitta #0" = -1
-	"Bretislav #0" = 0
-	"Dobieslaw #0" = 0
-	"Elizabeth #1" = -1
-	"Gaucelin #0" = 0
-	"Hafrid #0" = -1
-	"Marthe #0" = -1
-	"Martin #0" = 0
-	"Mikolaj #0" = 0
-	"Piotr #0" = 0
-	"Rorgues #0" = 0
-	"Szymon #0" = 0
-	"Tasa #0" = -1
-	"William #0" = 0
-	"Zwinislawa #0" = -1
+	"Badeloge #0" = -1
+	"Douwe #0" = 0
+	"Hubert #1" = 10
+	"Kathrijne #0" = -1
+	"Marquart #0" = 0
+	"Martin #1" = 10
+	"Miroslaw #1" = 10
+	"Piskla #1" = 10
+	"Siemomysl #1" = 10
+	"Swietibor #1" = 10
+	"Wlodzimierz #1" = 10
+	"Zbigniew #0" = 0
 }
 leader_names = {
 	"Behm"

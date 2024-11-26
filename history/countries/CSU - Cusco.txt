@@ -24,9 +24,9 @@ unit_type = south_american
 		birth_date = 1420.1.1
 		death_date = 1471.1.1
 		claim = 95
-		adm = 5
-		dip = 4
-		mil = 6
+		adm = 4
+		dip = 3
+		mil = 5
 	}
 }
 1438.1.1= {
@@ -34,13 +34,13 @@ unit_type = south_american
 		name = "Pachacuti"
 		dynasty = "Hanan"
 		birth_date = 1420.1.1
-		adm = 5
-		dip = 4
-		mil = 6
+		adm = 4
+		dip = 3
+		mil = 5
 		leader = { name = "Pachacuti"	type = general	fire = 3	shock = 5	manuever = 4	siege = 2 }
 	}
 	clear_scripted_personalities = yes
-	add_ruler_personality = conqueror_personality
+	add_ruler_personality = legendary_conqueror_personality
 }
 1444.1.1= {
 	heir = {
@@ -55,7 +55,7 @@ unit_type = south_american
 		mil = 6
 	}
 	clear_scripted_personalities = yes
-	add_ruler_personality = conqueror_personality
+	add_ruler_personality = legendary_conqueror_personality
 	add_heir_personality = lawgiver_personality
 }
 1471.1.1= {

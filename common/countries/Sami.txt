@@ -30,22 +30,22 @@ historical_units = {
 	western_men_at_arms
 }
 monarch_names = {
-	"Duojá #1" = -1
-	"Gealá #1" = -1
-	"Helgi #0" = 0
-	"Henrik #0" = 0
-	"Jormoi #0" = 0
-	"Lávrrohas #0" = 0
-	"Náhkol #0" = 0
-	"Oajá #1" = -1
-	"Ruigi #0" = 0
-	"Sárra #0" = 0
-	"Sörkver #0" = 0
-	"Tjudmund #0" = 0
-	"Valto #0" = 0
-	"Áilu #0" = 0
-	"Ára #0" = 0
-	"Èuvje #0" = -1
+	"Dovyat #0" = 10
+	"Frode #0" = 5
+	"Inga #0" = -1
+	"Ingor #0" = 5
+	"Jaco #0" = 5
+	"Kaupo #0" = 20
+	"Likiik #0" = 10
+	"Lisa #0" = -1
+	"Narvait #0" = 20
+	"Niko #0" = 5
+	"Nils-Sako #0" = 10
+	"Shutr #0" = 20
+	"Ulla #0" = -1
+	"Vaishvilkas #0" = 0
+	"Vetseke #0" = 0
+	"Yudki #0" = 0
 }
 leader_names = {
 	"Guoládat"

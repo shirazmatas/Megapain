@@ -1,6 +1,0 @@
-
-sound = {
-    name = baker_gbr
-    file = "baker_gbr.wav"
-	always_load = yes
-}

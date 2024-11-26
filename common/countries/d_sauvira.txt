@@ -1,0 +1,15 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 230 135 20 }
+monarch_names = {
+	"Deva Rai #0" = 0
+	"Devidas #0" = 0
+	"Elham #0" = -1
+	"Kaya #0" = 0
+	"Mayanalladevi #1" = -1
+	"Pahtu #0" = 0
+	"Pavak #0" = 0
+	"Punhun #0" = 0
+	"Shahabuddin #0" = 0
+	"Taslima #1" = -1
+}

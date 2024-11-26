@@ -1,0 +1,70 @@
+namespace = charles_mogavia
+country_event = { 
+	id = charles_mogavia.1
+	title = charles_mogavia.1.t
+	desc = charles_mogavia.1.d
+	picture = handsome_squidward_eventPicture
+	
+	trigger = {
+	    tag = GMA
+		NOT = { has_global_flag = charles_mogavia }	 
+		num_of_owned_provinces_with = {
+				is_core = GMA
+				region = north_german_region   #Change these
+				value = 11
+			}
+			num_of_owned_provinces_with = {
+				is_core = GMA
+				region = poland_region   #Change these
+				value = 5
+			}
+			owns = 154
+			owns = 1772
+			owns = 4236
+			owns = 1318
+			owns = 162
+			}
+	
+	mean_time_to_happen = { 
+		days = 2
+	}
+	immediate = {
+		set_global_flag = charles_mogavia
+		play_sound = charles_mogavia
+	}
+	fire_only_once = yes
+	option = { 
+		name = charles_mogavia.1.a		
+		custom_tooltip = "Get on that Mewing streak"
+		every_country = {
+		limit = { ai = no }
+        country_event = { id = charles_mogavia.2 }
+		}
+	}
+}
+
+#global counterparts
+country_event = { 
+	id = charles_mogavia.2
+	title = charles_mogavia.1.t
+	desc = charles_mogavia.1.d
+	picture = handsome_squidward_eventPicture
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	    OR = { tag = MOR tag = ENG tag = FRA tag = BAV tag = Z0C tag = GMA tag = FRI tag = NED tag = Z0A tag = RIG tag = EGY tag = ASK tag = GBR tag = JAP tag = RMN tag = MLO tag = ITA tag = GER tag = HLR}
+		NOT = { has_global_flag = MVA_had_event_2 }			
+	}
+	
+
+	immediate = {
+		set_global_flag = MVA_had_event_2
+		play_sound = charles_mogavia
+	}
+
+	option = { 
+		name = charles_mogavia.1.a		
+		custom_tooltip = "Get on that Mewing streak"
+	}
+}

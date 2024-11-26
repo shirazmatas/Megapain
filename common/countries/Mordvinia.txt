@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = easterngfx
+graphical_culture = westerngfx
 color = { 38 66 71 }
 revolutionary_colors = { 5 0 13 }
 historical_idea_groups = {
@@ -30,13 +30,23 @@ historical_units = {
 	western_men_at_arms
 }
 monarch_names = {
-	"Aghsartan #0" = 0
-	"Begluk #1" = 10
-	"Ipekel #0" = -1
-	"Kutlu #0" = 0
-	"Nuyat #0" = 0
-	"Sotan #0" = 0
-	"Yasar #0" = -1
+	"Irter #0" = 5
+	"Karuvald #0" = 5
+	"Mohkku #0" = 20
+	"Mokci #0" = 20
+	"Nyayka #0" = -1
+	"Náhkol #0" = 20
+	"Náinnas #0" = 0
+	"Piho #0" = 0
+	"Pivtsay #0" = 10
+	"Pokshayka #0" = 5
+	"Poshayka #0" = -1
+	"Päevalemb #0" = 10
+	"Satu #0" = -1
+	"Shypicha #0" = 5
+	"Sulev #0" = 10
+	"Varaka #0" = 0
+	"Vidyava #0" = -1
 }
 leader_names = {
 	"Azegid"

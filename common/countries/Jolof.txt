@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = africangfx
+graphical_culture = muslimgfx
 color = { 215 215 125 }
 revolutionary_colors = { 10 8 5 }
 historical_idea_groups = {
@@ -22,27 +22,15 @@ historical_units = {
 	westernized_niger_kongolese
 }
 monarch_names = {
-	"Arnulf #0" = 0
-	"Awo #1" = -1
-	"Barakah #0" = -1
-	"Biram #0" = 0
-	"Doye #0" = -1
-	"Fanaan #0" = 0
-	"Gnilane #0" = 0
-	"Jaffar #0" = 0
-	"Jegan #1" = 10
-	"Jom #0" = 0
-	"Laasuk #0" = 0
-	"Labi #1" = 10
-	"Maammarou #0" = 0
-	"Mbar #0" = 0
-	"Ozanay #0" = 0
-	"Pateh #2" = 10
-	"Sall #0" = -1
-	"Sanjan #2" = 10
-	"Shakira #0" = -1
-	"Valentin #0" = 0
-	"Yumeyga #0" = -1
+	"Aines #0" = -1
+	"Bérété #0" = 0
+	"Gejopal #0" = 0
+	"Gnilane #1" = 10
+	"Kussil #0" = 0
+	"Nabil #0" = 0
+	"Ndoffene #0" = 0
+	"Tarifa #0" = -1
+	"Ugdada #0" = 0
 }
 leader_names = {
 	"Bakar"

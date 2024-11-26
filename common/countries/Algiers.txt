@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = westerngfx
+graphical_culture = muslimgfx
 color = { 230 225 110 }
 revolutionary_colors = { 9 16 1 }
 historical_idea_groups = {
@@ -12,6 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	expansion_ideas
 }
+historical_score = 100
 historical_units = {
 	ali_bey_reformed_infantry
 	mamluk_archer
@@ -22,26 +23,56 @@ historical_units = {
 	muslim_mass_infantry
 }
 monarch_names = {
-	"Aflah #1" = 10
-	"Amalrich #0" = 0
-	"Andrzej #0" = 0
-	"Cepla #0" = 0
-	"Garyphallia #0" = -1
-	"Gerberga #0" = -1
-	"Guichard #0" = 0
-	"Hajnal #0" = -1
-	"Hemma #0" = -1
-	"Hesso #0" = 0
-	"Inga #0" = -1
-	"Jacco #0" = 0
-	"Karl #0" = 0
-	"Kharak #0" = 0
-	"Lambert #0" = 0
-	"Mirza #1" = 10
-	"Onfroy #0" = 0
-	"Saltaru #0" = 0
-	"Solène #0" = -1
-	"Sybille #0" = -1
+	"'Abd al-Karim #0" = 0
+	"'Abd al-W0hid #0" = 20
+	"'Abd ar-Rahm0n #2" = 20
+	"'Abdall0h #0" = 40
+	"'Ali #0" = 100
+	"'Umar #0" = 20
+	"'Uthm0n #2" = 10
+	"Ab0 T0shuf0n #0" = 20
+	"Ahmad #0" = 90
+	"Aisha #0" = -1
+	"Baba Aruj #0" = 15
+	"Barakat #0" = 0
+	"Basir #0" = 0
+	"Dawud #0" = 0
+	"Faris #0" = 0
+	"Fatima #0" = -1
+	"Hafsia #0" = -1
+	"Haidar #0" = 0
+	"Hasan #0" = 60
+	"Hashim #0" = 0
+	"Hikmat #0" = -1
+	"Husayn #0" = 60
+	"Ibrahim #0" = 60
+	"Inas #0" = -1
+	"Jabbar #0" = 0
+	"Jalila #0" = -1
+	"Jamal #0" = 0
+	"Jannat #0" = -1
+	"Junayd #0" = 0
+	"Khadija #0" = -1
+	"Khidr Khair ad-Din #0" = 15
+	"Muhammad #1" = 260
+	"Mustafa #0" = 60
+	"M0s0 #2" = 20
+	"Najib #0" = 0
+	"Qasim #0" = 0
+	"Rahim #0" = 0
+	"Randa #0" = -1
+	"Rash0d #0" = 0
+	"Sa'0d #0" = 20
+	"Safi #0" = 0
+	"Sakhr #0" = 0
+	"Selim #0" = 15
+	"Sha'ban #0" = 20
+	"Tabassum #0" = -1
+	"Wahid #0" = 0
+	"Yaghmuras0n #1" = 10
+	"Y0suf #1" = 15
+	"Zahir #0" = 0
+	"al-Hasan #0" = 20
 }
 leader_names = {
 	"Amara"

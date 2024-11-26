@@ -29,32 +29,21 @@ historical_units = {
 	western_men_at_arms
 }
 monarch_names = {
-	"Brita #0" = -1
-	"Dovyat #0" = 10
-	"Elmede #0" = -1
-	"Helgi #0" = -1
-	"Helvi #0" = -1
-	"Ilma #0" = -1
-	"Imetra #0" = -1
-	"Janis #0" = 5
-	"J0rgen #0" = 5
-	"Kaupo #0" = 20
-	"Klavess #0" = 5
-	"Kordula #0" = -1
-	"Leili #0" = -1
-	"Likiik #0" = 10
-	"Maimu #0" = -1
-	"Maria #0" = -1
-	"Narvait #0" = 20
-	"Priidu #0" = 10
-	"Raili #0" = -1
-	"Savna #0" = -1
-	"Shutr #0" = 20
-	"Talivaldis #0" = 5
-	"Vaishvilkas #0" = 0
-	"Vanema #0" = -1
-	"Vetseke #0" = 0
-	"Yudki #0" = 0
+	"Annika #0" = -1
+	"Beorhtwine #0" = 0
+	"Gleb #0" = 0
+	"Hurmas #1" = 10
+	"Kaupo #1" = 10
+	"Lättelemb #1" = 10
+	"Manivald #1" = 10
+	"Nikita #0" = 0
+	"Pikne #1" = 10
+	"Styrkár #0" = 0
+	"Tasulemb #1" = 10
+	"Ulfcytel #0" = 0
+	"Vilivald #1" = 10
+	"Värvo #1" = 10
+	"Énna #0" = 0
 }
 leader_names = {
 	"Aminoff"

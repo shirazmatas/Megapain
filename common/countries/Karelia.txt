@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = inuitgfx
+graphical_culture = westerngfx
 color = { 244 38 38 }
 revolutionary_colors = { 5 14 10 }
 historical_idea_groups = {
@@ -30,27 +30,23 @@ historical_units = {
 	western_men_at_arms
 }
 monarch_names = {
-	"Gisela #0" = -1
-	"Giste #0" = -1
-	"Homa #1" = 10
-	"Ignoi #1" = 10
-	"Ihala #2" = 10
-	"Irene #1" = -1
-	"Kalevi #1" = 10
-	"Kettu #2" = 10
-	"Kibroi #0" = 0
-	"Kondro #1" = 10
-	"Lemetti #2" = 10
-	"Muarie #0" = -1
-	"Natalia #0" = -1
-	"Omelja #0" = 0
-	"Pauli #0" = 0
-	"Raakel #0" = -1
-	"Ruuth #1" = -1
-	"Sosoi #0" = 0
-	"Triihvo #0" = 0
-	"Tuure #2" = 10
-	"Väinö #2" = 10
+	"Irter #0" = 5
+	"Karuvald #0" = 5
+	"Mohkku #0" = 20
+	"Mokci #0" = 20
+	"Nyayka #0" = -1
+	"N0hkol #0" = 20
+	"N0innas #0" = 0
+	"Piho #0" = 0
+	"Pivtsay #0" = 10
+	"Pokshayka #0" = 5
+	"Poshayka #0" = -1
+	"P0evalemb #0" = 10
+	"Satu #0" = -1
+	"Shypicha #0" = 5
+	"Sulev #0" = 10
+	"Varaka #0" = 0
+	"Vidyava #0" = -1
 }
 leader_names = {
 	"Azegid"

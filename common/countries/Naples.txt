@@ -12,7 +12,6 @@ historical_idea_groups = {
 	offensive_ideas
 	quality_ideas
 }
-historical_score = 120
 historical_units = {
 	austrian_grenzer
 	austrian_hussar
@@ -29,46 +28,17 @@ historical_units = {
 	western_men_at_arms
 }
 monarch_names = {
-	"Achille #0" = 15
-	"Adriano #0" = 0
-	"Alberto #0" = 10
-	"Alessandro #0" = 0
-	"Alfonso #0" = 40
-	"Alfredo #0" = 0
-	"Antonio #0" = 10
-	"Bartolomeo #0" = 0
-	"Benedetto #0" = 0
-	"Carlo #3" = 80
-	"Carlotta #0" = -5
-	"Cesare #0" = 10
-	"Claudio #0" = 0
-	"Enzo #0" = 0
-	"Fabio #0" = 0
-	"Fabrizio #0" = 0
-	"Federigo #0" = 20
-	"Ferdinando #0" = 80
-	"Filippo #0" = 60
-	"Francesco #0" = 10
-	"Gabriele #0" = 15
-	"Gaspare #0" = 0
-	"Gioachino #0" = 20
-	"Giovanna #1" = -15
-	"Giovanni #0" = 10
-	"Giuseppe #0" = 10
-	"Isabella #0" = -1
-	"Julia #0" = -5
-	"Ladislao #0" = 20
-	"Leandro #0" = 0
-	"Leopoldo #0" = 10
-	"Marco #0" = 0
-	"Martino #0" = 0
-	"Nestore #0" = 0
-	"Paolo #0" = 0
-	"Pietro #0" = 0
-	"Raniero #0" = 0
-	"Roberto #0" = 0
-	"Salvatore #0" = 0
-	"Vicenzo #0" = 0
+	"Adergazuz #0" = 0
+	"Boemunnu #1" = 10
+	"Borç #0" = 0
+	"Euphemia #0" = -1
+	"Hugh #2" = 10
+	"Hugolina #0" = -1
+	"Kugis #0" = 0
+	"Oswyn #1" = 10
+	"Samueli #0" = 0
+	"Ugu #1" = 10
+	"Yolanda #0" = -1
 }
 leader_names = {
 	"Acquaviva"

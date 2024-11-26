@@ -1,0 +1,22 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 167 167 93 }
+monarch_names = {
+	"Afia #0" = -1
+	"Aissa #0" = -1
+	"Benyepo Eye #0" = 0
+	"B´sha Anye #2" = 10
+	"Didwho #2" = 10
+	"Dolo #1" = 10
+	"Ebanyepo #1" = 10
+	"Ewunio #0" = 0
+	"Faaduma #0" = -1
+	"Fatoumata #0" = -1
+	"Gartee #1" = 10
+	"Garteh #2" = 10
+	"Gboto #1" = 10
+	"Kparnkpai #0" = 0
+	"Mankre #1" = 10
+	"Tuntunba #0" = 0
+	"Yasiboy #0" = 0
+}

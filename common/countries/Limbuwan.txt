@@ -25,30 +25,19 @@ historical_units = {
 	reformed_mughal_musketeer
 }
 monarch_names = {
-	"Cepla #0" = -1
-	"Chemjong Hang #1" = 10
-	"Dehanagadevi #0" = -1
-	"Drigum #0" = 0
-	"Geleg #0" = 0
-	"Mabo Hang #1" = 10
-	"Misam #2" = 10
-	"Mokwan San #1" = 10
-	"Muda Hang #1" = 10
-	"Mung Mawrong Hang #1" = 10
-	"Nambin #0" = 0
-	"Nasan #0" = 0
-	"Nyendrak #0" = -1
-	"Oisum #3" = 10
-	"Phungsama #0" = -1
-	"Ratna #0" = 0
-	"Senge #0" = 0
-	"Sirijunga #1" = 10
-	"Tenzing #1" = -1
-	"Tsenma #0" = -1
-	"Uba #0" = 0
-	"Uba Hang #1" = 10
-	"Vidurathpal #0" = 0
-	"Wedo Hang #1" = 10
+	"Chakdor #0" = 10
+	"Devaladevi #0" = -10
+	"Gyurmed #0" = 10
+	"Kaushalyawati #0" = -1
+	"Palden #0" = 10
+	"Phuntsog #0" = 30
+	"Rajendralakshmi #0" = -1
+	"Sidkeong #0" = 10
+	"Tashi #0" = 10
+	"Tensung #0" = 10
+	"Tenzing #0" = 10
+	"Thutob #0" = 10
+	"Tsugphud #0" = 10
 }
 leader_names = {
 	"Bahadur"

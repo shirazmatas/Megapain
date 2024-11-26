@@ -1,87 +1,144 @@
 union=
 {
-	first="ETH"
-	second="DAM"
+	first="Z27"
+	second="Z1P"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
 union=
 {
-	first="KRL"
-	second="Z0E"
+	first="Z1D"
+	second="MAZ"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
 union=
 {
-	first="GEO"
-	second="Z06"
+	first="EGY"
+	second="KOJ"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
 union=
 {
-	first="Z29"
-	second="AAC"
+	first="DAL"
+	second="RAG"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
 union=
 {
-	first="Z29"
-	second="ALG"
+	first="FRA"
+	second="GUY"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
 union=
 {
-	first="Z29"
-	second="VRN"
+	first="FRA"
+	second="BRI"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
 union=
 {
-	first="TTS"
-	second="AFR"
+	first="ALB"
+	second="CEP"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+
+union=
+{
+	first="BAV"
+	second="BYT"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
 union=
 {
-	first="Z02"
-	second="ARM"
+	first="BAV"
+	second="RVA"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
 union=
 {
-	first="HAN"
-	second="PAD"
+	first="BAV"
+	second="Z4J"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
 union=
 {
-	first="FIN"
-	second="Z1Z"
+	first="ARL"
+	second="BPI"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
 union=
 {
-	first="LIT"
-	second="Z1X"
+	first="ARL"
+	second="TBR"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="ARL"
+	second="Z6F"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="Z44"
+	second="BUL"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="SIS"
+	second="ARD"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="PRO"
+	second="Z40"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="SME"
+	second="Z12"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+
+union=
+{
+	first="Z7C"
+	second="TMB"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }

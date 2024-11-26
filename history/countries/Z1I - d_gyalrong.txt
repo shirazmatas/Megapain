@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = mandala_reform
+government_rank = 1
+technology_group = chinese
+religion = animism
+primary_culture = tangut
+capital = 2170
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Narayanavarman"
+		dynasty = "Narayanavarman"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1388.3.9
+		religion = animism
+		culture = tangut
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = intricate_web_weaver_personality
+	queen = {
+		name = "Amrita"
+		dynasty = "Azha"
+		adm = 5
+		dip = 4
+		mil = 6
+		country_of_origin = Z1I
+		birth_date = 1373.9.26
+		death_date = 1433.9.26
+		female = yes
+		religion = animism
+		culture = khalkha
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = strict_personality
+	heir = {
+		name = "Susthitavarman"
+		monarch_name = "Susthitavarman"
+		dynasty = "Toungoo-Zoigê"
+		adm = 5
+		dip = 6
+		mil = 4
+		birth_date = 1417.3.1
+		death_date = 1482.3.1
+		claim = 89
+		religion = animism
+		culture = tangut
+	}
+	add_heir_personality = pious_personality
+	add_heir_personality = scholar_personality
+}
+1444.11.11= {
+	add_prestige = 61
+	add_treasury = 21
+}

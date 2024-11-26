@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = westerngfx
+graphical_culture = inuitgfx
 color = { 0 49 83 }
 revolutionary_colors = { 1 0 4 }
 historical_idea_groups = {
@@ -12,7 +12,6 @@ historical_idea_groups = {
 	defensive_ideas
 	administrative_ideas
 }
-historical_score = 1800
 historical_units = {
 	austrian_grenzer
 	austrian_hussar
@@ -30,71 +29,21 @@ historical_units = {
 	western_men_at_arms
 }
 monarch_names = {
-	"Adolf #0" = 0
-	"Agnes #0" = -1
-	"Albrecht #0" = 20
-	"Alfred #0" = 0
-	"Amalie #0" = -1
-	"Anna Maria #0" = -1
-	"Anton #0" = 0
-	"August Wilhelm #0" = 15
-	"Barbara #0" = -1
-	"Benedikt #0" = 0
-	"Benjamin #0" = 0
-	"Denis #0" = 0
-	"Diederick #0" = 0
-	"Eckbert #0" = 0
-	"Emil #0" = 10
-	"Erwin #0" = 0
-	"Ferdinand #0" = 10
-	"Florian #0" = 0
-	"Franz #0" = 0
-	"Frederike #0" = -1
-	"Friedrich #0" = 40
-	"Friedrich Albrecht #0" = 20
-	"Friedrich Wilhelm #0" = 60
-	"Gebhard #0" = 0
-	"Gottfried #0" = 0
-	"Hartmann #0" = 0
-	"Hedwig #0" = -1
-	"Heinrich #0" = 10
-	"Helmut #0" = 0
-	"Horst #0" = 0
-	"Joachim #0" = 0
-	"Karl #0" = 10
-	"Kaspar #0" = 0
-	"Kurt #0" = 0
-	"Leo #0" = 0
-	"Ludwig #0" = 0
-	"Ludwig Karl #0" = 10
-	"Lukas #0" = 0
-	"Magdalena #0" = -1
-	"Manfred #0" = 0
-	"Margarete #0" = -1
-	"Michael #0" = 0
-	"Miriam #0" = -1
-	"Nikolaus #0" = 0
-	"Oskar #0" = 0
-	"Otto #0" = 0
-	"Paula #0" = -1
-	"Philipp #0" = 0
-	"Raphaela #0" = -1
-	"Reiner #0" = 0
-	"Rudolf #0" = 0
-	"Rupprecht #0" = 0
-	"Sabina #0" = -1
-	"Sabine #0" = -1
-	"Siegfried #0" = 0
-	"Siegmund #0" = 0
-	"Sophie #0" = -1
-	"Thomas #0" = 0
-	"Ulrike #0" = -1
-	"Urs #0" = 0
-	"Vera #0" = -1
-	"Viktor #0" = 0
-	"Werner #0" = 0
-	"Wilhelm #0" = 10
-	"Wilhelm Friedrich #0" = 15
+	"Anna #0" = -1
+	"Bajoras #1" = 10
+	"Bezprzym #1" = 10
+	"Gelennis #1" = -1
+	"Kaupo #0" = 0
+	"Kugis #1" = 10
+	"Lembit #1" = 10
+	"Lible #1" = 10
+	"Lingvenis #1" = 10
+	"Milyuns #0" = -1
+	"Milzas #1" = 10
+	"Mindaugas #1" = 10
+	"Prusas #1" = 10
+	"Przybyslaw #1" = 10
+	"Ulitis #0" = 0
 }
 leader_names = {
 	"Arnim"

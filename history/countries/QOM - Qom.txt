@@ -7,6 +7,7 @@ primary_culture = persian
 capital = 2213
 religious_school = ismaili_school
 add_accepted_culture = azerbaijani
+add_army_professionalism = 0.05
 1442.1.1= { #Appointed as governor of Sultaniyya, Qazvin, Rayy and Qom, but takes up tribute from Kashan, Qazvin, Sari, Isfahan, Natanz, Firuzkuh, Sultaniyya, Tarum, Azerbaijan as well.
 	religion = sunni
 	religious_school = hanafi_school

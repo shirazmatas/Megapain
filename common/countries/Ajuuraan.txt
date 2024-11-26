@@ -26,14 +26,21 @@ historical_units = {
 	westernized_adal
 }
 monarch_names = {
-	"Amira #0" = -1
-	"Arliqo #1" = 60
-	"Fadumo #0" = 40
-	"Muhammad #0" = 20
-	"Sadaf #0" = -1
-	"Sarjelle #0" = 60
-	"Umar #0" = 40
-	"Zaynab #0" = -1
+	"Abu-Bakr #0" = 0
+	"Adeer #0" = 0
+	"Alia #0" = -1
+	"Fatima #0" = -1
+	"Gellért #0" = 0
+	"Harire #1" = 10
+	"Nabila #0" = -1
+	"Nahwi #2" = 10
+	"Nasteexo #1" = -1
+	"Nur #1" = 10
+	"Ogadeen #1" = 10
+	"Touma #0" = 0
+	"Ya'qub #0" = 0
+	"Zaia #0" = 0
+	"Zara #0" = -1
 }
 leader_names = {
 	"Abdallah"

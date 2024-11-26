@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = muslimgfx
+graphical_culture = asiangfx
 color = { 229 153 34 }
 revolutionary_colors = { 15 1 15 }
 historical_idea_groups = {
@@ -26,35 +26,23 @@ historical_units = {
 	topchis_artillery
 }
 monarch_names = {
-	"Abu al-Saj #1" = 10
-	"Ayeshah #2" = 10
-	"Banu #0" = -1
-	"Biškoj #0" = -1
-	"Burandoxt #0" = -1
-	"Daryûš #0" = 0
-	"Ehmed #1" = 10
-	"Ekber #1" = 10
-	"Firdews #0" = 0
-	"Hafez #0" = 0
-	"Hariraja #0" = 0
-	"Jula #0" = 0
-	"Majid #0" = 0
+	"Agul #0" = 0
+	"Anastasia #0" = -1
+	"Badai #0" = 0
+	"Chitska #0" = -1
+	"Isidoros #0" = 0
+	"Khogaghchin #0" = -1
+	"Khutulun #0" = -1
 	"Mamlan #1" = 10
-	"Mensûr Nesr-ed-dewle #1" = 10
+	"Menûšihr #1" = 10
 	"Muhammad #1" = 10
-	"Nawid #0" = 0
-	"Revend #0" = 0
-	"Rindê #0" = -1
-	"Saruca #0" = 0
-	"Sati #0" = -1
-	"Sina #0" = 0
-	"Sirin #0" = -1
-	"Tutus #0" = 0
-	"Varšasp #0" = 0
-	"Xašayar #1" = 10
+	"Murr #1" = 10
+	"Nešmîl #1" = -1
+	"Philaretos #0" = 0
+	"Pêšeng #1" = 10
 	"Yahya #1" = 10
-	"Çaka #0" = 0
-	"Šawur #0" = 0
+	"Yousef #1" = 10
+	"Zahir #0" = 0
 }
 leader_names = {
 	"Ardashir"

@@ -1,110 +1,43 @@
-government = theocracy
-add_government_reform = leading_clergy_reform
+government = republic
+add_government_reform = free_city
 government_rank = 1
 technology_group = western
 religion = catholic
 primary_culture = baltic_german
+add_accepted_culture = estonian
 capital = 38
 fixed_capital = 38
-historical_friend = BRE
-historical_friend = HAM
-historical_friend = HSA
-historical_friend = LIV
-1393.1.1= {
+mercantilism = 25
+1444.11.11= {
 	monarch = {
-		name = "Johann V"
-		birth_date = 1370.1.1
-		dip = 2
-		adm = 1
-		mil = 2
+		name = "Jönsus"
+		dynasty = "Jönsson"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1424.12.26
+		religion = catholic
+		culture = baltic_german
 	}
+	add_ruler_personality = careful_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Jönser"
+		monarch_name = "Jönser"
+		dynasty = "Jönsson"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1443.7.12
+		death_date = 1494.7.12
+		claim = 89
+		religion = catholic
+		culture = bavarian
+	}
+	add_heir_personality = pious_personality
+	add_heir_personality = zealot_personality
 }
-1418.1.1= {
-	monarch = {
-		name = "Johann VI"
-		culture = pommeranian
-		dip = 0
-		adm = 2
-		mil = 2
-	}
-}
-1424.1.1= {
-	monarch = {
-		name = "Henning Scharffenberg"
-		culture = pommeranian
-		dip = 3
-		adm = 1
-		mil = 1
-	}
-}
-1448.10.9= {
-	monarch = {
-		name = "Silvester Stodwescher"
-		culture = prussian
-		dip = 2
-		adm = 2
-		mil = 2
-	}
-}
-1479.7.12= {
-	monarch = {
-		name = "Stephan Grube"
-		dip = 2
-		adm = 2
-		mil = 2
-	}
-}
-1483.12.10= {
-	monarch = {
-		name = "Michael Hildebrand"
-		dip = 2
-		adm = 2
-		mil = 2
-	}
-}
-1509.2.6= {
-	monarch = {
-		name = "Jasper Linde"
-		culture = hannoverian
-		dip = 2
-		adm = 2
-		mil = 2
-	}
-}
-1524.6.29= {
-	monarch = {
-		name = "Johann IV Blankenfelde"
-		birth_date = 1471.1.1
-		culture = saxon
-		dip = 2
-		adm = 2
-		mil = 2
-	}
-}
-1528.2.6= {
-	monarch = {
-		name = "Thomas Schöning"
-		dip = 2
-		adm = 2
-		mil = 2
-	}
-}
-1539.8.11= {
-	monarch = {
-		name = "Wilhelm von Brandenburg"
-		culture = franconian
-		dip = 2
-		adm = 2
-		mil = 2
-	}
-}
-1561.1.1= {
-	set_legacy_government = administrative_republic
-	monarch = {
-		name = "Stadtrat"
-		adm = 3
-		dip = 3
-		mil = 3
-		regent = yes
-	}
+1444.11.11= {
+	add_prestige = 49
+	add_treasury = 100
 }

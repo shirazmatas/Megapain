@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = africangfx
+graphical_culture = muslimgfx
 color = { 137 98 195 }
 revolutionary_colors = { 5 0 5 }
 historical_idea_groups = {
@@ -26,24 +26,15 @@ historical_units = {
 	westernized_niger_kongolese
 }
 monarch_names = {
-	"Bilali #0" = 0
-	"Bunama #0" = 0
-	"Dwo #1" = 10
-	"Emine #0" = -1
-	"Gartee #0" = 0
-	"Gbwe #0" = 0
-	"Gunduz #0" = 0
-	"Kabayo #0" = 0
-	"Kanafa #0" = 0
-	"Kilia #0" = -1
-	"Kortolo #0" = -1
-	"Luogon #0" = 0
-	"Nowa #1" = -1
-	"Sia #0" = 0
-	"Welleh #0" = 0
-	"Yandeh #0" = 0
-	"Yasiboy #1" = 10
-	"Zenku #1" = 10
+	"Abd-al-Warith #0" = 0
+	"Dambatu #1" = 10
+	"Dankaran #0" = 0
+	"Halima #0" = -1
+	"Kalinkuma #1" = 10
+	"Kwiimba #1" = 10
+	"Misibsen #0" = 0
+	"Yasiboy #0" = 0
+	"Yenkuaga #1" = 10
 }
 leader_names = {
 	"Addy"

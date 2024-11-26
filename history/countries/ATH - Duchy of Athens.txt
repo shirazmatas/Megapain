@@ -1,94 +1,43 @@
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = mandala_reform
 government_rank = 1
-technology_group = western
-religion = catholic
-primary_culture = tuscan
+technology_group = chinese
+religion = tengri_pagan
+primary_culture = mongol
 capital = 146
-fixed_capital = 146
+add_accepted_culture = dynamic-greek-culture-num1
 add_accepted_culture = greek
-1402.1.1= {
+1444.11.11= {
 	monarch = {
-		name = "Antonio I"
-		dynasty = Acciaioli
-		adm = 0
-		dip = 1
-		mil = 2
+		name = "Mongke"
+		dynasty = "Taghai"
+		adm = 2
+		dip = 4
+		mil = 5
+		birth_date = 1428.6.17
+		religion = tengri_pagan
+		culture = mongol
 	}
-}
-1416.1.1= {
+	add_ruler_personality = careful_personality
+	add_ruler_personality = tolerant_personality
 	heir = {
-		name = "Nerio"
-		monarch_name = "Nerio II"
-		dynasty = "Acciaioli"
-		birth_date = 1416.1.1
-		death_date = 1451.1.1
-		claim = 95
-		adm = 1
-		dip = 1
-		mil = 0
-	}
-}
-1435.1.1= {
-	monarch = {
-		name = "Nerio II"
-		dynasty = Acciaioli
-		birth_date = 1416.1.1		
-		adm = 1
-		dip = 1
-		mil = 0
-	}
-}
-1439.1.1= {
-	monarch = {
-		name = "Antonio II"
-		dynasty = Acciaioli	
-		adm = 2
-		dip = 1
-		mil = 2
-	}
-}
-1441.1.1= {
-	monarch = {
-		name = "Nerio II"
-		dynasty = Acciaioli
-		birth_date = 1416.1.1			
-		adm = 2
-		dip = 2
-		mil = 0
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = scholar_personality
-}
-1441.1.1= {
-	heir = {
-		name = "Francesco"
-		monarch_name = "Francesco I"
-		dynasty = "Acciaioli"
-		birth_date = 1440.1.1
-		death_date = 1455.1.1
-		claim = 95
-		adm = 2
-		dip = 3
-		mil = 1
-	}
-}
-1451.1.1= {
-	monarch = {
-		name = "Francesco I"
-		dynasty = Acciaioli
-		birth_date = 1440.1.1		
-		adm = 2
-		dip = 3
-		mil = 1
-	}
-}
-1455.1.1= {
-	monarch = {
-		name = "Francesco II"
-		dynasty = Acciaioli
+		name = "Holuikhan"
+		monarch_name = "Holuikhan"
+		dynasty = "Taghai"
 		adm = 4
-		dip = 3
-		mil = 3
+		dip = 5
+		mil = 6
+		birth_date = 1422.5.22
+		death_date = 1487.5.22
+		female = yes
+		claim = 89
+		religion = tengri_pagan
+		culture = mongol
 	}
+	add_heir_personality = bold_fighter_personality
+	add_heir_personality = fierce_negotiator_personality
+}
+1444.11.11= {
+	add_prestige = 52
+	add_treasury = 60
 }

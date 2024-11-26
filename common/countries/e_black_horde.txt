@@ -1,0 +1,12 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 50 50 50 }
+monarch_names = {
+	"Altani #0" = -1
+	"Dengizikh #0" = 0
+	"Dukum #0" = 0
+	"Nytari #0" = 0
+	"Okhsi #0" = 0
+	"Ovlur #0" = 0
+	"Rassate #0" = 0
+}

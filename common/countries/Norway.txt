@@ -29,29 +29,29 @@ historical_units = {
 	western_men_at_arms
 }
 monarch_names = {
-	"Aibek #0" = 0
-	"Albrikt #0" = 0
-	"Bergþór #0" = 0
-	"Clementia #0" = -1
+	"Baldr #2" = 10
 	"Eirikr #1" = 10
+	"Georg #0" = 0
+	"Giselle #0" = -1
+	"Gormr #1" = 10
+	"Gudrød #3" = 10
+	"Gytha #0" = -1
 	"Hakon #1" = 10
-	"Halfdán #0" = 0
-	"Harald #1" = 10
-	"Haraldr #3" = 10
-	"Herjólfr #1" = 10
-	"Karin #0" = -1
+	"Halla #0" = -1
+	"Haraldr #4" = 10
+	"Hubert #0" = 0
+	"Humbert #0" = 0
 	"Knud #1" = 10
-	"Knútr #1" = 10
 	"Magnus #1" = 10
+	"Magnús #1" = 10
+	"Naná #0" = -1
 	"Olafr #3" = 10
-	"Olav #1" = 10
-	"Rögnfríðr #0" = -1
+	"Ragnhild #0" = -1
+	"Samueli #0" = 0
+	"Sigurðr #0" = 0
 	"Sveinn #3" = 10
-	"Torolf #0" = 0
-	"Vagn #0" = 0
-	"Walpurga #0" = -1
-	"thonker #0" = -1
-	"Þórðr #1" = 10
+	"Èuvje #0" = -1
+	"Ólafr #0" = 0
 }
 leader_names = {
 	"Amundsen"

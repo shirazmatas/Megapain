@@ -1,100 +1,57 @@
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
-technology_group = eastern
+technology_group = western
 religion = catholic
 primary_culture = dalmatian
-capital = 136
-mercantilism = 25
+capital = 4753
 add_accepted_culture = croatian
-add_army_professionalism = 0.05
-1595.4.5= {
+add_accepted_culture = greek
+1444.11.11= {
 	monarch = {
-		name = "Cristoforo"
-		dynasty = "Valier"
-		birth_date = 1532.7.1
-		adm = 3
-		dip = 2
-		mil = 2
-	}
-}
-1599.1.26= {
-	monarch = {
-		name = "Filippo"
-		dynasty = "Pasqualigo"
-		birth_date = 1549.7.1
-		adm = 2
+		name = "Teodoro"
+		dynasty = "della Torre"
+		adm = 4
 		dip = 4
-		mil = 2
+		mil = 4
+		birth_date = 1404.5.30
+		religion = catholic
+		culture = dalmatian
 	}
-}
-1617.7.17= {
-	monarch = {
-		name = "Giustin"
-		dynasty = "Antonio Belegno"
-		birth_date = 1580.11.11
-		adm = 2
-		dip = 3
-		mil = 3
-	}
-}
-1645.1.30= {
-	monarch = {
-		name = "Leonardo"
-		dynasty = "Foscolo"
-		birth_date = 1600.8.21
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = drunkard_personality
+	queen = {
+		name = "Helene"
+		dynasty = "Jönsson"
 		adm = 3
-		dip = 3
-		mil = 5
-	}
-}
-1684.3.17= {
-	monarch = {
-		name = "Pietro"
-		dynasty = "Valier"
-		birth_date = 1655.1.28
-		adm = 0
-		dip = 3
-		mil = 3
-	}
-}
-1696.5.10= {
-	monarch = {
-		name = "Alvise"
-		dynasty = "Mocenigo"
-		birth_date = 1680.5.10
-		adm = 2
 		dip = 5
 		mil = 3
+		country_of_origin = DAL
+		birth_date = 1406.12.1
+		death_date = 1466.12.1
+		female = yes
+		religion = catholic
+		culture = bavarian
 	}
-}
-1720.3.17= {
-	monarch = {
-		name = "Pietro"
-		dynasty = "Mocenigo"
-		birth_date = 1700.3.17
+	add_queen_personality = drunkard_personality
+	add_queen_personality = fertile_personality
+	heir = {
+		name = "Ottone"
+		monarch_name = "Ottone"
+		dynasty = "della Torre"
 		adm = 3
-		dip = 0
-		mil = 3
-	}
-}
-1777.8.13= {
-	monarch = {
-		name = "Alvise"
-		dynasty = "Foscari"
-		birth_date = 1750.11.28
-		adm = 1
 		dip = 3
-		mil = 2
+		mil = 1
+		birth_date = 1435.10.4
+		death_date = 1500.10.4
+		claim = 89
+		religion = catholic
+		culture = italian
 	}
+	add_heir_personality = just_personality
+	add_heir_personality = naive_personality
 }
-1795.12.7= {
-	monarch = {
-		name = "Andrea Maria"
-		dynasty = "Querini"
-		birth_date = 1780.11.11
-		adm = 2
-		dip = 3
-		mil = 3
-	}
+1444.11.11= {
+	add_prestige = 84
+	add_treasury = 51
 }

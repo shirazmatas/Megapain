@@ -8,6 +8,7 @@ capital = 454
 religious_school = hanafi_school
 add_accepted_culture = khorasani
 add_accepted_culture = persian
+add_army_professionalism = 0.05
 historical_rival = DLH
 historical_rival = MUL
 historical_rival = TUR

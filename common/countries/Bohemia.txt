@@ -3,14 +3,14 @@ graphical_culture = westerngfx
 color = { 161 139 40 }
 revolutionary_colors = { 0 4 15 }
 historical_idea_groups = {
-	economic_ideas
-	defensive_ideas
-	diplomatic_ideas
-	offensive_ideas
 	innovativeness_ideas
-	quantity_ideas
-	administrative_ideas
-	religious_ideas
+	court_ideas
+	infrastructure_ideas
+	defensive_ideas
+	quality_ideas
+	economic_ideas
+	plutocratic_ideas
+	espionage_ideas
 }
 historical_units = {
 	austrian_grenzer
@@ -29,54 +29,27 @@ historical_units = {
 	western_men_at_arms
 }
 monarch_names = {
-	"Albrecht #1" = 10
-	"Andrzej #0" = 0
-	"Bartolomeo #0" = 0
-	"Bedrich #0" = 0
-	"Berta #0" = -1
-	"Boleslav #1" = 10
-	"Božej #0" = 0
-	"Bâtin #0" = 0
-	"Bretislav #1" = 10
-	"Czyrzniech #0" = 0
-	"Damaša #1" = 10
-	"Dobeš #0" = 0
-	"Domaslav #0" = 0
-	"Drslav #0" = 0
-	"Ekbert #0" = 0
-	"Eufrozyna #0" = -1
-	"Guillaumette #0" = -1
-	"Hrabiše #0" = 0
-	"Hruta #0" = 0
-	"Hynek #0" = 0
-	"Jaromír #0" = 0
-	"Jetrich #0" = 0
-	"Jirí #0" = 0
-	"Jutte #0" = -1
-	"Karel #0" = 0
-	"Matouš #0" = 0
-	"Malgorzata #0" = -1
-	"Michael #0" = 0
-	"Mikul #0" = 0
-	"Neuša #1" = 10
-	"Odon #0" = 0
-	"Ota #1" = 10
-	"Pernette #0" = -1
-	"Pelka #0" = 0
-	"Premysl #1" = 10
-	"Pribyslava #0" = -1
-	"Reynilde #0" = -1
-	"Sewal #0" = 0
-	"Sobeslav #0" = 0
-	"Svatobor #1" = 10
-	"Svetlík #0" = 0
-	"Veliš #0" = 0
+	"Amud #0" = 0
+	"Anastasia #0" = -1
+	"Anna #0" = -1
+	"Beorhtflæd #0" = -1
+	"Dejana #0" = -1
+	"Dobrava #0" = -1
+	"Helene #0" = -1
+	"Libuše #0" = -1
+	"Marie #0" = -1
+	"Milota #0" = 0
+	"Mogger Supreme #1" = 10
+	"Nadej #0" = 0
+	"Náhkol #0" = 0
+	"Osterhild #0" = -1
+	"Mog #1" = 10
+	"Radka #0" = -1
+	"Richwara #0" = -1
 	"Vilém #1" = 10
-	"Vlachník #1" = 10
-	"Vlasta #0" = -1
-	"Vratislav #1" = 10
-	"Vítek #0" = 0
-	"Zegota #0" = 0
+	"Werner #0" = 0
+	"Mew Mew #1" = 10
+	"Castava #0" = -1
 }
 leader_names = {
 	"Berka"
@@ -143,4 +116,4 @@ ship_names = {
 	"Svatý Mikulás"
 	"Svatý Vaclav"
 }
-preferred_religion = protestant
+preferred_religion = catholic

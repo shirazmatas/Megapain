@@ -13,17 +13,10 @@ historical_idea_groups = {
 	quantity_ideas
 }
 monarch_names = {
-	"Alisia #0" = -1
-	"Ancelmes #0" = 0
-	"Arhippa #0" = 0
-	"Borissa #1" = 10
-	"Darja #0" = -1
-	"Everkki #0" = 0
-	"Fedula #0" = 0
-	"Håkan #0" = 0
-	"Makko #0" = 0
-	"Miikkula #1" = 10
-	"Pauli #1" = 10
-	"Piroska #0" = -1
-	"Rogvolod #0" = 0
+	"Dorofei #1" = 10
+	"Gosciwuj #0" = 0
+	"Ingólfr #0" = 0
+	"Jelisei #1" = 10
+	"Paula #0" = -1
+	"Vuavila #0" = 0
 }

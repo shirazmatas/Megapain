@@ -1,0 +1,98 @@
+war_of_the_rat = {
+	potential = {
+		tag = GMA
+		NOT = { has_country_flag = had_war_of_the_rat  }
+	}
+
+
+
+	can_start = {
+
+		has_any_disaster = no
+		is_year = 1650
+	}
+	
+	can_stop = { 
+		OR = {
+			has_any_disaster = yes
+		}
+	}
+	
+	ended_by_country_breaking_to_rebels = no
+	
+	
+	progress = {
+		modifier = {
+			factor = 1
+			NOT = { legitimacy = 90 }
+		}
+		modifier = {
+			factor = 5
+			OR = {
+
+				ruler_has_personality = immortal
+			}
+		}
+		
+		modifier = {
+			factor = 1
+			NOT = { stability = 1 }
+		}
+		
+		
+	}
+	
+	can_end = {
+		NOT = { num_of_rebel_controlled_provinces = 1 }
+		NOT = { has_spawned_rebels = revolutionary_rebels }
+		hidden_trigger = {
+			NOT = { has_country_modifier = just_lost_to_rebels }
+		}
+		custom_trigger_tooltip = {
+			tooltip = war_of_the_roses_end_tooltip_pretender_still_lives
+			NOT = { has_country_modifier = wotr_one_year_timer }
+			NOT = { has_country_flag = war_of_the_roses_pretender_fled }
+		}
+	}
+	
+
+
+
+	modifier = {
+		global_unrest = 6
+		stability_cost_modifier = 0.15
+		global_manpower_modifier = -0.35
+		mercenary_manpower = 0.3
+		global_tax_modifier = -0.5
+		production_efficiency = -0.15
+		adm_tech_cost_modifier = 0.15
+		dip_tech_cost_modifier = 0.15
+		mil_tech_cost_modifier = -0.15
+		diplomatic_reputation = -2
+		global_spy_defence = -0.15
+		yearly_corruption = 0.1
+		global_autonomy = 0.1
+	}	
+	
+	
+	on_start = war_of_the_rat.1
+	on_end = war_of_the_rat.100
+	
+	on_monthly = {
+		events = {
+		}
+		random_events = { 
+			1000 = 0
+			100 = war_of_the_rat.2			
+			100 = war_of_the_rat.4
+			100 = war_of_the_rat.5
+			#6 is triggere from on battle	
+			100 = war_of_the_rat.7	
+			100 = war_of_the_rat.9
+			#10 & 11 is triggered from siege won
+			#12 % 13 triggers for other nations, and fires 14.
+			#101 & 102 are endings for rebel victory.
+		}
+	}
+}
+

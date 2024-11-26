@@ -1,0 +1,97 @@
+country_decisions = {
+	
+	declare_romaslavia_decision = {
+		major = yes
+		potential = {
+			primary_culture = romanian
+			NOT = { has_country_flag = formed_romaslavia  }
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 158	# Transylvania
+				province_id = 4706	# Tolcu
+				province_id = 160	# Oltenia
+				province_id = 161	# Wallachia
+				province_id = 268	# Bessarabia
+				province_id = 1756	# Budjak
+				province_id = 153	# Budapest
+				province_id = 4239	# Belgrade
+				province_id = 1765	# Sofia
+				province_id = 3001	# Skopia
+				province_id = 151	# constantinople
+				province_id = 4125	# szolnok
+				province_id = 1756	# Budjak
+				province_id = 1827  # Raska
+				province_id = 1766	# Dardania
+				province_id = 4173	# Syrmia
+				province_id = 4126	# Bacs
+				province_id = 4757	# Kolubara
+				province_id = 4702	# Siroz
+				province_id = 148	# Macedonia
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			adm_tech = 14
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			if = {
+				limit = {
+					OR = {
+						tag = RMN
+						was_tag = RMN
+					}
+				}
+				
+				NOT = { exists = BYZ }
+				NOT = { exists = HUN }
+				NOT = { exists = BUL }
+				NOT = { exists = SER }
+			owns_core_province = 158	# Transylvania
+			owns_core_province = 4706	# Tolcu
+			owns_core_province = 160	# Oltenia
+			owns_core_province = 161	# Wallachia
+			owns_core_province = 268	# Bessarabia
+			owns_core_province = 1756	# Budjak
+			owns_core_province = 153	# Budapest
+			owns_core_province = 4239	# Belgrade
+			owns_core_province = 1765	# Sofia
+			owns_core_province = 3001	# Skopia
+			owns_core_province = 151	# constantinople
+			owns_core_province = 4125	# szolnok
+			owns_core_province = 1756	# Budjak
+			owns_core_province = 1827  # Raska
+			owns_core_province = 1766	# Dardania
+			owns_core_province = 4173	# Syrmia
+			owns_core_province = 4126	# Bacs
+			owns_core_province = 4757	# Kolubara
+			owns_core_province = 4702	# Siroz
+			owns_core_province = 148	# Macedonia
+			}
+		}
+		effect = {
+			override_country_name = RMN_romaslavia
+			set_country_flag = formed_romaslavia
+			
+			custom_tooltip = "Country adopts the name of Romaslavia, may we forever guide and protect the south slavic people towards a great future!"
+			
+			if = {
+				limit = {
+					has_dlc = "Mandate of Heaven"
+				}
+				add_splendor = 400
+				add_prestige_or_monarch_power = { amount = 25 }
+			}
+			else = {
+				add_prestige_or_monarch_power = { amount = 60 }
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+}

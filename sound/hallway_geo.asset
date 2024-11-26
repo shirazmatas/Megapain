@@ -1,6 +1,0 @@
-
-sound = {
-    name = hallway_geo
-    file = "hallway_geo.wav"
-	always_load = yes
-}
