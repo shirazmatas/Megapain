@@ -1,0 +1,14 @@
+spriteTypes = {
+	
+	frameAnimatedSpriteType = {
+		name = "PILLAR_OF_ETERNITY_ANIMATED_eventPicture"
+		texturefile = "gfx/event_pictures/PILLAR_OF_ETERNITY_ANIMATED_eventPicture.dds"
+		noOfFrames = 20
+		loadType = "INGAME"
+		transparencecheck = yes
+		animation_rate_fps = 8
+		looping = yes
+		play_on_show = yes
+	}
+
+}

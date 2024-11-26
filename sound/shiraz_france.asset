@@ -1,0 +1,6 @@
+
+sound = {
+    name = shiraz_france
+    file = "shiraz_france.wav"
+	always_load = yes
+}

@@ -1,0 +1,73 @@
+namespace = kaffe_germany
+country_event = { 
+	id = kaffe_germany.1
+	title = kaffe_germany.1.t
+	desc = kaffe_germany.1.d
+	picture = LAND_MILITARY_eventPicture
+	
+	trigger = {
+	    tag = GER
+		NOT = { has_global_flag = kaffe_germany }	 
+		num_of_owned_provinces_with = {
+				is_core = GER
+				region = north_german_region
+				value = 60
+			}
+			num_of_owned_provinces_with = {
+				is_core = GER
+				region = south_german_region
+				value = 38
+			}
+			owns = 263
+			owns = 254 
+			owns = 41
+			owns = 40 
+			owns = 43 
+			}
+	
+	mean_time_to_happen = { 
+		days = 2
+	}
+	immediate = {
+		set_global_flag = kaffe_germany
+		play_sound = kaffe_germany
+	}
+	fire_only_once = yes
+	option = { 
+		name = kaffe_germany.1.a		
+		custom_tooltip = "And its multicultural right?"
+		every_country = {
+		limit = { ai = no }
+        country_event = {
+        id = kaffe_germany.2
+        }
+		}
+	}
+}
+
+#global counterparts
+country_event = { 
+	id = kaffe_germany.2
+	title = kaffe_germany.1.t
+	desc = kaffe_germany.1.d
+	picture = LAND_MILITARY_eventPicture
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	    OR = { tag = ADU tag = ENG tag = GBR tag = FRA tag = GEO tag = RUS tag = ORI tag = KHA tag = MGE tag = BHA tag = KOJ tag = C01 }
+		NOT = { has_global_flag = GER_had_event_2 }			
+	}
+	
+
+	immediate = {
+		set_global_flag = GER_had_event_2
+		play_sound = kaffe_germany
+	}
+
+	option = { 
+		name = kaffe_germany.1.a		
+		custom_tooltip = "And its multicultural right?"
+		events = { kaffe_germany.2 }
+	}
+}

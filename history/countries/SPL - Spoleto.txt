@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = umbrian
+capital = 4731
+add_accepted_culture = romagnan
+1444.11.11= {
+	monarch = {
+		name = "Davide"
+		dynasty = "di Canossa"
+		adm = 5
+		dip = 3
+		mil = 5
+		birth_date = 1400.4.25
+		religion = catholic
+		culture = umbrian
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Elisabet"
+		dynasty = "Get"
+		adm = 4
+		dip = 3
+		mil = 3
+		country_of_origin = SPL
+		birth_date = 1405.12.31
+		death_date = 1465.12.31
+		female = yes
+		religion = catholic
+		culture = swedish
+	}
+	add_queen_personality = fertile_personality
+	add_queen_personality = pious_personality
+	heir = {
+		name = "Oberto"
+		monarch_name = "Oberto II"
+		dynasty = "di Canossa"
+		adm = 5
+		dip = 6
+		mil = 6
+		birth_date = 1405.8.28
+		death_date = 1470.8.28
+		claim = 89
+		religion = catholic
+		culture = italian
+	}
+	add_heir_personality = drunkard_personality
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11= {
+	add_prestige = 82
+	add_treasury = 54
+}

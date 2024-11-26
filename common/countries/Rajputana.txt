@@ -1,0 +1,112 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 49 13 22 }
+historical_idea_groups = {
+	aristocracy_ideas
+	offensive_ideas
+	defensive_ideas
+	diplomatic_ideas
+	religious_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	reformed_mughal_mansabdar
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Akal #0" = -1
+	"Annaladevi #0" = -1
+	"Asvapala #0" = 0
+	"Chachinidevi #1" = -1
+	"Chamundaraja #1" = 10
+	"Chanduka #1" = 10
+	"Delhanadevi #0" = -1
+	"Dhruvasvamini #0" = -1
+	"Durlabharaja #3" = 10
+	"Govinda #1" = 10
+	"Harichandra #1" = 10
+	"Jaitugideva #0" = 0
+	"Kailaspal #1" = 10
+	"Krsnapa #0" = 0
+	"Lakshman #0" = -1
+	"Ma'shuq #0" = -1
+	"Mahendrani #0" = -1
+	"Mahipala #2" = 10
+	"Nagabhata #1" = 10
+	"Narabbhata #1" = 10
+	"Nermê #0" = -1
+	"Padmaladevi #0" = -1
+	"Prithvi #0" = 0
+	"Rajjila #1" = 10
+	"Siluka #1" = 10
+	"Simghata #1" = 10
+	"Singhraja #1" = 10
+	"Tata #1" = 10
+	"Tejapala #0" = 0
+	"Tejpal #0" = 0
+	"Vakapati #1" = 10
+	"Venkatrao #0" = 0
+	"Vigraharaja #1" = 10
+	"Viryarama #1" = 10
+	"Yashovardhana #1" = 10
+	"Yuddamalla #0" = 0
+	"Zangtang #0" = 0
+}
+leader_names = {
+	"Bargujar"
+	"Bhaal"
+	"Bhati"
+	"Chandela"
+	"Chauhan"
+	"Chudasama"
+	"Chundawa"
+	"Das"
+	"Gohil"
+	"Jadeja"
+	"Jadon"
+	"Khumba"
+	"Mori"
+	"Pratap"
+	"Sahu"
+	"Saran"
+	"Singh"
+	"Sisodiya"
+	"Tomara"
+	"Vaghela"
+}
+ship_names = {
+	"Chambal"
+	"Devi"
+	"Durga"
+	"Gayatri"
+	"Ghaggar"
+	"Godwar"
+	"Jalsena"
+	"Kala Jahazi"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Luni"
+	"Merwar ka Nav"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Padmini"
+	"Parvati"
+	"Radha"
+	"Rani"
+	"Ratri"
+	"Sagar"
+	"Sarasvati"
+	"Sekhawati"
+	"Sita"
+}

@@ -1,0 +1,36 @@
+al_andalusia_government = {
+	icon = "noble_muslim"
+	allow_normal_conversion = yes
+	potential = {
+		OR = {
+			tag = ADU
+			has_reform = al_andalusia_government
+			have_had_reform = al_andalusia_government
+			AND = {
+				has_reform = al_andalusia_government
+				is_playing_custom_nation = yes
+			}
+		}
+	}
+	trigger = {
+		religion_group = muslim
+		
+	}
+	valid_for_nation_designer = yes
+	nation_designer_cost = 5
+	nation_designer_trigger = {
+		religion_group = muslim
+
+	}
+	modifiers = {
+		idea_cost = -0.1
+		tolerance_of_heathens_capacity = 2
+		tolerance_heathen = 1
+	}
+	conditional = {
+		allow = { has_dlc = "Cradle of Civilization" }
+		custom_attributes = {
+			allow_piety_switch_decision = yes	#Enables a decision which gives 1 stabhit, but turns your piety 180�
+		}
+	}
+}

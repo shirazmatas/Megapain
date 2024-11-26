@@ -1,0 +1,27 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 119 138 11 }
+monarch_names = {
+	"Abo #1" = 10
+	"Ahiavadevi #0" = -1
+	"Bapu #1" = 10
+	"Bhogavati #0" = -1
+	"Bhutivarman #0" = 0
+	"Chakhar #2" = 10
+	"Chimi #1" = 10
+	"Durlabha #0" = -1
+	"Ganapativarman #0" = 0
+	"Harshapala #0" = 0
+	"Jimi #1" = 10
+	"Nayanadevi #0" = -1
+	"Ome #1" = 10
+	"Pelri #1" = 10
+	"Rukbo #1" = 10
+	"Sanje #1" = 10
+	"Sedi #1" = 10
+	"Supratisthitavarman #0" = 0
+	"Talom #1" = 10
+	"Thinley #1" = 10
+	"Tsechup #1" = 10
+	"Zangmo #2" = 10
+}

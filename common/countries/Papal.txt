@@ -1,0 +1,322 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 211 220 178 }
+revolutionary_colors = { 1 0 5 }
+historical_idea_groups = {
+	administrative_ideas
+	diplomatic_ideas
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	maritime_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	italian_condotta
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Acacius #3" = 10
+	"Adeodatus #1" = 10
+	"Agatho #1" = 10
+	"Alain #0" = 0
+	"Alexander #1" = 10
+	"Alf #0" = 0
+	"Anacletus #1" = 10
+	"Anastasius #1" = 10
+	"Anicetus #1" = 10
+	"Anselmo #1" = 10
+	"Antoine #1" = 10
+	"Athalaric #1" = 10
+	"Avienus #1" = 10
+	"Aymar #1" = 10
+	"Azur #0" = 0
+	"Benedictus #3" = 10
+	"Bonifacius #1" = 10
+	"Boson #1" = 10
+	"Bruno #2" = 10
+	"Callistus #1" = 10
+	"Castinus #1" = 10
+	"Castorius #2" = 10
+	"Catelinus #1" = 10
+	"Clemens #1" = 10
+	"Conon #1" = 10
+	"Constantinus #1" = 10
+	"Decius #1" = 10
+	"Deodatus #1" = 10
+	"Donus #1" = 10
+	"Eleutherius #1" = 10
+	"Eugenius #1" = 10
+	"Eulalius #2" = 10
+	"Eustache #1" = 10
+	"Evaristus #1" = 10
+	"Fabianus #1" = 10
+	"Faisal #0" = 0
+	"Fasanius #1" = 10
+	"Fortunatus #1" = 10
+	"Friedrich #1" = 10
+	"Gaius #5" = 10
+	"Geghard #1" = 10
+	"Gerard #1" = 10
+	"Gerbert #1" = 10
+	"Gilert #1" = 10
+	"Giovanni #2" = 10
+	"Godefroy #0" = 0
+	"Gordanius #3" = 10
+	"Gordianus #1" = 10
+	"Gregorius #2" = 10
+	"Hadrianus #1" = 10
+	"Hammira #0" = 0
+	"Hilary #3" = 10
+	"Hildebrand #1" = 10
+	"Hippolytus #1" = 10
+	"Hyginus #1" = 10
+	"Ioannes #2" = 10
+	"Johannes #8" = 10
+	"John #15" = 10
+	"John Sicco #1" = 10
+	"Khaterah #0" = -1
+	"Lampert #0" = 0
+	"Leo #2" = 10
+	"Linus #1" = 10
+	"Lucius #1" = 10
+	"Léon #1" = 10
+	"Mammalus #2" = 10
+	"Marcus #6" = 10
+	"Martin #8" = 10
+	"Maximus #6" = 10
+	"Mercurius #1" = 10
+	"Minigaila #0" = 0
+	"Octavianus #1" = 10
+	"Orderic #1" = 10
+	"Ovsanna #0" = -1
+	"Paroi #0" = -1
+	"Pascal #1" = 10
+	"Paulus #1" = 10
+	"Peitro #1" = 10
+	"Petronius #2" = 10
+	"Petrus #1" = 10
+	"Pietro #1" = 10
+	"Pius #1" = 10
+	"Plato #1" = 10
+	"Pontianus #1" = 10
+	"Poppo #1" = 10
+	"Porphyrianus #1" = 10
+	"Predslava #0" = -1
+	"Priscus #1" = 10
+	"Rorgon #0" = 0
+	"Rufinianus #2" = 10
+	"Sergius #2" = 10
+	"Severus #1" = 10
+	"Sisinnius #1" = 10
+	"Soterius #1" = 10
+	"Stephanus #6" = 10
+	"Suidger #1" = 10
+	"Syrka #0" = 0
+	"Telesphorus #1" = 10
+	"Theodorus #3" = 10
+	"Theophylact #2" = 10
+	"Theophylactus #3" = 10
+	"Venantius #1" = 10
+	"Victor #1" = 10
+	"Xystus #1" = 10
+	"Yama #0" = 0
+	"Zacharias #1" = 10
+	"Zephyrinus #1" = 10
+	"Zvenislava #0" = -1
+}
+leader_names = {
+	"Abano"
+	"Adria"
+	"Agno"
+	"Alvise"
+	"Anconna"
+	"Argenta"
+	"Bardolino"
+	"Barilla"
+	"Bassano"
+	"Belfuno"
+	"Belluno"
+	"Bembo"
+	"Brenta"
+	"Brescia"
+	"Casanova"
+	"Cassandro"
+	"Castiglione"
+	"Cento"
+	"Chiogga"
+	"Commachio"
+	"Contarini"
+	"Corfini"
+	"Corleone"
+	"Cornaro"
+	"Cremona"
+	"De Blazio"
+	"Di Castrozza"
+	"Dolfin"
+	"Emo"
+	"Erizzo"
+	"Ermelli"
+	"Feltre"
+	"Ferme"
+	"Ferrara"
+	"Fiume"
+	"Flangini"
+	"Foscarini"
+	"Friuli"
+	"Garda"
+	"Gardone"
+	"Giudica"
+	"Giustani"
+	"Gorizia"
+	"Grado"
+	"Grimani"
+	"Gritti"
+	"Idro"
+	"Iseo"
+	"Isonzo"
+	"Lando"
+	"Latisana"
+	"Legnago"
+	"Lido"
+	"Lignano"
+	"Lissa"
+	"Livenza"
+	"Loredano"
+	"Magno"
+	"Mantova"
+	"Meduna"
+	"Memmo"
+	"Mestre"
+	"Mincio"
+	"Modigliano"
+	"Molini"
+	"Monfalcone"
+	"Oglio"
+	"Padova"
+	"Panaro"
+	"Pesaro"
+	"Pezzini"
+	"Piave"
+	"Ponte Vechio"
+	"Pontebba"
+	"Pordenone"
+	"Pramaggiore"
+	"Priuli"
+	"Raguse"
+	"Rovereto"
+	"Rovigo"
+	"Ruzzini"
+	"San Paulo"
+	"Schio"
+	"Serio"
+	"Sugaina"
+	"Tagliamento"
+	"Tartaro"
+	"Tolmezzo"
+	"Toscani"
+	"Trento"
+	"Trevisano"
+	"Treviso"
+	"Trieste"
+	"Udine"
+	"Valieri"
+	"Verona"
+	"Vicenza"
+	"Vittorio"
+	"Zara"
+	"Zustiniani"
+}
+ship_names = {
+	"Abraham"
+	"Adam"
+	"Angeli"
+	"Archangeli"
+	"Archangelus Gabriel"
+	"Archangelus Michael"
+	"Archangelus Raphael"
+	"Cherubim"
+	"Corpus Christi"
+	"David Rex"
+	"Dominationes"
+	"Episcopus Romanus"
+	"Eva"
+	"Franciscus Assisiensis"
+	"Hierosalyma"
+	"Iesu Christus Salvator"
+	"Ioannes Baptista"
+	"Iob"
+	"Isaac"
+	"Moyses"
+	"Noe"
+	"Pater et Pastor"
+	"Pontifex Maximum"
+	"Potestates"
+	"Principatus"
+	"Salomon Rex"
+	"Sancta Birgitta"
+	"Sanctus Alexander"
+	"Sanctus Ambrosius"
+	"Sanctus Andreas"
+	"Sanctus Anselmus"
+	"Sanctus Augustinus"
+	"Sanctus Bartholomeus"
+	"Sanctus Bernardus"
+	"Sanctus Bonaventura"
+	"Sanctus Cassianus"
+	"Sanctus Cyprianus"
+	"Sanctus Dominicus"
+	"Sanctus Hieronymus"
+	"Sanctus Hilarius"
+	"Sanctus Hippolytus"
+	"Sanctus Iohannes"
+	"Sanctus Iosephus"
+	"Sanctus Isidorus"
+	"Sanctus Iudas"
+	"Sanctus Leo I"
+	"Sanctus Linus"
+	"Sanctus Mattheus"
+	"Sanctus Matthias"
+	"Sanctus Patricius"
+	"Sanctus Paulus"
+	"Sanctus Petrus"
+	"Sanctus Philippus"
+	"Sanctus Simon"
+	"Sanctus Synesius"
+	"Sanctus Thomas"
+	"Sanctus Urbanus I"
+	"Seraphim"
+	"St Albertus Magnus"
+	"St Antonius de Padova"
+	"St Basilius Magnus"
+	"St Beda Venerabilis"
+	"St Cathatina Sienensis"
+	"St Ciaranus Maior"
+	"St Ciaranus Minor"
+	"St Ephraem Syrus"
+	"St Gregorius Magnus"
+	"St Iacobus Alphei"
+	"St Iacobus Maior"
+	"St Iohannes Damascena"
+	"St Petrus Chrysologus"
+	"St Petrus Damianus"
+	"St Thomas Aquinas"
+	"Throni"
+	"Virgo Maria"
+	"Virtutes"
+}
+army_names = {
+	"Armata di $PROVINCE$"
+}

@@ -1,0 +1,32 @@
+tercios_reform = {
+	icon = "tercios_reform"
+	allow_normal_conversion = yes
+	potential = {
+		has_dlc = "Domination" 
+		OR = {
+			AND = {
+				is_or_was_tag = { tag = ARA }
+				OR = {
+					total_development = 500 
+					is_great_power = yes 
+				}
+			}
+			mission_completed = spa_tercios_system
+			custom_trigger_tooltip = {
+				tooltip = has_unlocked_this_reform_tt
+				has_country_flag = enable_tercios_reform_flag
+			}
+			has_reform = tercios_reform
+		}
+	}
+	modifiers = {
+		has_tercio = yes
+		allowed_tercio_fraction = 0.15
+		army_tradition = 0.5
+		yearly_army_professionalism = 0.0025
+	}
+	
+	ai = {
+		factor = 1
+	}
+}

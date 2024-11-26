@@ -1,0 +1,25 @@
+namestate = neutron_beam
+country_event = {
+	id = neutron_beam.1
+	title = neutron_beam.t
+	desc = neutron_beam.d
+	picture = PILLAR_OF_ETERNITY_ANIMATED_eventPicture
+
+
+	trigger = {
+		OR = { tag = ADU tag = ENG tag = FRA tag = GEO tag = GER tag = KIE tag = ORI tag = KHA }
+		NOT = { has_country_flag = neutron_beam_fired }
+	}
+	mean_time_to_happen = {
+		days = 4
+	}
+	
+	immediate = {
+		set_country_flag = neutron_beam_fired
+	}
+	
+	option = {
+		name = neutron_beam.a
+		custom_tooltip = "This is not foreboding in the slightest..."
+	}
+}

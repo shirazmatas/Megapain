@@ -1,0 +1,83 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 243 106 0 }
+revolutionary_colors = { 5 8 5 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+historical_units = {
+	african_abyssinian_cavalry
+	african_abyssinian_light_cavalry
+	african_dragoon
+	african_hussar
+	african_mossi_horsemen
+	african_somali_cavalry
+	african_spearmen
+	bantu_tribal_warfare
+	ethiopian_guerilla_warfare
+	ethiopian_gunpowder_warfare
+	ethiopian_mountain_warfare
+	westernized_ethiopian
+}
+monarch_names = {
+	"Abai #0" = 0
+	"Aman #0" = 0
+	"Amhara #0" = -1
+	"Barni #0" = -1
+	"China #0" = -1
+	"Daniachew #0" = 0
+	"Dietpold #0" = 0
+	"Hakym #1" = 10
+	"Iskinder #0" = 0
+	"Koza #0" = 0
+	"Makeda #0" = -1
+	"Mekonnen #0" = 0
+	"Miruts #0" = 0
+	"Negasi #0" = 0
+	"Seble #0" = -1
+	"Shono #0" = 0
+	"Tefere #0" = 0
+	"Teferi #0" = 0
+}
+leader_names = {
+	"Benesho"
+	"Bosho"
+	"Chara"
+	"CharaGera"
+	"Eneara"
+	"Gofa"
+	"Gomma"
+	"Gonga"
+	"Hinaro"
+	"Hio"
+	"Konta"
+	"Kullo"
+	"Maji"
+	"Masongo"
+	"Mato"
+	"Minje"
+	"Nao"
+	"She"
+	"Shewo"
+	"Uba"
+}
+ship_names = {
+	"Kedus Harbe"
+	"Lalibela"
+	"Mara Takla"
+	"Na'akueto La'ab"
+	"Seyum"
+	"Shewa"
+	"Tatadum"
+	"Tigray"
+	"Yekuno Amlak"
+	"Yetbarak"
+	"Yodit"
+}

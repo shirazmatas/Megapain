@@ -1,0 +1,187 @@
+namespace = yoan_russia
+country_event = { 
+	id = yoan_russia.1
+	title = yoan_russia.1.t
+	desc = yoan_russia.1.d
+	picture = LAND_MILITARY_eventPicture
+	
+	fire_only_once = yes
+	
+	major = yes
+	
+	trigger = {
+		NOT = { has_global_flag = yoan_russia_war }
+		tag = RUS
+		owns = 41
+		}
+
+	
+	
+	mean_time_to_happen = { 
+		days = 2
+	}
+	immediate = {
+		set_global_flag = yoan_russia_war
+		play_sound = yoan_russia
+	}
+
+	option = { 
+		name = yoan_russia.1.a		
+		custom_tooltip = "Kaliningrad has Fallen!"
+		every_country = {
+		limit = { ai = no }
+        country_event = {
+        id = yoan_russia.5
+        }
+		}
+	}
+}
+
+country_event = { 
+	id = yoan_russia.2
+	title = yoan_russia.2.t
+	desc = yoan_russia.2.d
+	picture = LAND_MILITARY_eventPicture
+	
+
+	fire_only_once = yes
+	
+	major = yes
+	
+	trigger = {
+		NOT = { has_global_flag = yoan_russia_war_2 }
+		tag = RUS
+		owns = 2410
+		}
+	
+	mean_time_to_happen = { 
+		days = 2
+	}
+	immediate = {
+		set_global_flag = yoan_russia_war_2
+		play_sound = yoan_russia
+	}
+	option = { 
+		name = yoan_russia.2.a		
+		custom_tooltip = "Crimea has Fallen!"
+		every_country = {
+		limit = { ai = no }
+        country_event = {
+        id = yoan_russia.6
+        }
+		}
+	}
+}
+
+country_event = { 
+	id = yoan_russia.3
+	title = yoan_russia.3.t
+	desc = yoan_russia.3.d
+	picture = ST_PETERS_CHURCH_eventPicture
+	
+	fire_only_once = yes
+	
+	major = yes
+	
+	trigger = {
+		NOT = { has_global_flag = yoan_russia }
+		tag = RUS
+		owns = 295
+		}
+	
+	
+	mean_time_to_happen = { 
+		days = 2
+	}
+	immediate = {
+		set_global_flag = yoan_russia
+		play_sound = yoan_russia
+	}
+
+	option = { 
+		name = yoan_russia.3.a		
+		custom_tooltip = "But communism isn't invented yet?"
+		every_country = {
+		limit = { ai = no }
+        country_event = {
+        id = yoan_russia.4
+        }
+		}
+	}
+}
+
+#global counterparts
+
+country_event = {
+	id = yoan_russia.4
+	title = yoan_russia.3.t
+	desc = yoan_russia.3.d
+	picture = ST_PETERS_CHURCH_eventPicture
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = { has_country_flag = RUS_had_event_4 }
+		OR = { tag = ADU tag = ENG tag = GBR tag = FRA tag = GEO tag = GER tag = ORI tag = KHA tag = MGE tag = BHA tag = KOJ tag = C01 }
+ 	}
+	
+	immediate = {
+		set_global_flag = RUS_had_event_4
+		play_sound = yoan_russia
+	}
+	
+	option = { 
+		name = yoan_russia.3.a		
+		custom_tooltip = "But communism isn't invented yet?"
+	}
+	
+}
+
+country_event = { 
+	id = yoan_russia.5
+	title = yoan_russia.2.t
+	desc = yoan_russia.2.d
+	picture = LAND_MILITARY_eventPicture
+	
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = { has_country_flag = RUS_had_event_5 }
+		OR = { tag = ADU tag = ENG tag = GBR tag = FRA tag = GEO tag = GER tag = ORI tag = KHA tag = MGE tag = BHA tag = KOJ tag = C01 }
+		}
+	
+
+	immediate = {
+		set_global_flag = RUS_had_event_5
+		play_sound = yoan_russia
+	}
+	option = { 
+		name = yoan_russia.2.a		
+		custom_tooltip = "Crimea has Fallen!"
+	}
+}
+
+country_event = { 
+	id = yoan_russia.6
+	title = yoan_russia.2.t
+	desc = yoan_russia.2.d
+	picture = LAND_MILITARY_eventPicture
+	
+    is_triggered_only = yes
+	
+	trigger = {
+		NOT = { has_country_flag = RUS_had_event_6 }
+		OR = { tag = ADU tag = ENG tag = GBR tag = FRA tag = GEO tag = GER tag = ORI tag = KHA tag = MGE tag = BHA tag = KOJ tag = C01 }
+		}
+	
+
+	immediate = {
+		set_global_flag = RUS_had_event_6
+		play_sound = yoan_russia
+	}
+	option = { 
+		name = yoan_russia.2.a		
+		custom_tooltip = "Crimea has Fallen!"
+	}
+}

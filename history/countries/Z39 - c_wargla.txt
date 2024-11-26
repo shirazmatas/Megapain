@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = berber
+capital = 2472
+fixed_capital = 2472
+religious_school = hanbali_school
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Yugerten"
+		dynasty = "Anwarid"
+		adm = 3
+		dip = 5
+		mil = 4
+		birth_date = 1403.9.3
+		religion = sunni
+		culture = berber
+	}
+	add_ruler_personality = calm_personality
+	add_ruler_personality = careful_personality
+	queen = {
+		name = "Wrina"
+		dynasty = "Athbejid"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = Z39
+		birth_date = 1427.4.3
+		death_date = 1487.4.3
+		female = yes
+		religion = sunni
+		culture = berber
+	}
+	add_queen_personality = conqueror_personality
+	add_queen_personality = expansionist_personality
+	heir = {
+		name = "Aras"
+		monarch_name = "Aras II"
+		dynasty = "Anwarid"
+		adm = 6
+		dip = 4
+		mil = 5
+		birth_date = 1409.3.3
+		death_date = 1474.3.3
+		claim = 89
+		religion = sunni
+		culture = berber
+	}
+	add_heir_personality = just_personality
+	add_heir_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 65
+	add_treasury = 0
+}

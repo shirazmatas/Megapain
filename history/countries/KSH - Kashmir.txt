@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = kashmiri
+capital = 508
+add_accepted_culture = hindustani_proper
+1444.11.11= {
+	monarch = {
+		name = "Paramanuka II"
+		dynasty = "Lohara"
+		adm = 4
+		dip = 4
+		mil = 5
+		birth_date = 1391.6.6
+		religion = hinduism
+		culture = kashmiri
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = industrious_personality
+	queen = {
+		name = "Bibibai"
+		dynasty = "Pala"
+		adm = 3
+		dip = 4
+		mil = 4
+		country_of_origin = KSH
+		birth_date = 1391.6.13
+		death_date = 1451.6.13
+		female = yes
+		religion = mahayana
+		culture = bengali
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = righteous_personality
+	heir = {
+		name = "Manjarika"
+		monarch_name = "Manjarika"
+		dynasty = "Lohara"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1418.12.23
+		death_date = 1483.12.23
+		female = yes
+		claim = 89
+		religion = hinduism
+		culture = kashmiri
+	}
+	add_heir_personality = benevolent_personality
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11= {
+	add_prestige = 95
+	add_treasury = 69
+}

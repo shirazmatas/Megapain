@@ -1,0 +1,198 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 205 110 47 }
+revolutionary_colors = { 6 0 12 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Abas #0" = 0
+	"Abdullah #0" = 0
+	"Abu'l-Maghra #1" = 10
+	"Anaba #0" = 0
+	"Artavazd #1" = 10
+	"Aytekin #1" = 10
+	"Badma #0" = 0
+	"Berjouhi #0" = -1
+	"Elisabeth #0" = -1
+	"Eliz #0" = -1
+	"Gholam #0" = 0
+	"Grigor #1" = 10
+	"Hafsa #0" = -1
+	"Hakam #1" = 10
+	"Hovhannes #0" = 0
+	"Hrahat #1" = 10
+	"Margos #0" = 0
+	"Musa #1" = 10
+	"Nane #0" = -1
+	"Nerseh #2" = 10
+	"Revend #1" = 10
+	"Sahak #1" = 10
+	"Savtekin #1" = 10
+	"Sinan #1" = 10
+	"Vahan #1" = 10
+	"Vahram #1" = 10
+	"Varazdat #0" = 0
+	"Yeghishe #0" = 0
+	"Özlem #0" = -1
+}
+leader_names = {
+	"Ali Sherwan"
+	"Barzani"
+	"Bukhti"
+	"Ferozkohi"
+	"Feyli"
+	"Gewirk"
+	"Hadhabani"
+	"Herki"
+	"Jaff"
+	"Jalilavand"
+	"Mangur"
+	"Rekani"
+	"Sanjâbi"
+	"Sheylanli"
+	"Zafaranlu"
+	"Zarrinkafsh"
+}
+ship_names = {
+	"Abathur"
+	"Adamn Kasia"
+	"Aesma Daeva"
+	"Agas"
+	"Ahaka"
+	"Ahriman"
+	"Ahura"
+	"Ahura Mazda"
+	"Ahurani"
+	"Airyaman"
+	"Aka Manah"
+	"Aladdin"
+	"Allatum"
+	"Amashaspan"
+	"Ameratat"
+	"Amesha Spentas"
+	"Anahita"
+	"Angra Mainyu"
+	"Anjuman"
+	"Apam-natat"
+	"Apaosa"
+	"Aredvi"
+	"Arishtat"
+	"Armaiti"
+	"Arsaces"
+	"Asha vahista"
+	"Asman"
+	"Asto Vidatu"
+	"Astvat-Ereta"
+	"Atar"
+	"Azi Dahaka"
+	"Baga"
+	"Bahram"
+	"Burijas"
+	"Bushyasta"
+	"Buyasta"
+	"Camros"
+	"Daena"
+	"Daevas"
+	"Dahhak"
+	"Dena"
+	"Dev"
+	"Diwe"
+	"Drug"
+	"Drvaspa"
+	"Frashegird"
+	"Fravashis"
+	"Gandarewa"
+	"Gao-kerena"
+	"Gayomard"
+	"Gayomart"
+	"Geus-Tasan"
+	"Geus-Urvan"
+	"Haoma"
+	"Haurvatat"
+	"Humay"
+	"Hvar"
+	"Hvarekhshaeta"
+	"Indar"
+	"Indra"
+	"Izha"
+	"Jamshid"
+	"Jeh"
+	"Karshipta"
+	"Kavi"
+	"Khara"
+	"Khshathra vairya"
+	"Kundrav"
+	"Mah"
+	"Mahre"
+	"Mahrianag"
+	"Manu"
+	"Manuchihir"
+	"Mao"
+	"Mashyane"
+	"Mashye"
+	"Menog"
+	"Mithra"
+	"Nairyosangha"
+	"Nanghaithya"
+	"Neriosang"
+	"Ormazd"
+	"Peris"
+	"Peshdadians"
+	"Rapithwin"
+	"Rashnu"
+	"Rustam"
+	"Saurva"
+	"Simurgh"
+	"Spenta Mainyu"
+	"Sraosa"
+	"Srosh"
+	"Tawrich"
+	"Thunaupa"
+	"Tistrya"
+	"Tushnamatay"
+	"Vanant"
+	"Vata"
+	"Verethragna"
+	"Vohu Manah"
+	"Vouruskasha"
+	"Yam"
+	"Yasht"
+	"Yazata"
+	"Yezidi"
+	"Yima"
+	"Zal"
+	"Zam"
+	"Zam-Armatay"
+	"Zarathustra"
+	"Zarich"
+	"Zend-Avesta"
+	"Zurvan"
+}
+army_names = {
+	"$PROVINCE$"
+	"Artesa"
+}
+fleet_names = {
+	"$PROVINCE$ Donanmasî"
+}

@@ -1,0 +1,121 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 210 106 47 }
+revolutionary_colors = { 5 8 0 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	quantity_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+historical_units = {
+	indian_archers
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Ahiavadevi #0" = -1
+	"Annaladevi #0" = -1
+	"Apsaradevi #0" = -1
+	"Bhimaratha #0" = 0
+	"Bohodevi #0" = -1
+	"Cantirâdêvi #0" = -1
+	"Damayanti #0" = -1
+	"Dandimahadevi #0" = -1
+	"Dattadevi #0" = -1
+	"Dayita #0" = 0
+	"Devavati #0" = -1
+	"Dhamika #0" = -1
+	"Dharmamahadevi #0" = -1
+	"Durlabha #0" = -1
+	"Farhan #0" = 0
+	"Gandharavati #0" = -1
+	"Gayatri #0" = -1
+	"Harisarana #0" = 0
+	"Janmejaya #1" = 10
+	"Jayananda #0" = 0
+	"Jhita #0" = -1
+	"Kalua #0" = 0
+	"Kapilendradeva #0" = 0
+	"Khonma #0" = -1
+	"Kubjavishnuvardhana #0" = 0
+	"Kuladevi #0" = -1
+	"Lakshmikaradevi #0" = -1
+	"Madhaba #0" = 0
+	"Madhavavarman #0" = 0
+	"Magha #0" = -1
+	"Nayanadevi #0" = -1
+	"Ngawang #0" = -1
+	"Parakramabahu #0" = 0
+	"Paramananda #0" = 0
+	"Periyanâcci #0" = -1
+	"Ramachandradeva #0" = 0
+	"Rat #1" = 10
+	"Ratnavati #0" = -1
+	"Sankha #0" = 0
+	"Saruman the Stupid #1" = 10
+	"Suvrata #1" = -1
+	"Syamadevi #0" = -1
+	"Udyotakesari #1" = 10
+	"Umar #0" = 0
+	"Vakulamahadevi #0" = -1
+	"Vijayaditya #0" = 0
+	"Vijnanavati #0" = -1
+	"Vijnayavati #0" = -1
+}
+leader_names = {
+	"Bhowarbar"
+	"Bidyadhar"
+	"Dassa"
+	"Deo"
+	"Deva"
+	"Gajapati"
+	"Kalinga"
+	"Nayudu"
+	"Patra"
+	"Poosapati"
+	"Rai"
+	"Ratha"
+	"Reddy"
+	"Roy"
+	"Santra"
+	"Singhar"
+	"Sinha"
+	"Uria"
+	"Vansa"
+	"Vasireddy"
+	"Velama"
+}
+ship_names = {
+	"Baitarani"
+	"Balasore"
+	"Balugaon"
+	"Behrampur"
+	"Bhubeneswar"
+	"Brahmani"
+	"Chandipur"
+	"Chilka"
+	"Cuttack"
+	"Durga"
+	"Gopalpur"
+	"Jagannath"
+	"Juggernaut"
+	"Kalijai"
+	"Konark"
+	"Lakshmi"
+	"Mahanadi"
+	"Nalabana"
+	"Paradeep"
+	"Parvati"
+	"Puri"
+	"Radha"
+	"Sarasvati"
+	"Satapada"
+}

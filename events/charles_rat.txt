@@ -1,0 +1,78 @@
+namespace = charles_rat
+country_event = { 
+	id = charles_rat.1
+	title = charles_rat.1.t
+	desc = charles_rat.1.d
+	picture = charles_rat_eventPicture
+	
+	fire_only_once = yes
+	
+	
+	trigger = {
+		NOT = { has_global_flag = charles_rat }
+		tag = BHA
+		owns = 522
+		is_year = 1724
+		not = { is_year = 1734 }
+		}
+
+	
+	
+	mean_time_to_happen = { 
+		days = 2
+	}
+	immediate = {
+		set_global_flag = charles_rat
+		play_sound = charles_rat
+	}
+
+	option = { 
+		name = charles_rat.1.a		
+		custom_tooltip = "A dark insight into an ominous future..."
+		add_adm_power = 20
+		add_republican_tradition = 100
+		define_ruler = {
+			name = "The Rat President"
+			birth_date = 1706.1.1
+			adm = 5
+			dip = 2
+			mil = 4
+		}
+		hidden_effect = { add_ruler_personality_ancestor = { key = greedy } }
+		every_country = {
+		limit = { ai = no }
+        country_event = {
+        id = charles_ra.2
+        }  
+      }
+	}
+}
+
+
+
+country_event = { 
+	id = charles_rat.2
+	title = charles_rat.1.t
+	desc = charles_rat.1.d
+	picture = charles_rat_eventPicture
+	
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = { has_country_flag = BHA_had_event_2 }
+		OR = { tag = ADU  tag = SPA tag = RUS tag = FRA tag = GEO tag = BYZ tag = GER tag = KHA tag = MGE tag = KOJ tag = C01 }
+		}
+	
+
+	immediate = {
+		set_global_flag = BHA_had_event_2
+		play_sound = charles_rat
+	}
+	option = { 
+		name = charles_rat.1.a		
+		custom_tooltip = "A dark insight into an ominous future..."
+	}
+}
+
+

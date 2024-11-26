@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = muslim
+religion = ibadi
+primary_culture = mahri_culture
+capital = 1099
+add_accepted_culture = yemeni_culture
+set_country_flag = ZZZ_generated_converter_nation
+1444.11.11= {
+	monarch = {
+		name = "Jibril"
+		dynasty = "Jibrilid"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 1388.2.23
+		religion = ibadi
+		culture = mahri_culture
+	}
+	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = kind_hearted_personality
+	queen = {
+		name = "Amsha"
+		dynasty = "Quraqirid"
+		adm = 4
+		dip = 3
+		mil = 2
+		country_of_origin = Z21
+		birth_date = 1399.1.12
+		death_date = 1459.1.12
+		female = yes
+		religion = ibadi
+		culture = al_misr_arabic
+	}
+	add_queen_personality = benevolent_personality
+	add_queen_personality = kind_hearted_personality
+	heir = {
+		name = "Ali"
+		monarch_name = "Ali"
+		dynasty = "Jibrilid"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1419.9.26
+		death_date = 1484.9.26
+		claim = 89
+		religion = ibadi
+		culture = bedouin_arabic
+	}
+	add_heir_personality = free_thinker_personality
+	add_heir_personality = sinner_personality
+}
+1444.11.11= {
+	add_prestige = 81
+	add_treasury = 69
+}

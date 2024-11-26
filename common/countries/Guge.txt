@@ -1,0 +1,118 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 50 37 125 }
+revolutionary_colors = { 13 16 13 }
+historical_idea_groups = {
+	quantity_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	chinese_dragoon
+	chinese_footsoldier
+	chinese_longspear
+	chinese_steppe
+	eastern_bow
+	han_banner
+	manchu_banner
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+	reformed_manchu_rifle
+}
+monarch_names = {
+	"Amala #1" = -1
+	"Bummé #0" = 0
+	"Buqa #0" = 0
+	"Chungsang Ormang #1" = 10
+	"Chéchentsa Tsédé #1" = 10
+	"Dachen #0" = 0
+	"Denpa #0" = 0
+	"Diki #0" = 0
+	"Dolkar #0" = -1
+	"Gerrit #0" = 0
+	"Gyalsig Shuteng #1" = 10
+	"Gyaltore Taknye #1" = 10
+	"Jangchup-Ö #1" = 10
+	"Jangmu #1" = -1
+	"Khorré #1" = 10
+	"Kyesang Dongtsab #1" = 10
+	"Kyidé #0" = 0
+	"Kywe #0" = 0
+	"Lhadé #1" = 10
+	"Lontramo #1" = 10
+	"Lotsen #1" = 10
+	"Mac-Laisre #0" = 0
+	"Manggyel #0" = 0
+	"Mangje Lhalo #1" = 10
+	"Mangpoje Lhasung #1" = 10
+	"Mangpoje Shangnang #1" = 10
+	"Mangsham Sumnang #1" = 10
+	"Mangsham Taktsab #1" = 10
+	"Mutlu #0" = -1
+	"Nakdé #1" = 10
+	"Namdé Ösung #1" = 10
+	"Nangshar Sutsen #1" = 10
+	"Pelkhortsen #1" = 10
+	"Phoyongsa #1" = -1
+	"Phurbu #0" = 0
+	"Pungse Sutse #1" = 10
+	"Puppadevi #0" = -1
+	"Rapsel #0" = 0
+	"Shang Gyaltsen Lhanang #1" = 10
+	"Songngé Yéshé-Ö #1" = 10
+	"Sönamtsé #0" = 0
+	"Tadra Khonglo #1" = 10
+	"Takdra Lukhong #1" = 10
+	"Thrikhyiding #1" = 10
+	"Tongtsen Yulsung #3" = 10
+	"Trashi Tsentsen #1" = 10
+	"Trashigön #1" = 10
+	"Trinring Tsendro #1" = 10
+	"Trisang Yalag #1" = 10
+	"Trisig Shangnyen #2" = 10
+	"Trisu Ramsha #1" = 10
+	"Trisumje Taknang #1" = 10
+	"Tritsuk #1" = 10
+	"Tsamchö #0" = 0
+	"Tsenye Dompu #1" = 10
+	"Udumtsen #0" = 0
+	"Ödétsen #1" = 10
+}
+leader_names = {
+	"Gampo"
+	"Phuntsok"
+	"Sonam"
+	"Sregs"
+	"Srong"
+	"Tashi"
+	"Thekchen"
+	"Tsewang"
+	"Wangdak"
+	"Wangdue"
+}
+ship_names = {
+	"Barkam"
+	"Dartsendo"
+	"Gartse"
+	"Gyantse"
+	"Lhasa"
+	"Lhotse"
+	"Makalu"
+	"Nagqu"
+	"Nedong"
+	"Nyingchi"
+	"Pelbar"
+	"Qamdo"
+	"Sakya"
+	"Shigatse"
+	"Tinggri"
+}

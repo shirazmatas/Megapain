@@ -1,0 +1,122 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 163 5 77 }
+revolutionary_colors = { 5 8 9 }
+historical_idea_groups = {
+	defensive_ideas
+	quantity_ideas
+	trade_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	economic_ideas
+	offensive_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Amin #0" = 0
+	"Anitalli #0" = -1
+	"Arathi #1" = 10
+	"Balavarman #3" = 10
+	"Bhaskaravarman #1" = 10
+	"Bhutivarman #1" = 10
+	"Brahmapala #1" = 10
+	"Chandramukhavarman #1" = 10
+	"Delhanadevi #0" = -1
+	"Dharmapala #2" = 10
+	"Donyi #0" = -1
+	"Dungar-Singh #0" = 0
+	"Eltut #0" = 0
+	"Ganapativarman #1" = 10
+	"Gopala #1" = 10
+	"Hariyamandal #0" = 0
+	"Harjjaravarman #1" = 10
+	"Harshadeva #1" = 10
+	"Harshapala #1" = 10
+	"Indrapala #1" = 10
+	"Jayamala #1" = 10
+	"Jayapala #2" = 10
+	"Jayasimha #1" = 10
+	"Kalyanavarman #1" = 10
+	"Kirtipala #0" = 0
+	"Kumarastambha #1" = 10
+	"Kyaswa #0" = 0
+	"Mahendravarman #1" = 10
+	"Narayanavarman #1" = 10
+	"Ngedup #1" = -1
+	"Palakastambha #1" = 10
+	"Pushyavarman #1" = 10
+	"Rahap #0" = 0
+	"Ratnapala #1" = 10
+	"Rudaladevi #0" = -1
+	"Salambha #1" = 10
+	"Salasthamba #1" = 10
+	"Samudravarman #1" = 10
+	"Sthitavarman #1" = 10
+	"Supratisthitavarman #1" = 10
+	"Susthitavarman #1" = 10
+	"Tihunaka #0" = -1
+	"Tsundue #0" = -1
+	"Tyagasimha #1" = 10
+	"Vajradeva #1" = 10
+	"Vanamalavarmadeva #1" = 10
+	"Vanraja #1" = 10
+	"Vijayasthamba #1" = 10
+	"Youma #0" = -1
+}
+leader_names = {
+	"Baruah"
+	"Borphukan"
+	"Chandra"
+	"Das"
+	"Deka"
+	"Kalita"
+	"Mahanta"
+	"Narayan"
+	"Prithu"
+	"Roy"
+}
+ship_names = {
+	"Brahmaputra"
+	"Chingri Mach"
+	"Darrang"
+	"Devi"
+	"Dibang"
+	"Durga Ma"
+	"Ganga"
+	"Hilsa Mach"
+	"Ilish Mach"
+	"Kali Ma"
+	"Kali Meghana"
+	"Kali Nauk"
+	"Kamrup"
+	"Lakimpur"
+	"Lal Nauk"
+	"Loki Devi"
+	"Luhit"
+	"Machli"
+	"Manasa Devi"
+	"Manjuli"
+	"Meghna"
+	"Nil Nauk"
+	"Nil Sagor"
+	"Parvati Devi"
+	"Rui Mach"
+	"Sagorer Bahini"
+	"Saraswoti"
+	"Shakti"
+	"Shaktir Nauk"
+	"Shasti Ma"
+	"Sibsagar"
+	"Trishool"
+	"Uma Devi"
+}

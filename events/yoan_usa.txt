@@ -1,0 +1,68 @@
+namespace = yoan_usa
+country_event = { 
+	id = yoan_usa.1
+	title = yoan_usa.1.t
+	desc = yoan_usa.1.d
+	picture = PITBULL_eventPicture
+	
+	fire_only_once = yes
+	
+	
+	trigger = {
+		NOT = { has_global_flag = yoan_usa }
+		tag = C04
+		capital_scope = {
+			development = 61
+		}
+		owns = 965
+		}
+
+	
+	
+	mean_time_to_happen = { 
+		days = 2
+	}
+	immediate = {
+		set_global_flag = yoan_usa
+		play_sound = yoan_usa
+	}
+
+	option = { 
+		name = yoan_usa.1.a		
+		custom_tooltip = "It's international Love!"
+		every_country = {
+        country_event = {
+        id = yoan_usa.2
+        }  
+      }
+	}
+}
+
+
+
+country_event = { 
+	id = yoan_usa.2
+	title = yoan_usa.1.t
+	desc = yoan_usa.1.d
+	picture = PITBULL_eventPicture
+	
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = { has_country_flag = USA_had_event_2 }
+		OR = { tag = ADU tag = SPA tag = RUS tag = FRA tag = GEO tag = BYZ tag = GER tag = ORI tag = KHA tag = MGE tag = BHA tag = KOJ tag = C01 tag = GBR }
+		}
+	
+
+	immediate = {
+		set_global_flag = USA_had_event_2
+		play_sound = yoan_usa
+	}
+	option = { 
+		name = yoan_usa.1.a		
+		custom_tooltip = "It's international Love!"
+	}
+}
+
+

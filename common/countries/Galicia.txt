@@ -1,0 +1,216 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 240 167 130 }
+revolutionary_colors = { 0 14 0 }
+historical_idea_groups = {
+	religious_ideas
+	maritime_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	spanish_tercio
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adam #0" = 0
+	"Adelfonso #3" = 10
+	"Adosinda #0" = -1
+	"Afonso #1" = 10
+	"Alfonso #1" = 10
+	"Alfonsu #3" = 10
+	"Aurelio #1" = 10
+	"Bermudu #2" = 10
+	"Bernardo #1" = 10
+	"Diego #0" = 0
+	"Dietwin #1" = 10
+	"Elvira #1" = -1
+	"Fafila #1" = 10
+	"Favila #0" = 0
+	"Fernando #1" = 10
+	"Fruela #1" = 10
+	"Fruella #1" = 10
+	"García #2" = 10
+	"Gontrode #1" = -1
+	"Goto #0" = -1
+	"Mauregato #1" = 10
+	"Mendo #0" = 0
+	"Muarie #0" = -1
+	"Munio #0" = 0
+	"Nepociano #1" = 10
+	"Nuño #0" = 0
+	"Ordoñu #4" = 10
+	"Osterhild #0" = -1
+	"Pelagio #1" = 10
+	"Pelayo #1" = 10
+	"Ramiru #3" = 10
+	"Sanchu #2" = 10
+	"Silo #1" = 10
+	"Theophilos #0" = 0
+	"Tinhinan #0" = -1
+	"Utaiyaval #0" = -1
+	"Vela #1" = 10
+	"Veremondo #1" = 10
+}
+leader_names = {
+	"Campomanes"
+	"Cienfuegos"
+	"Colón"
+	"Coronado"
+	"Cortés"
+	"Fonseca"
+	"Gálvez"
+	"Gómez"
+	"Jiménez de Cisneros"
+	"López de Haro"
+	"Narváez"
+	"Nuñez de Balboa"
+	"Orellana"
+	"Osorio"
+	"Pimentel"
+	"Pinzón"
+	"Pizarro"
+	"Ponce de León"
+	"Portocarrero"
+	"Tellez-Girón"
+	"de Aguirre"
+	"de Alarcón"
+	"de Andrade"
+	"de Ayala"
+	"de Bazán"
+	"de Benavides"
+	"de Castilla"
+	"de Córdoba"
+	"de Figueroa"
+	"de Guzmán"
+	"de Lara"
+	"de Leiva"
+	"de Luna"
+	"de Mendoza"
+	"de Nebrija"
+	"de Ojeda"
+	"de Rojas"
+	"de Toledo"
+	"de Velasco"
+	"de Villena"
+	"de Zúñiga"
+	"de la Cerda"
+	"de la Cueva"
+	"de la Vega"
+}
+ship_names = {
+	"Argonauta"
+	"Asturias"
+	"Asunción"
+	"Atrevido"
+	"Azor"
+	"Cartagonova"
+	"Castilla"
+	"Castillo Negro"
+	"Castor"
+	"Ciervo Volante"
+	"Doncella"
+	"Dragón"
+	"El Gran Grin"
+	"El Retiro"
+	"Eneas"
+	"Eolo"
+	"Esperanza"
+	"Espíritu Santo"
+	"Extremadura"
+	"Furor"
+	"Galicia"
+	"Gran Grifón"
+	"Halcón"
+	"Hércules"
+	"Isabela"
+	"Júpiter"
+	"La Concepción"
+	"La Magdalena"
+	"La Manuela"
+	"León"
+	"Ligera"
+	"Lobo Marino"
+	"Marte"
+	"Mercurio"
+	"Neptuno"
+	"Niña"
+	"Orión"
+	"Paloma Blanca"
+	"Pegaso"
+	"Perro Marino"
+	"Pinta"
+	"Plutón"
+	"Pollux"
+	"Príncipe de Asturias"
+	"Rayo"
+	"Real Alfonso"
+	"Real Enrique"
+	"Real Juan"
+	"Rey Pelayo"
+	"Rey Rodrigo"
+	"San Andrés"
+	"San Antonio"
+	"San Bartolomé"
+	"San Bernabé"
+	"San Cristobal"
+	"San Enrique"
+	"San Esteban"
+	"San Fernando"
+	"San Francisco"
+	"San Gabriel"
+	"San Isidoro"
+	"San Jerónimo"
+	"San José"
+	"San Juan"
+	"San Juan Bautista"
+	"San Leandro"
+	"San Miguel"
+	"San Pedro"
+	"San Rafael"
+	"San Salvador"
+	"San Sebastian"
+	"Santa Ana"
+	"Santa Beatriz"
+	"Santa Bárbara"
+	"Santa Catalina"
+	"Santa Cruz"
+	"Santa Fe"
+	"Santa Isabel"
+	"Santa Justa"
+	"Santa Marta"
+	"Santa María"
+	"Santa Rita"
+	"Santa Teresa"
+	"Santiago"
+	"Santo Domingo"
+	"Santísima Trinidad"
+	"Sirena"
+	"Terror"
+	"Toledo"
+	"Trinidad"
+	"Tritón"
+	"Unicornio"
+	"Vencedora"
+	"Ventura"
+	"Victoria"
+	"Vigilante"
+	"Vizcaya"
+	"Vulcano"
+	"Zúñiga"
+}

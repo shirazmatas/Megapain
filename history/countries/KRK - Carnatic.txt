@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = nayankara_reform
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = kannada
+capital = 2035
+1444.11.11= {
+	monarch = {
+		name = "Shivamara"
+		dynasty = "Dwarasamudrid"
+		adm = 5
+		dip = 3
+		mil = 5
+		birth_date = 1400.6.15
+		religion = hinduism
+		culture = kannada
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = industrious_personality
+	queen = {
+		name = "Bhiubai"
+		dynasty = "Seuna Yadava"
+		adm = 5
+		dip = 4
+		mil = 4
+		country_of_origin = KRK
+		birth_date = 1389.2.24
+		death_date = 1449.2.24
+		female = yes
+		religion = hinduism
+		culture = marathi
+	}
+	add_queen_personality = martial_educator_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Shivamara"
+		monarch_name = "Shivamara II"
+		dynasty = "Dwarasamudrid"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 1424.1.7
+		death_date = 1489.1.7
+		claim = 89
+		religion = hinduism
+		culture = kannada
+	}
+	add_heir_personality = expansionist_personality
+	add_heir_personality = tolerant_personality
+}
+1444.11.11= {
+	add_prestige = 78
+	add_treasury = 49
+}

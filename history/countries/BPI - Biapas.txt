@@ -1,0 +1,13 @@
+government = monarchy
+add_government_reform = feudal_theocracy
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = kurdish
+capital = 4340
+fixed_capital = 4340
+religious_school = hanbali_school
+1444.11.11= {
+	add_prestige = 72
+	add_treasury = 0
+}

@@ -1,0 +1,6 @@
+spriteTypes = {	
+	spriteType = {
+		name = "PITBULL_eventPicture"
+		texturefile = "gfx//event_pictures//PITBULL_eventPicture.dds"
+	}
+}

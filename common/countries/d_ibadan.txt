@@ -1,0 +1,24 @@
+ck2_converter_generated = yes
+graphical_culture = africangfx
+color = { 35 45 211 }
+monarch_names = {
+	"Awaare #0" = 0
+	"Awalekiye #1" = 10
+	"Awo N´nche #1" = 10
+	"Ayetise #2" = 10
+	"Bangben #0" = 0
+	"Bi Awur´bi #0" = 0
+	"Bin´ka #0" = 0
+	"Bolanle #0" = -1
+	"Ebo Eye #0" = 0
+	"Edonbone #0" = 0
+	"Fatim #0" = -1
+	"Kwiimba #0" = 0
+	"Malado #0" = -1
+	"Mbodj #0" = -1
+	"Ndieumbeutt #0" = -1
+	"Njo Amonche #0" = 0
+	"Nkpamafo #0" = 0
+	"Prokopios #0" = 0
+	"Titi Aka #0" = 0
+}

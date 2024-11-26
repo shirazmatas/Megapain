@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = eastern
+religion = cathar
+primary_culture = novgorodian
+capital = 1960
+add_accepted_culture = vepsian
+1444.11.11= {
+	monarch = {
+		name = "Rodislav"
+		dynasty = "Rurikid-Sebezh"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 1395.3.12
+		religion = cathar
+		culture = novgorodian
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = strict_personality
+	queen = {
+		name = "Maria"
+		dynasty = "Rurikid-Sebezh"
+		adm = 3
+		dip = 4
+		mil = 4
+		country_of_origin = NOV
+		birth_date = 1397.6.22
+		death_date = 1457.6.22
+		female = yes
+		religion = cathar
+		culture = russian_culture
+	}
+	add_queen_personality = pious_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Sviatoslav"
+		monarch_name = "Sviatoslav"
+		dynasty = "Rurikid-Sebezh"
+		adm = 6
+		dip = 4
+		mil = 6
+		birth_date = 1416.2.1
+		death_date = 1481.2.1
+		claim = 89
+		religion = cathar
+		culture = russian_culture
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = strict_personality
+}
+1444.11.11= {
+	add_prestige = 81
+	add_treasury = 52
+}

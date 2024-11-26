@@ -1,0 +1,124 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 232 79 142 }
+revolutionary_colors = { 0 10 0 }
+historical_idea_groups = {
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	defensive_ideas
+	humanist_ideas
+	aristocracy_ideas
+	diplomatic_ideas
+	trade_ideas
+}
+historical_units = {
+	bhonsle_infantry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	mughal_mansabdar
+	rajput_hill_fighters
+	reformed_mughal_musketeer
+	sikh_rifle
+	south_indian_musketeer
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Aashish #0" = 0
+	"Achyutadeva #1" = 10
+	"Akal #0" = -1
+	"Akkadevi #0" = -1
+	"Amoghavarsha #3" = 10
+	"Bhiubai #0" = -1
+	"Bhogavati #0" = -1
+	"Chandrabbalabbe #0" = -1
+	"Charanpal #0" = 0
+	"Chinnambike #0" = -1
+	"Dantidurga #1" = 10
+	"Dhruva #1" = 10
+	"Ereganga #0" = 0
+	"Ereyanga #0" = 0
+	"Fath #0" = 0
+	"Govinda #3" = 10
+	"Harihara #0" = 0
+	"Harivarman #0" = 0
+	"Indra #2" = 10
+	"Jagaraya #1" = 10
+	"Jayasimha #1" = 10
+	"Kamlesh #0" = -1
+	"Karka #1" = 10
+	"Khottiga #1" = 10
+	"Khsetravridha #0" = 0
+	"Kirtivarman #2" = 10
+	"Krishna #3" = 10
+	"Lakshmi #0" = -1
+	"Mailaladevi #0" = -1
+	"Mallikarjuna #2" = 10
+	"Mangalesa #1" = 10
+	"Medegma #0" = -1
+	"Mushkara #0" = 0
+	"Nattadevi #0" = -1
+	"Polavira #0" = 0
+	"Pulakesi #2" = 10
+	"Radha #0" = -1
+	"Ramachandra #0" = 0
+	"Râcakêcari #0" = -1
+	"Saibai #0" = -1
+	"Sanyukta #0" = -1
+	"Sattiyavvai #0" = -1
+	"Satyasraya #1" = 10
+	"Seba #0" = -1
+	"Shantaladevi #0" = -1
+	"Shivamara #1" = 10
+	"Singhana #0" = 0
+	"Somesvara #2" = 10
+	"Srivikrama #0" = 0
+	"Tailapa #1" = 10
+	"Thimma #0" = 0
+	"Uchita #0" = 0
+	"Vasudev #0" = 0
+	"Vendakadri #0" = 0
+	"Vijayaditya #1" = 10
+	"Vikramaditya #3" = 10
+	"Vinayaditya #1" = 10
+	"Vishnuvardhana #0" = 0
+}
+leader_names = {
+	"Bahadur"
+	"Chetty"
+	"Khader"
+	"Khan"
+	"Khan Wallajah"
+	"Mudaliar"
+	"Rajapopalachari"
+	"Reddy"
+	"Saluva"
+	"Sastri"
+	"Thondaiman"
+	"ul Umra"
+}
+ship_names = {
+	"Chambal"
+	"Devi"
+	"Durga"
+	"Ganga"
+	"Gayatri"
+	"Jalsena"
+	"Kala Jahazi"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Parvati"
+	"Radha"
+	"Ratri"
+	"Sagar"
+	"Sarasvati"
+	"Sita"
+	"Spiti"
+	"Yamuna"
+}

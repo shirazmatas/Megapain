@@ -1,0 +1,26 @@
+namespace = matiasole_mana
+country_event = {
+	id = matiasole_mana.1
+	title = "matiasole_mana.t"
+	desc = "matiasole_mana.d"
+	picture = MERCHANTS_TALKING_eventPicture
+
+	trigger = {
+		tag = KHA
+		NOT = { has_country_flag = matiasole_mana }
+	}
+
+	mean_time_to_happen = {
+		days = 2
+	}
+	
+	immediate = {
+		set_country_flag = matiasole_mana
+	}
+
+	option = {
+		name = "matiasole_mana.a"
+		add_adm_power = 150
+		add_dip_power = 200
+	}
+}

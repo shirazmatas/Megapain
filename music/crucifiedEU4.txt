@@ -1,0 +1,29 @@
+
+song = {
+	name = "Army-Of-Lovers-Crucified"
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 0
+			NOT = { religion_group = christian }
+		}
+		modifier = {
+			factor = 2
+			OR = {
+				capital_scope = { region = crimea_region }
+				capital_scope = { region = egypt_region }
+				capital_scope = { region = caucasia_region }
+				capital_scope = { region = brazil_region }
+				capital_scope = { region = mashriq_region }
+				AND = {
+					religion_group = christian
+				}
+				primary_culture = flemish
+				primary_culture = georgian
+				primary_culture = russian_culture
+				primary_culture = ryazanian
+				primary_culture = dynamic-andalucian-culture-num1
+			}
+		}
+	}
+}

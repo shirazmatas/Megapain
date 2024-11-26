@@ -1,0 +1,135 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 231 224 107 }
+revolutionary_colors = { 5 0 5 }
+historical_idea_groups = {
+	trade_ideas
+	quantity_ideas
+	administrative_ideas
+	innovativeness_ideas
+	defensive_ideas
+	maritime_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Bachman #0" = 0
+	"Bauladevi #0" = -1
+	"Bhutivarman #0" = 0
+	"Blush #0" = 0
+	"Chöden #0" = 0
+	"Dehanagadevi #0" = -1
+	"Dharapatta #1" = 10
+	"Dharasena #3" = 10
+	"Dhruvasena #3" = 10
+	"Dronasimha #1" = 10
+	"Dungar-Singh #0" = 0
+	"Guhasena #1" = 10
+	"Hariyadevi #0" = -1
+	"Indrapala #0" = 0
+	"Isabel #0" = -1
+	"Jayasimha #3" = 10
+	"Karnadeva #1" = 10
+	"Kharagraha #2" = 10
+	"Khuman #0" = 0
+	"Kirtivarman #0" = 0
+	"Lhundup #0" = -1
+	"Machig #0" = -1
+	"Madhavi #0" = -1
+	"Mahipala #0" = 0
+	"Narayanavarman #0" = 0
+	"Nayapala #0" = 0
+	"Padmini #0" = -1
+	"Pratha #0" = -1
+	"Pushyavarman #0" = 0
+	"Radulf #0" = 0
+	"Ratnavati #0" = -1
+	"Rudaladevi #0" = -1
+	"Samyukta #0" = -1
+	"Siladitya #4" = 10
+	"Suhava #0" = -1
+	"Susthitavarman #0" = 0
+	"Thubten #0" = 0
+	"Vasudeva #1" = 10
+	"Vigrahapala #1" = 10
+	"Vigrahastambha #0" = 0
+	"Vishnuvardhana #0" = 0
+	"Xianyou #0" = -1
+	"Ögyel #0" = 0
+}
+leader_names = {
+	"Bahadur"
+	"Begada"
+	"Bhilala"
+	"Changezi"
+	"Chattari"
+	"Chudasama"
+	"Desai"
+	"Farooqi"
+	"Gauri"
+	"Ghuri"
+	"Gilani"
+	"Haji"
+	"Jurjani"
+	"Kanjar"
+	"Khan"
+	"Khorasani"
+	"Lakhaji"
+	"Latif"
+	"Malik"
+	"Mori"
+	"Munshi"
+	"Muzzafar"
+	"Naru"
+	"Pahore"
+	"Paramara"
+	"Parikh"
+	"Patel"
+	"Patidar"
+	"Ravalji"
+	"Shah"
+	"Solanki"
+	"Sultan"
+	"Tomara"
+	"Turani"
+	"Uzbek"
+}
+ship_names = {
+	"Ambika"
+	"Auranga"
+	"Bhadar"
+	"Damanganga"
+	"Devki"
+	"Jalsena"
+	"Kala Jahazi"
+	"Khari"
+	"Lal Jahazi"
+	"Luni"
+	"Mahi"
+	"Mithi"
+	"Narmada"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Purna"
+	"Sabarmati"
+	"Sagar"
+	"Saraiya"
+	"Saraswati"
+	"Shetrunji"
+	"Tapi"
+	"Yasmin"
+}

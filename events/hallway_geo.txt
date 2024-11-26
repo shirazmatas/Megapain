@@ -1,0 +1,64 @@
+namespace = hallway_geo
+country_event = { 
+	id = hallway_geo.1
+	title = hallway_geo.1.t
+	desc = hallway_geo.1.d
+	picture = TRADEGOODS_eventPicture
+	
+	trigger = {
+	    tag = GEO
+		NOT = { has_global_flag = hallway_geo }	 
+			1320 = {
+					is_strongest_trade_power = GEO
+				}
+			
+			1322 = {
+					is_strongest_trade_power = GEO
+				}
+			}
+	
+	mean_time_to_happen = { 
+		days = 2
+	}
+	immediate = {
+		set_global_flag = hallway_geo
+		play_sound = hallway_geo
+	}
+	fire_only_once = yes
+	option = { 
+		name = hallway_geo.1.a		
+		custom_tooltip = "Can i have some?"
+		every_country = {
+		limit = { ai = no }
+        country_event = {
+        id = hallway_geo.2
+        }
+		}
+	}
+}
+
+#global counterparts
+country_event = { 
+	id = hallway_geo.2
+	title = hallway_geo.1.t
+	desc = hallway_geo.1.d
+	picture = TRADEGOODS_eventPicture
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	    OR = { tag = ADU tag = ENG tag = GBR tag = GER tag = FRA tag = RUS tag = ORI tag = KHA tag = MGE tag = BHA tag = KOJ tag = C01 }
+		NOT = { has_global_flag = GEO_had_event_2 }			
+	}
+	
+
+	immediate = {
+		set_global_flag = GEO_had_event_2
+		play_sound = hallway_geo
+	}
+
+	option = { 
+		name = hallway_geo.1.a		
+		custom_tooltip = "Can i have some?"
+	}
+}

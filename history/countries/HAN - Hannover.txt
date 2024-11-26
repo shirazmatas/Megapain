@@ -1,0 +1,14 @@
+government = republic
+add_government_reform = free_city
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = lower_saxon
+capital = 57
+fixed_capital = 57
+mercantilism = 25
+1444.11.11= {
+	add_prestige = 65
+	add_treasury = 69
+	excommunicate = HAN
+}

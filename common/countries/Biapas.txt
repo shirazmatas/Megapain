@@ -1,0 +1,89 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 229 153 34 }
+revolutionary_colors = { 15 1 15 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry_unit
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Abu al-Saj #1" = 10
+	"Ayeshah #2" = 10
+	"Banu #0" = -1
+	"Biškoj #0" = -1
+	"Burandoxt #0" = -1
+	"Daryûš #0" = 0
+	"Ehmed #1" = 10
+	"Ekber #1" = 10
+	"Firdews #0" = 0
+	"Hafez #0" = 0
+	"Hariraja #0" = 0
+	"Jula #0" = 0
+	"Majid #0" = 0
+	"Mamlan #1" = 10
+	"Mensûr Nesr-ed-dewle #1" = 10
+	"Muhammad #1" = 10
+	"Nawid #0" = 0
+	"Revend #0" = 0
+	"Rindê #0" = -1
+	"Saruca #0" = 0
+	"Sati #0" = -1
+	"Sina #0" = 0
+	"Sirin #0" = -1
+	"Tutus #0" = 0
+	"Varšasp #0" = 0
+	"Xašayar #1" = 10
+	"Yahya #1" = 10
+	"Çaka #0" = 0
+	"Šawur #0" = 0
+}
+leader_names = {
+	"Ardashir"
+	"Buzurg"
+	"Dabuya"
+	"Dadhburzmihr"
+	"Farrukhan"
+	"Hassan"
+	"Kamal"
+	"Khurshid"
+	"Kiya"
+	"Mazyar"
+	"Qarin"
+	"Quhyar"
+	"Rida"
+	"Rustam"
+	"Shahriyar"
+	"Vindadhhurmuzd"
+}
+ship_names = {
+	"Amol"
+	"Ardashir"
+	"Astarabad"
+	"Chalus"
+	"Farim"
+	"Kelar"
+	"Lahican"
+	"Mazyar"
+	"Natel"
+	"Rustam"
+	"Vindadhhurmuzd"
+}

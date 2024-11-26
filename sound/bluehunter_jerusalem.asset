@@ -1,0 +1,6 @@
+
+sound = {
+    name = bluehunter_jerusalem
+    file = "bluehunter_jerusalem.wav"
+	always_load = yes
+}

@@ -1,0 +1,116 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 236 159 90 }
+revolutionary_colors = { 5 0 15 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
+	offensive_ideas
+	spy_ideas
+	quantity_ideas
+	economic_ideas
+}
+historical_units = {
+	bardiche_infantry
+	eastern_carabinier
+	eastern_knights
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	muscovite_caracolle
+	muscovite_cossack
+	muscovite_musketeer
+	muscovite_soldaty
+	russian_cuirassier
+	russian_green_coat
+	russian_lancer
+	russian_mass
+	russian_petrine
+	slavic_stradioti
+}
+monarch_names = {
+	"Bernardo #0" = 0
+	"Burmort #1" = 10
+	"Chinialush #0" = 0
+	"Dagun #0" = 0
+	"Dondy #2" = 10
+	"Gulçiçek #0" = -1
+	"Hudbad #0" = 0
+	"Jayasimha #0" = 0
+	"Joichi #0" = 0
+	"Kubasar #1" = 10
+	"Malyy #0" = 0
+	"Nulzyava #0" = -1
+	"Nuyanza #1" = 10
+	"Omurtag #4" = 10
+	"Pyera #1" = 10
+	"Saran #0" = -1
+	"Seseg #0" = -1
+	"Sevindik #0" = -1
+	"Shonzhava #0" = -1
+	"Sokal #0" = 0
+	"Tatra #0" = 0
+	"Tugor #0" = 0
+	"Törtogul #0" = 0
+	"Zhimba #0" = -1
+	"Çiçek #0" = -1
+}
+leader_names = {
+	"Burmatov"
+	"Cheskidov"
+	"Dozmorov"
+	"Ichetkin"
+	"Kachesov"
+	"Kanev"
+	"Kochev"
+	"Koinov"
+	"Kolegov"
+	"Kudymov"
+	"Kychanov"
+	"Kykin"
+	"Kynev"
+	"Kynkurogov"
+	"Kyrnyshev"
+	"Kyrov"
+	"Kysov"
+	"Lyurov"
+	"Michkin"
+	"Moshev"
+	"Oshev"
+	"Oshkokov"
+	"Porsin"
+	"Purtov"
+	"Rakin"
+	"Rochev"
+	"Ruchev"
+	"Syuzev"
+	"Vilesov"
+	"Volegov"
+	"Yusev"
+	"Zerov"
+	"Zyrianov"
+}
+ship_names = {
+	"Baseg"
+	"Cherdyn"
+	"Iskor"
+	"Kama"
+	"Koleg"
+	"Kolva"
+	"Kudym-Osha"
+	"Pelym"
+	"Pokcha"
+	"Rateg"
+	"Shudeg"
+	"Sysola"
+	"Uros"
+	"Uzheg"
+	"Vilgort"
+	"Vishera"
+	"Voleg"
+	"Vychegda"
+	"Yazva"
+	"Yus"
+}

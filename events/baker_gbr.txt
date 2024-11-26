@@ -1,0 +1,66 @@
+namespace = baker_gbr
+country_event = { 
+	id = baker_gbr.1
+	title = baker_gbr.1.t
+	desc = baker_gbr.1.d
+	picture = WAR_OF_THE_ROSES_eventPicture
+	
+	fire_only_once = yes
+	
+	
+	trigger = {
+		NOT = { has_global_flag = baker_gbr }
+		tag = GBR
+		owns = 236
+		}
+
+	
+	
+	mean_time_to_happen = { 
+		days = 2
+	}
+	immediate = {
+		set_global_flag = baker_gbr
+		play_sound = baker_gbr
+	}
+
+	option = { 
+		name = baker_gbr.1.a		
+		custom_tooltip = "It's pronounced Bri'ish"
+		every_country = {
+		limit = { ai = no }
+        country_event = {
+        id = baker_gbr.2
+        }  
+      }
+	}
+}
+
+
+
+country_event = { 
+	id = baker_gbr.2
+	title = baker_gbr.1.t
+	desc = baker_gbr.1.d
+	picture = WAR_OF_THE_ROSES_eventPicture
+	
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = { has_country_flag = GBR_had_event_2 }
+		OR = { tag = ADU tag = RUS tag = FRA tag = GEO tag = GER tag = ORI tag = KHA tag = MGE tag = BHA tag = KOJ tag = C01 }
+		}
+	
+
+	immediate = {
+		set_global_flag = GBR_had_event_2
+		play_sound = baker_gbr
+	}
+	option = { 
+		name = baker_gbr.1.a		
+		custom_tooltip = "It's pronounced Bri'ish"
+	}
+}
+
+

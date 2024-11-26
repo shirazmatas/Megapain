@@ -1,0 +1,95 @@
+namespace = shiraz_france
+country_event = { 
+	id = shiraz_france.1
+	title = shiraz_france.1.t
+	desc = shiraz_france.1.d
+	picture = TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture
+	
+	trigger = {
+	    tag = FRA
+		NOT = { has_global_flag = shiraz_france }	 
+		num_of_owned_provinces_with = {
+				is_core = FRA
+				region = low_countries_region
+				value = 16
+			}
+			owns = 87
+			owns = 183
+			owns = 4719
+			owns = 205
+			1269 = {	# Lübeck
+					is_strongest_trade_power = FRA
+				}
+			}
+	
+	mean_time_to_happen = { 
+		days = 2
+	}
+	immediate = {
+		set_global_flag = shiraz_france
+		play_sound = shiraz_france
+	}
+	fire_only_once = yes
+	option = { 
+		name = shiraz_france.1.a		
+		custom_tooltip = "la conformité du chat"
+		every_country = {
+		limit = { ai = no }
+        country_event = {
+        id = shiraz_france.2
+        }
+		}
+	}
+}
+
+#global counterparts
+country_event = { 
+	id = shiraz_france.2
+	title = shiraz_france.1.t
+	desc = shiraz_france.1.d
+	picture = TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	    OR = { tag = ADU tag = SPA tag = ENG tag = GBR tag = GER tag = GEO tag = BYZ tag = RUS tag = ORI tag = KHA tag = MGE tag = BHA tag = KOJ tag = C01 }
+		NOT = { has_global_flag = FRA_had_event_2 }			
+	}
+	
+
+	immediate = {
+		set_global_flag = FRA_had_event_2
+		play_sound = shiraz_france
+	}
+
+	option = { 
+		name = shiraz_france.1.a		
+		custom_tooltip = "la conformité du chat"
+	}
+}
+
+#global counterparts
+country_event = { 
+	id = shiraz_france.3
+	title = shiraz_france.1.t
+	desc = shiraz_france.1.d
+	picture = TRADE_GOODS_PLANTATION_GOODS_IN_WAREHOUSE_eventPicture
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	    OR = { tag = ADU tag = SPA tag = ENG tag = GBR tag = GER tag = GEO tag = BYZ tag = RUS tag = ORI tag = KHA tag = MGE tag = BHA tag = KOJ tag = C01 }
+		NOT = { has_global_flag = FRA_had_event_2 }			
+	}
+	
+
+	immediate = {
+		set_global_flag = FRA_had_event_3
+		play_sound = shiraz_france
+	}
+
+	option = { 
+		name = shiraz_france.1.a		
+		custom_tooltip = "la conformité du chat"
+	}
+}

@@ -1,0 +1,20 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 101 48 48 }
+monarch_names = {
+	"Are #0" = -1
+	"Arunas #1" = 10
+	"Audra #0" = -1
+	"Evalda #1" = -1
+	"Gintare #0" = -1
+	"Heameel #1" = 10
+	"Hüvatõiv #0" = 0
+	"Lutuveras #1" = 10
+	"Pikne #1" = 10
+	"Tament #0" = -1
+	"Tarexia #0" = -1
+	"Tasulemb #1" = 10
+	"Vaino #1" = 10
+	"Vilitõiv #1" = 10
+	"Värvo #1" = 10
+}

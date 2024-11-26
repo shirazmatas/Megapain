@@ -1,0 +1,26 @@
+owner = ARB
+controller = ARB
+capital = "Basra"
+is_city = yes
+culture = al_iraqiya_arabic
+religion = sunni
+trade_goods = salt
+base_tax = 3
+base_production = 3
+base_manpower = 3
+extra_cost = 18
+center_of_trade = 1
+add_core = ARB
+add_core = IRQ
+discovered_by = east_african
+discovered_by = eastern
+discovered_by = indian
+discovered_by = muslim
+discovered_by = nomad_group
+discovered_by = ottoman
+discovered_by = sub_saharan
+discovered_by = western
+add_permanent_province_modifier = {
+	name = euphrates_estuary_modifier
+	duration = -1
+}
