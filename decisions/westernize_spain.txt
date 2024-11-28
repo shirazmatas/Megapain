@@ -1,0 +1,20 @@
+country_decisions = {
+    westernize_spain = {
+        major = yes
+        potential = {
+                    tag = SPA
+                    NOT = {technology_group = western}
+        }
+        allow = {
+            stability = 1
+            OR = {
+            adm_tech = 15
+            innovativeness = 75
+            }
+        }
+        effect = {
+            change_technology_group = western
+        }
+    }
+
+}
