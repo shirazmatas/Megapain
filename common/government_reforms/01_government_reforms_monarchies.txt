@@ -1445,8 +1445,9 @@ barbary_sultanate_reform = {
 	icon = "barbary_eyalet_government"
 	allow_normal_conversion = yes
 	potential = {
-		OR={culture_group = maghrebi
-		culture_group=iberian
+		OR = {
+			culture_group = maghrebi
+			culture_group=iberian
 		}
 	}
 	queen = no
