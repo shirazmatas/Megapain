@@ -1450,7 +1450,6 @@ barbary_sultanate_reform = {
 			culture_group=iberian
 		}
 	}
-	queen = no
 	nation_designer_trigger = {
 		religion_group = muslim
 		culture_group = maghrebi
