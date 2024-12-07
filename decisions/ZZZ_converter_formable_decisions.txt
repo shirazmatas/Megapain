@@ -334,6 +334,7 @@ country_decisions = {
 				ai = no
 				is_religion_enabled = protestant
 				is_religion_enabled = reformed
+				religion_group = christian
 			}
 		}
 		provinces_to_highlight = {
@@ -523,6 +524,7 @@ country_decisions = {
 				#For Generated Religions
 				uses_fervor = yes
 				uses_church_aspects = yes
+				religion_group = christian
 				if = {
 					limit = { has_dlc = "Lions of the North" }
 					custom_trigger_tooltip = {

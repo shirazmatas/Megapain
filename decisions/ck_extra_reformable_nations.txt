@@ -214,7 +214,7 @@ country_decisions = {
 			NOT = { has_country_flag = formed_portugal_flag }
 			NOT = { exists = POR }
 			has_country_flag = ZZZ_generated_converter_nation
-			primary_culture = portugese
+			culture_group = iberian
 			was_never_end_game_tag_trigger = yes
 		}
 		provinces_to_highlight = {
@@ -230,7 +230,6 @@ country_decisions = {
 			}
 		}
 		allow = {
-			is_free_or_tributary_trigger = yes
 			is_nomad = no
 			is_at_war = no
 			AND = {
@@ -281,10 +280,7 @@ country_decisions = {
 			NOT = { has_country_flag = formed_aragon_flag }
 			NOT = { exists = ARA }
 			has_country_flag = ZZZ_generated_converter_nation
-			OR = {
-				primary_culture = aragonese
-				primary_culture = catalan
-			}
+			culture_group = iberian
 			was_never_end_game_tag_trigger = yes
 		}
 		provinces_to_highlight = {
@@ -300,7 +296,6 @@ country_decisions = {
 			}
 		}
 		allow = {
-			is_free_or_tributary_trigger = yes
 			is_nomad = no
 			is_at_war = no
 			AND = {
