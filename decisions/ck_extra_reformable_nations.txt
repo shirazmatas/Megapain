@@ -213,7 +213,6 @@ country_decisions = {
 		potential = {
 			NOT = { has_country_flag = formed_portugal_flag }
 			NOT = { exists = POR }
-			has_country_flag = ZZZ_generated_converter_nation
 			culture_group = iberian
 			was_never_end_game_tag_trigger = yes
 		}
@@ -279,7 +278,6 @@ country_decisions = {
 		potential = {
 			NOT = { has_country_flag = formed_aragon_flag }
 			NOT = { exists = ARA }
-			has_country_flag = ZZZ_generated_converter_nation
 			culture_group = iberian
 			was_never_end_game_tag_trigger = yes
 		}
