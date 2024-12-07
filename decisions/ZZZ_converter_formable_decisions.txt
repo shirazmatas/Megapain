@@ -306,6 +306,7 @@ country_decisions = {
 				#For Generated Religions
 				uses_fervor = yes
 				uses_church_aspects = yes
+				religion_group = christian
 			}
 		}
 
@@ -357,11 +358,6 @@ country_decisions = {
 		allow = {
 			NOT = { exists = PRU }
 			adm_tech = 10
-			OR = {
-				#For Generated Religions
-				uses_fervor = yes
-				uses_church_aspects = yes
-			}
 			owns_core_province = 41			# Königsberg
 			OR = {
 				owns_core_province = 43		# Danzig
@@ -522,8 +518,6 @@ country_decisions = {
 			is_at_war = no
 			OR = {
 				#For Generated Religions
-				uses_fervor = yes
-				uses_church_aspects = yes
 				religion_group = christian
 				if = {
 					limit = { has_dlc = "Lions of the North" }
@@ -693,11 +687,6 @@ country_decisions = {
 			is_free_or_tributary_trigger = yes
 			is_nomad = no
 			is_at_war = no
-			OR = {
-				#For Generated Religions
-				uses_fervor = yes
-				uses_church_aspects = yes
-			}
 			owns_core_province = 41			# Königsberg
 			owns_core_province = 42			# Warmia
 			owns_core_province = 43			# Danzig
