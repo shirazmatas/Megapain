@@ -1453,6 +1453,7 @@ barbary_sultanate_reform = {
 			}
 		}
 	}
+	queen = no
 	nation_designer_trigger = {
 		religion_group = muslim
 		culture_group = maghrebi
@@ -1462,7 +1463,7 @@ barbary_sultanate_reform = {
 	modifiers = {
 		land_attrition = -0.1
 		may_perform_slave_raid = yes
-		coast_raid_range = 1
+		coast_raid_range = 1 
 		navy_tradition_decay = -0.005
 	}
 	conditional = {
