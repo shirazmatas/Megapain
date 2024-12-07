@@ -421,6 +421,12 @@
  RMN_romaslavia_ADJ: "Romaslavian"
  declare_romaslavia_decision: "Declare Romaslavia"
  declare_romaslavia_decision_title: "Declare Romaslavia"
+ GMA_united_states_of_mog: "United States of Mog"
+ GMA_united_states_of_mog_ADJ: "United States of Mog"
+ declare_united_states_of_mog_decision: "Declare United States of Mog"
+ declare_united_states_of_mog_decision_title: "Declare United States of Mog"
+ westernize_spain_decision: "Westernize Spain"
+ westernize_spain_decision_title: "Westernize Spain"
  war_of_the_rat: "War of the Rat"
  
  war_of_the_rat: "War of the Rat"

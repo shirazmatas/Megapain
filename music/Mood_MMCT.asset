@@ -113,3 +113,74 @@ music = {
     name = "Bardcore - Yeah"
     file = "Bardcore_-_Yeah.ogg"
 }
+
+music = {
+    name = "Bardcore - Radioactive"
+    file = "Bardcore_-_Radioactive.ogg"
+}
+
+music = {
+    name = "Bardcore - Enemy"
+    file = "Bardcore_-_Enemy.ogg"
+}
+
+music = {
+    name = "102.3 REAL WIZARDS FM"
+    file = "102_3_REAL_WIZARDS_FM.ogg"
+}
+
+music = {
+    name = "Bardcore - Africa"
+    file = "Bardcore_-_Africa.ogg"
+}
+
+music = {
+    name = "Bardcore - Closer"
+    file = "Bardcore_-_Closer.ogg"
+}
+
+music = {
+    name = "Bardcore - House Of The Rising Sun"
+    file = "Bardcore_-_House_Of_The_Rising_Sun.ogg"
+}
+
+music = {
+    name = "Bardcore - In The End"
+    file = "Bardcore_-_In_The_End.ogg"
+}
+
+music = {
+    name = "Bardcore - Land Down Under"
+    file = "Bardcore_-_Land_Down_Under.ogg"
+}
+
+music = {
+    name = "Bardcore - Numa Numa"
+    file = "Bardcore_-_Numa_Numa.ogg"
+}
+
+music = {
+    name = "Bardcore - Wake Me Up"
+    file = "Bardcore_-_Wake_Me_Up.ogg"
+}
+
+music = {
+    name = "Bardcore - Walk Like An Egyptian"
+    file = "Bardcore_-_Walk_Like_An_Egyptian.ogg"
+}
+
+music = {
+    name = "Bardcore - Whats Going On"
+    file = "Bardcore_-_Whats_Going_On.ogg"
+}
+
+music = {
+    name = "Bardcore - Radioactive"
+    file = "Bardcore_-_Radioactive.ogg"
+}
+
+music = {
+    name = "Rapture - Soldier Boy"
+    file = "Rapture_-_Soldier_Boy.ogg"
+}
+

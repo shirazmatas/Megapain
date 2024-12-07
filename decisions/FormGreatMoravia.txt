@@ -131,8 +131,7 @@ country_decisions = {
 					}
 				}
 				set_government_rank = 2
-				add_splendor = 400
-				add_prestige_or_monarch_power = { amount = 150 }
+				add_prestige_or_monarch_power = { amount = 50 }
 			}
 			set_country_flag = formed_great_moravia_flag
 			if = {
@@ -183,87 +182,12 @@ country_decisions = {
 						name = czech_nationalism
 						duration = -1
 					}
-					add_country_modifier = {
-						name = tax_reform
-						duration = -1
-					}
 				}
 				266 = {
 				change_province_name = "Mog City"
 				rename_capital = "Mog City"
 			}	
-			1771 = {
-				change_province_name = "Mog Town"
-				rename_capital = "Mog Town"
-			}	
-			267 = {
-				change_province_name = "Mogville"
-				rename_capital = "Mogville"
-			}	
-			262 = {
-				change_province_name = "Mewtown"
-				rename_capital = "Mewtown"
-			}	
-			264 = {
-				change_province_name = "Mewville"
-				rename_capital = "Mewville"
-			}	
-			263 = {
-				change_province_name = "Mew City"
-				rename_capital = "Mew City"
-			}	
-			2967 = {
-				change_province_name = "Moggy"
-				rename_capital = "Moggy"
-			}	
-			2966 = {
-				change_province_name = "New Mewville"
-				rename_capital = "New Mewville"
-			}	
-			4237 = {
-				change_province_name = "MogMew"
-				rename_capital = "MogMew"
-			}	
-			265 = {
-				change_province_name = "New Mogmew"
-				rename_capital = "New Mogmew"
-			}	
-			4238 = {
-				change_province_name = "Mewtoo"
-				rename_capital = "Mewtoo"
-			}	
-			4724 = {
-				change_province_name = "Mogger town"
-				rename_capital = "Mogger town"
-			}	
-			4725 = {
-				change_province_name = "Mogger field"
-				rename_capital = "Mogger field"
-			}	
-			4723 = {
-				change_province_name = "Mewfield"
-				rename_capital = "Mewfield"
-			}	
-			4236 = {
-				change_province_name = "Iron Mew"
-				rename_capital = "Iron Mew"
-			}
-			154 = {
-				change_province_name = "Gold Mew"
-				rename_capital = "Gold Mew"
-			}
-			1318 = {
-				change_province_name = "Bronze Mew"
-				rename_capital = "Bronze Mew"
-			}
-			2960 = {
-				change_province_name = "Fortress Mew"
-				rename_capital = "Fortress Mew"
-			}
-			1772 = {
-				change_province_name = "Chewing Gum Factory"
-				rename_capital = "Chewing Gum Factory"
-			}
+			
 			}
 		}
 		ai_will_do = {
@@ -308,11 +232,7 @@ country_decisions = {
 			province_id = 4726
 		}
 		effect = {
-			add_adm_power = -100
-			set_country_flag = restored_veligrad_flag
-			4726 = {
-				move_capital_effect = yes
-			}
+			add_prestige_or_monarch_power = { amount = 25 }
 			4726 = {
 				change_province_name = "MewMog"
 				rename_capital = "MewMog"
@@ -396,7 +316,7 @@ country_decisions = {
 			4726 = {
 				add_province_modifier = {
 					name = boh_great_city_of_svatopluk
-					duration = -1
+					duration = 9125
 				}
 			}
 		}

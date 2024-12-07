@@ -189,3 +189,116 @@ song = {
         #modifier = { factor = 0 is_at_war = yes } #example modifier: music will not play when at war
     }
 }
+
+song = {
+    name = "Bardcore - Radioactive"
+    chance = {
+        modifier = { factor = 1 }
+        #modifier = { factor = 0 is_at_war = yes } #example modifier: music will not play when at war
+    }
+}
+
+song = {
+    name = "Bardcore - Enemy"
+    chance = {
+        modifier = { factor = 1 }
+        #modifier = { factor = 0 is_at_war = yes } #example modifier: music will not play when at war
+    }
+}
+
+song = {
+    name = "102.3 REAL WIZARDS FM"
+    chance = {
+        modifier = { factor = 2 }
+        #modifier = { factor = 0 is_at_war = yes } #example modifier: music will not play when at war
+    }
+}
+
+song = {
+    name = "Bardcore - Africa"
+    chance = {
+        modifier = { factor = 1 }
+        #modifier = { factor = 0 is_at_war = yes } #example modifier: music will not play when at war
+    }
+}
+
+song = {
+    name = "Bardcore - Closer"
+    chance = {
+        modifier = { factor = 1 }
+        #modifier = { factor = 0 is_at_war = yes } #example modifier: music will not play when at war
+    }
+}
+
+song = {
+    name = "Bardcore - House Of The Rising Sun"
+    chance = {
+        modifier = { factor = 1 }
+        #modifier = { factor = 0 is_at_war = yes } #example modifier: music will not play when at war
+    }
+}
+
+song = {
+    name = "Bardcore - In The End"
+    chance = {
+        modifier = { factor = 1 }
+        #modifier = { factor = 0 is_at_war = yes } #example modifier: music will not play when at war
+    }
+}
+
+song = {
+    name = "Bardcore - Land Down Under"
+    chance = {
+        modifier = { factor = 1 }
+        #modifier = { factor = 0 is_at_war = yes } #example modifier: music will not play when at war
+    }
+}
+
+song = {
+    name = "Bardcore - Numa Numa"
+    chance = {
+        modifier = { factor = 1 }
+        #modifier = { factor = 0 is_at_war = yes } #example modifier: music will not play when at war
+    }
+}
+
+song = {
+    name = "Bardcore - Wake Me Up"
+    chance = {
+        modifier = { factor = 1 }
+        #modifier = { factor = 0 is_at_war = yes } #example modifier: music will not play when at war
+    }
+}
+
+song = {
+    name = "Bardcore - Walk Like An Egyptian"
+    chance = {
+        modifier = { factor = 1 }
+        #modifier = { factor = 0 is_at_war = yes } #example modifier: music will not play when at war
+    }
+}
+
+song = {
+    name = "Bardcore - Whats Going On"
+    chance = {
+        modifier = { factor = 1 }
+        #modifier = { factor = 0 is_at_war = yes } #example modifier: music will not play when at war
+    }
+}
+
+song = {
+    name = "Bardcore - Radioactive"
+    chance = {
+        modifier = { factor = 1 }
+        #modifier = { factor = 0 is_at_war = yes } #example modifier: music will not play when at war
+    }
+}
+
+song = {
+    name = "Rapture - Soldier Boy"
+    chance = {
+        modifier = { factor = 1 }
+        #modifier = { factor = 0 is_at_war = yes } #example modifier: music will not play when at war
+    }
+}
+

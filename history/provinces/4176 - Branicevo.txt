@@ -1,5 +1,5 @@
-owner = Z44
-controller = Z44
+owner = Z0A
+controller = Z0A
 capital = "Kruševac"
 is_city = yes
 culture = romanian
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 1
 add_core = WAL
-add_core = Z44
+add_core = Z0A
 discovered_by = AST
 discovered_by = CRI
 discovered_by = GOL

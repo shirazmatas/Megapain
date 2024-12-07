@@ -1,5 +1,5 @@
-owner = Z0A
-controller = Z0A
+owner = IME
+controller = IME
 capital = "Kutaisi"
 is_city = yes
 culture = georgian
@@ -8,7 +8,7 @@ trade_goods = cloth
 base_tax = 3
 base_production = 3
 base_manpower = 3
-add_core = Z0A
+add_core = IME
 add_permanent_claim = IME
 discovered_by = eastern
 discovered_by = muslim
