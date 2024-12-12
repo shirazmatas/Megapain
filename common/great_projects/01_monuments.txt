@@ -8225,6 +8225,8 @@ kiev_pechersk_lavra = {
 		country_modifiers = {
 			yearly_patriarch_authority = 0.005
 			tolerance_own = 2
+			missionary_maintenance_cost = -0.25
+			missionaries = 1
 		}
 
 		#what effects happen when this tier is achieved
@@ -8234,20 +8236,6 @@ kiev_pechersk_lavra = {
 					estate = estate_church
 					loyalty = 5
 				}
-			}
-		}
-		conditional_modifier = {
-			trigger = {
-				custom_trigger_tooltip = {
-					tooltip = has_completed_the_plains_of_ruthenia_mission_tt
-					owner = {
-						has_country_flag = enable_monument_bonus_1_flag
-					}
-				}
-			}
-			modifier = {
-				missionary_maintenance_cost = -0.25
-				missionaries = 1
 			}
 		}
 	}
