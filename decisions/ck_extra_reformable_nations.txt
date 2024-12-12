@@ -231,11 +231,18 @@ country_decisions = {
 		allow = {
 			is_nomad = no
 			is_at_war = no
-			AND = {
-				owns_core_province = 227
-				owns_core_province = 229
-				owns_core_province = 230
-				owns_core_province = 231
+			OR = {
+				AND = {
+					owns_core_province = 227
+					owns_core_province = 229
+					owns_core_province = 230
+					owns_core_province = 231
+				}
+				AND = {
+					owns_core_province = 229
+					owns_core_province = 231
+					tag = GAL
+				}
 			}
 			OR = {
 				AND = {
