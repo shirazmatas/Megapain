@@ -744,10 +744,9 @@ SPA_ideas = {
 	}
 	free = yes		#will be added at load.
 
-	devout_catholisism = {
-		papal_influence = 2
-		church_power_modifier = 0.25
-		monthly_fervor_increase = 0.5
+	spanish_inquisition = {
+		global_missionary_strength = 0.02
+		missionaries = 1
 	}
 	inter_caetera = {
 		idea_claim_colonies = yes
