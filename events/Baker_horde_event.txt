@@ -18,4 +18,7 @@ country_event = {
         name = "baker_horde_event_1.EVTOP2"
         add_legitimacy = 10
     }
+    after = {
+        add_horde_unity = 90
+    }
 }

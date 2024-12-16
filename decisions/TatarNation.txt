@@ -89,7 +89,6 @@ country_decisions = {
 			owns_or_non_sovereign_subject_of = 465 #Nogai
 			owns_or_non_sovereign_subject_of = 466 #Sarai
 			owns_or_non_sovereign_subject_of = 476 #Kypchak
-			owns_or_non_sovereign_subject_of = 1075 #Chimgi-Tura
 			owns_or_non_sovereign_subject_of = 1082 #Kazan
 			owns_or_non_sovereign_subject_of = 1778 #Qasim
 			owns_or_non_sovereign_subject_of = 2411 #Mansur
