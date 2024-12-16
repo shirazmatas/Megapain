@@ -1,0 +1,21 @@
+namespace = baker_horde_event
+
+country_event = {
+    id = baker_horde_event.1
+    title = "baker_horde_1_title"
+    desc = "baker_horde_1_desc"
+    picture = HORDE_ON_HORSEBACK_eventPicture
+
+    is_triggered_only = yes
+    option = {
+        name = "baker_horde_event_1.EVTOP1"
+        trigger = {
+            NOT = { government = tribal}
+        }
+        add_government_reform = steppe_horde
+    }
+    option = {
+        name = "baker_horde_event_1.EVTOP2"
+        add_legitimacy = 10
+    }
+}
