@@ -17,7 +17,7 @@ country_event = {
                     ai = no
                     NOT = {tag = root}
                 }
-                country_event = {id=baker_horde_event_response.1}
+                country_event = {id=baker_horde_event.100}
             }
         }
     }
@@ -29,7 +29,7 @@ country_event = {
 }
 
 country_event = {
-    id = baker_horde_event_response.1
+    id = baker_horde_event.100
     title = "baker_horde_1_title"
     desc = "baker_horde_1_others_desc"
     picture = TEMPORAL_RIFT_eventPicture
