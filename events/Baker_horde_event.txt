@@ -9,15 +9,39 @@ country_event = {
     is_triggered_only = yes
     option = {
         name = "baker_horde_event_1.EVTOP1"
-        trigger = {
-            NOT = { government = tribal}
-        }
         add_government_reform = steppe_horde
         add_horde_unity = 90
+        hidden_effect = {
+            every_country = {
+                limit = {
+                    ai = no
+                    NOT = {tag = root}
+                }
+                country_event = {id=baker_horde_event_response.1}
+            }
+        }
     }
     option = {
         name = "baker_horde_event_1.EVTOP2"
         add_legitimacy = 10
         add_republican_tradition = 10
+    }
+}
+
+country_event = {
+    id = baker_horde_event_response.1
+    title = "baker_horde_1_title"
+    desc = "baker_horde_1_others_desc"
+    picture = TEMPORAL_RIFT_eventPicture
+    goto = 151
+    is_triggered_only = yes
+    trigger = {
+        always = yes
+    }
+    mean_time_to_happen = {
+        days = 1
+    }
+    option = {
+        name = baker_horde_event_1_response.EVTOP1
     }
 }

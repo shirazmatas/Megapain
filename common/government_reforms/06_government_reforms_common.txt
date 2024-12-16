@@ -1101,7 +1101,7 @@ legacy_of_the_steppes_reform = {
 			is_revolutionary = no
 			NOT = { has_dlc = "Emperor" }
 		}
-		religion = tengri_pagan_reformed
+		government = tribal
 	}
 	modifiers = {
 		monarch_military_power = 1
