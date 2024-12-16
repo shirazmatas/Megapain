@@ -4334,8 +4334,17 @@ turkoman_ottoman_institutions = {
 	icon = "turkoman_ottoman_institutions"
 	allow_normal_conversion = yes
 	potential = {
-		has_country_flag = turkoman_unlock_ottoman_reform
-		religion_group = muslim
+		OR = {
+			AND = {
+				has_country_flag = turkoman_unlock_ottoman_reform
+				religion_group = muslim
+			}
+			AND = {
+				owns_core_province = 151 # Constantinople
+				government = tribal
+			}
+		}
+
 	}
 	modifiers = {
 		years_of_nationalism = -10
