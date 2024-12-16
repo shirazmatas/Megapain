@@ -38,9 +38,6 @@ country_event = {
     trigger = {
         always = yes
     }
-    mean_time_to_happen = {
-        days = 1
-    }
     option = {
         name = baker_horde_event_1_response.EVTOP1
     }
