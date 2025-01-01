@@ -1,0 +1,54 @@
+country_decisions = {
+	
+	declare_united_states_of_mog_decision = {
+		potential = {
+			tag = GMA
+			NOT = { has_country_flag = formed_united_states_of_mog  }
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 266	# Prag
+				
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			adm_tech = 14
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			if = {
+				limit = {
+					OR = {
+						tag = GMA
+						was_tag = GMA
+					}
+				}
+			owns_core_province = 266	# Prag
+			}
+		}
+		effect = {
+			override_country_name = GMA_united_states_of_mog
+			
+			custom_tooltip = "Country adopts the name of United states of mog"
+			
+			set_country_flag = formed_united_states_of_mogg
+			
+			if = {
+				limit = {
+					has_dlc = "Mandate of Heaven"
+				}
+				add_prestige_or_monarch_power = { amount = 25 }
+			}
+			else = {
+				add_prestige_or_monarch_power = { amount = 25 }
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+}
