@@ -1,0 +1,30 @@
+country_decisions = {
+    American_Land_Exchange = {
+        potential = {
+            NOT = { has_country_flag = traded_provinces_spain_flag }
+            tag = FRA
+            num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+                value = 5
+                OR = {
+                    area = honduras_area
+                    area = nicaragua_area
+                    area = costa_rica_area
+                }
+            }
+        }
+        allow = {
+            num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+                value = 5
+                OR = {
+                    area = honduras_area
+                    area = nicaragua_area
+                    area = costa_rica_area
+                }
+            }
+            is_at_war = no
+        }
+        effect = {
+
+        }
+    }
+}
