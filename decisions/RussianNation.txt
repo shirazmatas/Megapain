@@ -96,7 +96,6 @@ country_decisions = {
 			is_nomad = no
 			is_at_war = no
 			owns_core_province = 295			# Moskva
-			owns_core_province = 310			# Novgorod
 			OR = {
 				owns_core_province = 294		# Tver
 				owns_core_province = 308		# Yaroslavl	
