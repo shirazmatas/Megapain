@@ -25,12 +25,35 @@ country_event = {
     picture = DIPLOMACY_SIGNING_eventPicture
     is_triggered_only = yes
     option = {
-        name = frano_spanish_Swap.2.EVTOP1
+        name = frano_spanish_swap.2.EVTOP1
         add_prestige = 10
         capital_scope = {
             musketeer_infantry = SPA
         }
     }
+}
+
+country_event = {
+    id = franco_spanish_swap.4
+    title = franco_spanish_swap.1.t
+    desc = franco_spanish_swap.1.d
+    picture = DIPLOMACY_SIGNING_eventPicture
+    is_triggered_only = yes
+    hidden = yes
+    immediate = {
+        hidden_effect = {
+            every_owned_province = {
+                limit = {
+                    CAM = {
+                        core_claim = FRA
+                    }
+                }
+                cede_province = CAM
+            }
+        }
+    }
+    option = {  }
+
 }
 
 country_event = {

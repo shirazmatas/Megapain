@@ -195,8 +195,13 @@ country_decisions = {
 			release = CAM
 			create_subject = {
 				subject_type = crown_colony
-				subject = FRA
+				subject = CAM
 			}
+			country_event = {
+				id = franco_spanish_swap.4
+				days = 1
+			}
+
 		}
 	}
 }
