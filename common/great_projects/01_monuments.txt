@@ -865,7 +865,6 @@ buddha_statues = {
 
 	#can we build it?
 	build_trigger = {
-		province_is_buddhist_or_accepts_buddhism = yes
 	}
 
 	#what to do when it's built
@@ -882,12 +881,10 @@ buddha_statues = {
 
 	#can our country use it?
 	can_use_modifiers_trigger = {
-		province_is_buddhist_or_accepts_buddhism = yes
 	}
 
 	#can our country upgrade it?
 	can_upgrade_trigger = {
-		province_is_buddhist_or_accepts_buddhism = yes
 	}
 
 	#can our country keep it or is it destroyed when we get hold of it?
@@ -2265,8 +2262,6 @@ machu_picchu = {
 
 	#can we build it?
 	build_trigger = {
-		culture_group = andean_group
-		province_is_or_accepts_culture = yes
 	}
 
 	#what to do when it's built
@@ -2456,8 +2451,6 @@ chichen_itza = {
 
 	#can we build it?
 	build_trigger = {
-		culture_group = maya
-		province_is_or_accepts_culture = yes
 	}
 
 	#what to do when it's built
@@ -2832,8 +2825,6 @@ moai = {
 
 	#can we build it?
 	build_trigger = {
-		culture = polynesian
-		province_is_or_accepts_culture = yes
 	}
 
 	#what to do when it's built
@@ -2848,14 +2839,10 @@ moai = {
 
 	#can our country use it?
 	can_use_modifiers_trigger = {
-		culture = polynesian
-		province_is_or_accepts_culture = yes
 	}
 
 	#can our country upgrade it?
 	can_upgrade_trigger = {
-		culture = polynesian
-		province_is_or_accepts_culture = yes
 	}
 
 	#can our country keep it or is it destroyed when we get hold of it?
@@ -4541,9 +4528,6 @@ mesa_verde = {
 
 	#can we build it?
 	build_trigger = {
-		province_is_or_accepts_religion = {
-			religion = totemism
-		}
 	}
 
 	#what to do when it's built
@@ -4558,16 +4542,10 @@ mesa_verde = {
 
 	#can our country use it?
 	can_use_modifiers_trigger = {
-		province_is_or_accepts_religion = {
-			religion = totemism
-		}
 	}
 
 	#can our country upgrade it?
 	can_upgrade_trigger = {
-		province_is_or_accepts_religion = {
-			religion = totemism
-		}
 	}
 
 	#can our country keep it or is it destroyed when we get hold of it?
@@ -5647,14 +5625,11 @@ registan_square = {
 
 	#can we build it?
 	build_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = registan_square 
+		show_ambient_object = registan_square
 	}
 	
 	#what to do when it's destroyed
@@ -5664,16 +5639,10 @@ registan_square = {
 
 	#can our country use it?
 	can_use_modifiers_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	#can our country upgrade it?
 	can_upgrade_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	#can our country keep it or is it destroyed when we get hold of it?
@@ -10840,9 +10809,6 @@ baiturrahman_grand_mosque = {
 	type = monument
 
 	build_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	on_built = {
@@ -10852,15 +10818,9 @@ baiturrahman_grand_mosque = {
 	}
 
 	can_use_modifiers_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	can_upgrade_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	keep_trigger = {
@@ -11187,27 +11147,6 @@ bran_castle = {
 	type = monument
 
 	build_trigger = {
-		if = {
-			limit = {
-				owner = {
-					NOT = { has_country_flag = teu_can_utilize_bran_castle }
-				}
-			}
-			OR = {
-				AND = {
-					culture_group = carpathian
-					province_is_or_accepts_culture = yes
-				}
-				AND = {
-					culture = roman
-					province_is_or_accepts_culture = yes
-				}
-				AND = {
-					culture = dynamic-greek-culture-num2
-					province_is_or_accepts_culture = yes
-				}
-			}
-		}
 	}
 
 	on_built = {
@@ -11217,51 +11156,10 @@ bran_castle = {
 	}
 
 	can_use_modifiers_trigger = {
-		if = {
-			limit = {
-				owner = {
-					NOT = { has_country_flag = teu_can_utilize_bran_castle }
-				}
-			}
-			OR = {
-				AND = {
-					culture_group = carpathian
-					province_is_or_accepts_culture = yes
-				}
-				AND = {
-					culture = roman
-					province_is_or_accepts_culture = yes
-				}
-				AND = {
-					culture = dynamic-greek-culture-num2
-					province_is_or_accepts_culture = yes
-				}
-			}
-		}
+
 	}
 
 	can_upgrade_trigger = {
-		if = {
-			limit = {
-				owner = {
-					NOT = { has_country_flag = teu_can_utilize_bran_castle }
-				}
-			}
-			OR = {
-				AND = {
-					culture_group = carpathian
-					province_is_or_accepts_culture = yes
-				}
-				AND = {
-					culture = roman
-					province_is_or_accepts_culture = yes
-				}
-				AND = {
-					culture = dynamic-greek-culture-num2
-					province_is_or_accepts_culture = yes
-				}
-			}
-		}
 	}
 
 	keep_trigger = {
@@ -11579,9 +11477,6 @@ cahokia = {
 	type = monument
 
 	build_trigger = {
-		province_is_or_accepts_religion = {
-			religion = totemism
-		}
 	}
 
 	on_built = {
@@ -11591,15 +11486,9 @@ cahokia = {
 	}
 
 	can_use_modifiers_trigger = {
-		province_is_or_accepts_religion = {
-			religion = totemism
-		}
 	}
 
 	can_upgrade_trigger = {
-		province_is_or_accepts_religion = {
-			religion = totemism
-		}
 	}
 
 	keep_trigger = {
@@ -12786,26 +12675,6 @@ gomateshwara_statue = {
 	type = monument
 
 	build_trigger = {
-		if = {
-			limit = {
-				owner = {
-					mission_completed = MUG_mughal_architecture
-				}
-			}
-			OR = {
-				province_is_or_accepts_religion_group = {
-					religion_group = dharmic
-				}
-				owner = {
-					mission_completed = MUG_mughal_architecture
-				}
-			}
-		}
-		else = {
-			province_is_or_accepts_religion_group = {
-				religion_group = dharmic
-			}
-		}
 	}
 
 	on_built = {
@@ -12815,49 +12684,9 @@ gomateshwara_statue = {
 	}
 
 	can_use_modifiers_trigger = {
-		if = {
-			limit = {
-				owner = {
-					mission_completed = MUG_mughal_architecture
-				}
-			}
-			OR = {
-				province_is_or_accepts_religion_group = {
-					religion_group = dharmic
-				}
-				owner = {
-					mission_completed = MUG_mughal_architecture
-				}
-			}
-		}
-		else = {
-			province_is_or_accepts_religion_group = {
-				religion_group = dharmic
-			}
-		}
 	}
 
 	can_upgrade_trigger = {
-		if = {
-			limit = {
-				owner = {
-					mission_completed = MUG_mughal_architecture
-				}
-			}
-			OR = {
-				province_is_or_accepts_religion_group = {
-					religion_group = dharmic
-				}
-				owner = {
-					mission_completed = MUG_mughal_architecture
-				}
-			}
-		}
-		else = {
-			province_is_or_accepts_religion_group = {
-				religion_group = dharmic
-			}
-		}
 	}
 
 	keep_trigger = {
@@ -13502,9 +13331,6 @@ holy_city_kairouan = {
 	type = monument
 
 	build_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	on_built = {
@@ -13514,15 +13340,9 @@ holy_city_kairouan = {
 	}
 
 	can_use_modifiers_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	can_upgrade_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	keep_trigger = {
@@ -13980,9 +13800,6 @@ kilwa_city = {
 	type = monument
 
 	build_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	on_built = {
@@ -13992,15 +13809,9 @@ kilwa_city = {
 	}
 
 	can_use_modifiers_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	can_upgrade_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	keep_trigger = {
@@ -14212,9 +14023,6 @@ maidan-e_naqsh-e_jahan = {
 	type = monument
 
 	build_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	on_built = {
@@ -14224,15 +14032,9 @@ maidan-e_naqsh-e_jahan = {
 	}
 
 	can_use_modifiers_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	can_upgrade_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	keep_trigger = {
@@ -15694,9 +15496,6 @@ spiral_minaret_samarra = {
 	type = monument
 
 	build_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	on_built = {
@@ -15706,15 +15505,9 @@ spiral_minaret_samarra = {
 	}
 
 	can_use_modifiers_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	can_upgrade_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	keep_trigger = {
@@ -15809,9 +15602,6 @@ sultan_ahmed_mosque = {
 	type = monument
 
 	build_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	on_built = {
@@ -15821,15 +15611,9 @@ sultan_ahmed_mosque = {
 	}
 
 	can_use_modifiers_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	can_upgrade_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	keep_trigger = {
@@ -15924,26 +15708,6 @@ sun_temple_konarak = {
 	type = monument
 
 	build_trigger = {
-		if = {
-			limit = {
-				owner = {
-					mission_completed = MUG_mughal_architecture
-				}
-			}
-			OR = {
-				province_is_or_accepts_religion_group = {
-					religion_group = dharmic
-				}
-				owner = {
-					mission_completed = MUG_mughal_architecture
-				}
-			}
-		}
-		else = {
-			province_is_or_accepts_religion_group = {
-				religion_group = dharmic
-			}
-		}
 	}
 
 	on_built = {
@@ -15953,49 +15717,9 @@ sun_temple_konarak = {
 	}
 
 	can_use_modifiers_trigger = {
-		if = {
-			limit = {
-				owner = {
-					mission_completed = MUG_mughal_architecture
-				}
-			}
-			OR = {
-				province_is_or_accepts_religion_group = {
-					religion_group = dharmic
-				}
-				owner = {
-					mission_completed = MUG_mughal_architecture
-				}
-			}
-		}
-		else = {
-			province_is_or_accepts_religion_group = {
-				religion_group = dharmic
-			}
-		}
 	}
 
 	can_upgrade_trigger = {
-		if = {
-			limit = {
-				owner = {
-					mission_completed = MUG_mughal_architecture
-				}
-			}
-			OR = {
-				province_is_or_accepts_religion_group = {
-					religion_group = dharmic
-				}
-				owner = {
-					mission_completed = MUG_mughal_architecture
-				}
-			}
-		}
-		else = {
-			province_is_or_accepts_religion_group = {
-				religion_group = dharmic
-			}
-		}
 	}
 
 	keep_trigger = {
@@ -16202,22 +15926,6 @@ white_house = {
 	type = monument
 
 	build_trigger = {
-		owner = {
-			OR = {
-				is_former_colonial_nation = yes
-				tag = USA
-				AND = {
-					NOT = { government = native }
-					is_subject = no
-					capital_scope = {
-						OR = {
-							continent = north_america
-							continent = south_america
-						}
-					}
-				}
-			}			
-		}
 	}
 
 	on_built = {
@@ -16227,39 +15935,9 @@ white_house = {
 	}
 
 	can_use_modifiers_trigger = {
-		owner = {
-			OR = {
-				is_former_colonial_nation = yes
-				tag = USA
-				AND = {
-					is_subject = no
-					capital_scope = {
-						OR = {
-							continent = north_america
-							continent = south_america
-						}
-					}
-				}
-			}			
-		}
 	}
 
 	can_upgrade_trigger = {
-		owner = {
-			OR = {
-				is_former_colonial_nation = yes
-				tag = USA
-				AND = {
-					is_subject = no
-					capital_scope = {
-						OR = {
-							continent = north_america
-							continent = south_america
-						}
-					}
-				}
-			}			
-		}
 	}
 
 	keep_trigger = {
@@ -16823,9 +16501,6 @@ walls_benin = {
 	type = monument
 
 	build_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = pagan
-		}
 	}
 
 	on_built = {
@@ -16835,15 +16510,9 @@ walls_benin = {
 	}
 
 	can_use_modifiers_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = pagan
-		}
 	}
 
 	can_upgrade_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = pagan
-		}
 	}
 
 	keep_trigger = {
@@ -17851,9 +17520,6 @@ harar_jugol = {
 	type = monument
 
 	build_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	on_built = {
@@ -17863,15 +17529,9 @@ harar_jugol = {
 	}
 
 	can_use_modifiers_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	can_upgrade_trigger = {
-		province_is_or_accepts_religion_group = {
-			religion_group = muslim
-		}
 	}
 
 	keep_trigger = {
@@ -20989,30 +20649,15 @@ city_of_sarai = {
 				has_reform = steppe_horde
 				has_reform = holy_horde_reform
 				has_reform = cossacks_reform
+				tag = RUS
 			}
 		}
 	}
 	on_built = {}
 	on_destroyed = {}
 	can_use_modifiers_trigger = {
-		owner = {
-			OR = {
-				has_reform = great_mongol_state_reform
-				has_reform = steppe_horde
-				has_reform = holy_horde_reform
-				has_reform = cossacks_reform
-			}
-		}
 	}
 	can_upgrade_trigger = {
-		owner = {
-			OR = {
-				has_reform = great_mongol_state_reform
-				has_reform = steppe_horde
-				has_reform = holy_horde_reform
-				has_reform = cossacks_reform
-			}
-		}
 	}
 	keep_trigger = {}
 	tier_0 = {
