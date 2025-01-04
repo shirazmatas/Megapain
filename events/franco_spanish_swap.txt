@@ -25,7 +25,7 @@ country_event = {
     picture = DIPLOMACY_SIGNING_eventPicture
     is_triggered_only = yes
     option = {
-        name = frano_spanish_swap.2.EVTOP1
+        name = franco_spanish_swap.2.EVTOP1
         add_prestige = 10
         capital_scope = {
             musketeer_infantry = SPA
@@ -42,13 +42,20 @@ country_event = {
     hidden = yes
     immediate = {
         hidden_effect = {
-            every_owned_province = {
+            central_america_region = {
                 limit = {
-                    CAM = {
-                        core_claim = FRA
-                    }
+                    is_core = CAM
                 }
                 cede_province = CAM
+            }
+            panama_area = {
+                limit = {
+                    is_core = CAM
+                }
+                cede_province = cam
+            }
+            CAM = {
+                change_religion = coptic
             }
         }
     }
