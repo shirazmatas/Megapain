@@ -25,20 +25,38 @@ country_decisions = {
         }
         effect = {
             central_america_region = {
-                OR = {
-                    owned_by = FRA
-                    owned_by_subject_of = FRA
-                    is_colony = yes
+                limit = {
+                    OR = {
+                        owned_by = FRA
+                        owned_by_subject_of = FRA
+                        is_colony = yes
+                    }
                 }
                 cede_province = SPA
+                add_core = SPA
+                change_religion = coptic
             }
             andes_superregion = {
-                OR = {
-                    owned_by = FRA
-                    owned_by_subject_of = FRA
-                    is_colony = yes
+                limit = {
+                    OR = {
+                        owned_by = FRA
+                        owned_by_subject_of = FRA
+                        is_colony = yes
+                    }
                 }
                 cede_province = SPA
+                add_core = SPA
+            }
+            panama_area = {
+                limit = {
+                    OR = {
+                        owned_by = FRA
+                        owned_by_subject_of = FRA
+                        is_colony = yes
+                    }
+                }
+                cede_province = SPA
+                add_core = SPA
             }
             hispaniola_area = {
                 cede_province = FRA
@@ -57,6 +75,18 @@ country_decisions = {
                 add_core = FRA
             }
             2498 = {
+                cede_province = FRA
+                add_core = FRA
+            }
+            2818 = {
+                cede_province = FRA
+                add_core = FRA
+            }
+            2817 = {
+                cede_province = FRA
+                add_core = FRA
+            }
+            2815 = {
                 cede_province = FRA
                 add_core = FRA
             }
