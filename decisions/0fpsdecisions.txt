@@ -24,7 +24,74 @@ country_decisions = {
             is_at_war = no
         }
         effect = {
-
+            central_america_region = {
+                OR = {
+                    owned_by = FRA
+                    owned_by_subject_of = FRA
+                    is_colony = yes
+                }
+                cede_province = SPA
+            }
+            andes_superregion = {
+                OR = {
+                    owned_by = FRA
+                    owned_by_subject_of = FRA
+                    is_colony = yes
+                }
+                cede_province = SPA
+            }
+            hispaniola_area = {
+                cede_province = FRA
+                add_core = FRA
+            }
+            1881 = {
+                cede_province = FRA
+                add_core = FRA
+            }
+            884 = {
+                cede_province = FRA
+                add_core = FRA
+            }
+            883 = {
+                cede_province = FRA
+                add_core = FRA
+            }
+            2498 = {
+                cede_province = FRA
+                add_core = FRA
+            }
+            remove_rival = SPA
+            SPA = {
+                remove_rival = FRA
+                add_treasury = -1000
+                add_historical_friend = FRA
+                country_event = {
+                    id = franco_spanish_swap.2
+                    days = 1
+                }
+            }
+            add_treasury = 1000
+            add_historical_friend = SPA
+            country_event = {
+                id = franco_spanish_swap.1
+                days = 1
+            }
+            every_country = {
+                limit = {
+                    ai = no
+                    NOT = {
+                        OR = {
+                            tag = SPA
+                            tag = FRA
+                        }
+                    }
+                }
+                country_event = {
+                    id = franco_spanish_swap.3 # Other countries
+                    days = 2
+                    random = 1
+                }
+            }
         }
     }
 }
