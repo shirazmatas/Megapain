@@ -106,6 +106,7 @@ country_decisions = {
                 id = franco_spanish_swap.1
                 days = 1
             }
+            set_country_flag = traded_provinces_spain_flag
             every_country = {
                 limit = {
                     ai = no

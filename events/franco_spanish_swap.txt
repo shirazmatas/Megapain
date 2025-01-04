@@ -1,0 +1,76 @@
+namespace = franco_spanish_swap
+country_event = {
+    id = franco_spanish_swap.1
+    title = franco_spanish_swap.1.t
+    desc = franco_spanish_swap.1.d
+    picture = DIPLOMACY_SIGNING_eventPicture
+    is_triggered_only = yes
+    option = {
+        name = franco_spanish_swap.1.EVTOP1
+        add_prestige = 10
+        capital_scope = {
+            tercio_infantry = FRA
+        }
+    }
+    option = {
+        name = franco_spanish_swap.1.EVTOP2
+        add_dip_power = 25
+    }
+}
+
+country_event = {
+    id = franco_spanish_swap.2
+    title = franco_spanish_swap.1.t
+    desc = franco_spanish_swap.1.d
+    picture = DIPLOMACY_SIGNING_eventPicture
+    is_triggered_only = yes
+    option = {
+        name = frano_spanish_Swap.2.EVTOP1
+        add_prestige = 10
+        capital_scope = {
+            musketeer_infantry = SPA
+        }
+    }
+}
+
+country_event = {
+    id = franco_spanish_swap.3
+    title = franco_spanish_swap.1.t
+    desc = franco_spanish_swap.1.d
+    picture = DIPLOMACY_SIGNING_eventPicture
+    is_triggered_only = yes
+    option = {
+        name = franco_spanish_swap.3.EVTOP1
+        add_opinion = {
+            who = FRA
+            modifier = did_not_support_rebels
+        }
+        reverse_add_opinion = {
+            who = FRA
+            modifier = did_not_support_rebels
+        }
+        add_opinion = {
+            who = SPA
+            modifier = did_not_support_rebels
+        }
+        reverse_add_opinion = {
+            who = FRA
+            modifier = did_not_support_rebels
+        }
+    }
+    option = {
+        name = franco_spanish_swap.3.EVTOP2
+        add_prestige = 5
+    }
+    option = {
+        name= franco_spanish_swap.3.EVTOP3
+        reverse_add_opinion = {
+            who = FRA
+            modifier = refusal_of_the_eden_agreement
+        }
+        reverse_add_opinion = {
+            who = SPA
+            modifier = refusal_of_the_eden_agreement
+        }
+    }
+}
