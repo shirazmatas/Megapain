@@ -40,6 +40,14 @@ song = {
 }
 
 song = {
+    name = "Loser Anthem"
+    chance = {
+        modifier = {factor = 1}
+        modifier = {factor = 100 tag = FRA}
+    }
+}
+
+song = {
     name = "TNO OST - Organisation of Free Nation"
 	
 	chance = {

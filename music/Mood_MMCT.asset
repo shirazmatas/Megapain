@@ -40,6 +40,11 @@ music = {
 }
 
 music = {
+    name = "Loser Anthem"
+    file = "La_Marseillaise.ogg"
+}
+
+music = {
     name = "INTERWORLD - METAMORPHOSIS"
     file = "INTERWORLD_-_METAMORPHOSIS.ogg"
 }
