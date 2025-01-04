@@ -163,4 +163,40 @@ country_decisions = {
     		do_not_integrate = ARA
     		do_not_integrate = CAS
     	}
+	independent_mayanese = {
+		major = yes
+		potential = {
+			tag = SPA
+			colony = 1
+		}
+		allow = {
+			owns_all_provinces = {
+				OR = {
+					area = panama_area
+					area = nicaragua_area
+					area = costa_rica_area
+					area = honduras_area
+				}
+			}
+		}
+		effect = {
+			panama_area={
+				add_core = CAM
+			}
+			nicaragua_area={
+				add_core = CAM
+			}
+			costa_rica_area={
+				add_core = CAM
+			}
+			honduras_area = {
+				add_core = CAM
+			}
+			release = CAM
+			create_subject = {
+				subject_type = crown_colony
+				subject = FRA
+			}
+		}
+	}
 }
