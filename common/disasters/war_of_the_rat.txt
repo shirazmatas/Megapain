@@ -23,7 +23,7 @@ war_of_the_rat = {
 	
 	progress = {
 		modifier = {
-			factor = 1
+			factor = 5
 			NOT = { legitimacy = 90 }
 		}
 		modifier = {
@@ -35,8 +35,8 @@ war_of_the_rat = {
 		}
 		
 		modifier = {
-			factor = 1
-			NOT = { stability = 1 }
+			factor = 5
+			NOT = { stability = 3 }
 		}
 		
 		
@@ -64,7 +64,7 @@ war_of_the_rat = {
 		global_manpower_modifier = -0.35
 		mercenary_manpower = 0.3
 		global_tax_modifier = -0.5
-		production_efficiency = -0.15
+		production_efficiency = -0.25
 		adm_tech_cost_modifier = 0.15
 		dip_tech_cost_modifier = 0.15
 		mil_tech_cost_modifier = -0.15
