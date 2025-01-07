@@ -51,7 +51,7 @@ country_event = {
 				}
 				spawn_rebels = {
 					type = revolutionary_rebels
-					size = 5
+					size = 10
 					leader = "Mewing Man"
 					leader_dynasty = "Mew"
 					win = yes
@@ -78,7 +78,7 @@ country_event = {
 				}
 				spawn_rebels = {
 					type = revolutionary_rebels
-					size = 5
+					size = 10
 					leader = "Mewing Man"
 					leader_dynasty = "Mew"
 					win = yes
@@ -107,7 +107,7 @@ country_event = {
 				}
 				spawn_rebels = {
 					type = revolutionary_rebels
-					size = 5
+					size = 10
 					leader = "Mewing Man"
 					leader_dynasty = "Mew"
 					win = yes
@@ -134,7 +134,7 @@ country_event = {
 				}
 				spawn_rebels = {
 					type = revolutionary_rebels
-					size = 5
+					size = 10
 					leader = "Mewing Man"
 					leader_dynasty = "Mew"
 					win = yes
@@ -465,7 +465,7 @@ country_event = {
 			}
 			spawn_rebels = {
 				type = revolutionary_rebels
-				size = 3
+				size = 5
 			}			
 			add_province_modifier = {
 				name = rebel_refugees
@@ -625,7 +625,7 @@ country_event = {
 	option = {		# Send them a token force
 		name = war_of_the_rat.13.a
 		trigger = {
-			manpower = 5
+			manpower = 50
 		}
 		ai_chance = {
 			factor = 50
@@ -643,7 +643,7 @@ country_event = {
 			}
 		}
 		set_country_flag = support_for_war_of_the_roses
-		add_manpower = -5
+		add_manpower = -50
 		hidden_effect = {
 			GMA = {
 				country_event = { id = war_of_the_rat.14 }
@@ -662,7 +662,7 @@ country_event = {
 		}
 		trigger = { is_bankrupt = no }
 		set_country_flag = support_for_war_of_the_roses
-		add_years_of_income = -0.5
+		add_years_of_income = -0.1
 		hidden_effect = {
 			GMA = {
 				country_event = { id = war_of_the_rat.14 }
@@ -730,7 +730,7 @@ country_event = {
 					save_event_target_as = the_province
 					spawn_rebels = {
 						type = revolutionary_rebels
-						size = 2
+						size = 6
 						friend = FROM
 					}
 				}
@@ -776,7 +776,7 @@ country_event = {
 					save_event_target_as = the_province
 					spawn_rebels = {
 						type = revolutionary_rebels
-						size = 2
+						size = 6
 						friend = FROM
 					}
 				}
@@ -1248,7 +1248,7 @@ country_event = {
 				}
 				spawn_rebels = {
 					type = revolutionary_rebels
-					size = 2
+					size = 5
 					leader = "Edward"
 					leader_dynasty = "Lancaster"
 					win = yes
@@ -1257,7 +1257,7 @@ country_event = {
 			else = {
 				spawn_rebels = {
 					type = revolutionary_rebels
-					size = 3
+					size = 5
 					leader = "Mewing Man"
 					leader_dynasty = "Mew"
 					win = yes
@@ -1317,14 +1317,6 @@ country_event = {
 			add_republican_tradition = 30
 			add_prestige_or_monarch_power = { amount = 60 }
 			add_government_reform = democratic_values_reform
-			add_government_reform = consolidation_of_power_reform
-			add_government_reform = papal_embassy_reform
-			add_government_reform = lessons_of_the_hussite_wars_reform
-			add_government_reform = parliamentary_reform
-			add_government_reform = administrative_divisions_reform
-			add_government_reform = embrace_the_economic_theory_reform
-			add_government_reform = consolidate_power_into_different_candidates_reform
-			add_government_reform = political_principle_reform
 		}
 	}
 }
