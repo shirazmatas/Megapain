@@ -1,0 +1,72 @@
+country_decisions = {
+    usurp_russian_title = {
+        potential = {
+            NOT = { has_country_flag = usurped_russia }
+            tag = RMN
+            owns_core_province = 295
+			
+			is_nomad = no
+			is_at_war = no
+			
+			OR = {
+				owns_core_province = 294		# Tver
+				owns_core_province = 308		# Yaroslavl	
+			}
+			OR = {
+				owns_core_province = 301		# Ryazan
+				owns_core_province = 293		# Smolensk
+			}
+			OR = {
+				owns_core_province = 306		# Nijni-Novgorod
+				owns_core_province = 307		# Vladimir	
+			}
+			
+        }
+        allow = {
+            tag = RMN
+            owns_core_province = 295
+			
+			is_nomad = no
+			is_at_war = no
+			
+			OR = {
+				owns_core_province = 294		# Tver
+				owns_core_province = 308		# Yaroslavl	
+			}
+			OR = {
+				owns_core_province = 301		# Ryazan
+				owns_core_province = 293		# Smolensk
+			}
+			OR = {
+				owns_core_province = 306		# Nijni-Novgorod
+				owns_core_province = 307		# Vladimir	
+			}
+			RUS = { humiliated_by = ROOT }
+        }
+        effect = {
+            ural_region = {
+                limit = {
+                        owned_by = RUS
+                }
+                cede_province = BSH
+                add_core = BSH
+            }
+            russia_region = {
+                    limit = {
+                        owned_by = RUS
+                }
+                cede_province = BJA
+                add_core = BJA
+            }
+            ruthenia_region = {
+                limit = {
+                        owned_by = RUS
+                }
+                cede_province = MSH
+                add_core = MSH
+            }
+            add_treasury = -2500
+            set_country_flag = usurped_russia
+        }
+    }
+}
