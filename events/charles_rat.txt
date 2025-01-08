@@ -62,7 +62,7 @@ country_event = {
 	
 	trigger = {
 		NOT = { has_country_flag = MOG_had_event_2 }
-		OR = { tag = MOR tag = ENG tag = FRA tag = BAV tag = Z0C tag = GMA tag = FRI tag = NED tag = Z0A tag = RIG tag = EGY tag = ASK tag = GBR tag = JAP tag = RMN tag = MLO tag = ITA tag = GER tag = HLR}
+		OR = { tag = MOR tag = FRA tag = SPA tag = RUS tag = PRU tag = BAV tag = Z0C tag = GMA tag = BOH tag = FRI tag = NED tag = Z0A tag = RIG tag = EGY tag = ASK tag = JAP tag = RMN tag = MLO tag = ITA tag = GER tag = HLR }
 		}
 	
 
