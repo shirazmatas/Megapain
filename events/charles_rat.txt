@@ -27,7 +27,7 @@ country_event = {
 	option = { 
 		name = charles_rat.1.a		
 		custom_tooltip = "A dark insight into an ominous future..."
-		add_adm_power = 20
+		add_stability = -2
 		change_government_to_republic = yes
 		add_government_reform = military_dictatorship_reform
 		add_republican_tradition = 100
@@ -62,7 +62,7 @@ country_event = {
 	
 	trigger = {
 		NOT = { has_country_flag = MOG_had_event_2 }
-		OR = { tag = MOR tag = ENG tag = FRA tag = BAV tag = Z0C tag = GMA tag = FRI tag = NED tag = Z0A tag = RIG tag = EGY tag = ASK tag = GBR tag = JAP tag = RMN tag = MLO tag = ITA tag = GER tag = HLR}
+		OR = { tag = MOR tag = FRA tag = SPA tag = RUS tag = PRU tag = BAV tag = Z0C tag = GMA tag = BOH tag = FRI tag = NED tag = Z0A tag = RIG tag = EGY tag = ASK tag = JAP tag = RMN tag = MLO tag = ITA tag = GER tag = HLR }
 		}
 	
 
