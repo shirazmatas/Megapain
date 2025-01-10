@@ -427,8 +427,12 @@
 
  RMN_romaslavia: "Romaslavia"
  RMN_romaslavia_ADJ: "Romaslavian"
+ RUS_romaslavia: "Greater Romaslavia"
+ RUS_romaslavia_ADJ: "Greater Romaslav"
  declare_romaslavia_decision: "Declare Romaslavia"
  declare_romaslavia_decision_title: "Declare Romaslavia"
+ declare_greater_romaslavia_decision: "Declare Greater Romaslavia"
+ declare_greater_romaslavia_decision_title: "Declare Greater Romaslavia"
  GMA_united_states_of_mog: "United States of Mog"
  GMA_united_states_of_mog_ADJ: "United States of Mog"
  declare_united_states_of_mog_decision: "Declare United States of Mog"
