@@ -1,0 +1,54 @@
+country_decisions = {
+	
+	declare_greater_romaslavia_decision = {
+		major = yes
+		potential = {
+			primary_culture = romanian
+			NOT = { has_country_flag = formed_greater_romaslavia  }
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 295	# Moscow
+				province_id = 310	# Novgorod
+				province_id = 158	# Transylvania
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			adm_tech = 14
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			if = {
+				limit = {
+					OR = {
+						tag = RUS
+						was_tag = RMN
+					}
+				}
+				
+				NOT = { exists = RMN }
+
+			owns_core_province = 158	# Transylvania
+			owns_core_province = 295	# Moscow
+			owns_core_province = 310	# Novgorod
+			}
+		}
+		effect = {
+			override_country_name = RUS_romaslavia
+			set_country_flag = formed_greater_romaslavia
+			
+			custom_tooltip = "Country adopts the name of Greater Romaslavia"
+			
+			
+			add_prestige_or_monarch_power = { amount = 60 }
+			
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+}
