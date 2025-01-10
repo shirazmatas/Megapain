@@ -1,5 +1,5 @@
 country_decisions = {
-    usurp_russian_title = {
+    usurp_russian = {
         potential = {
             NOT = { has_country_flag = usurped_russia }
             tag = RMN
