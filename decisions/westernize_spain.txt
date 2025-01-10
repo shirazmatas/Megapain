@@ -163,45 +163,70 @@ country_decisions = {
     		do_not_integrate = ARA
     		do_not_integrate = CAS
     	}
-	independent_mayanese = {
+	bordergore_fixer = {
 		major = yes
 		potential = {
 			tag = SPA
-			colony = 1
+			not = {has_country_flag = released_spanish_subjects_flag}
 		}
 		allow = {
-			owns_all_provinces = {
-				OR = {
-					area = panama_area
-					area = nicaragua_area
-					area = costa_rica_area
-					area = honduras_area
-				}
-			}
+
 		}
 		effect = {
-			panama_area={
-				add_core = CAM
+			set_country_flag = released_spanish_subjects_flag
+			C04 = {
+				release = CAM
 			}
-			nicaragua_area={
-				add_core = CAM
+			every_province ={
+				limit = {
+					OR = {
+						is_core = CAM
+						area = panama_area
+					}
+				}
+				cede_province = CAM
 			}
-			costa_rica_area={
-				add_core = CAM
-			}
-			honduras_area = {
-				add_core = CAM
-			}
-			release = CAM
 			create_subject = {
 				subject_type = crown_colony
 				subject = CAM
 			}
-			country_event = {
-				id = franco_spanish_swap.4
-				days = 1
+			maracaibo_area = {
+				limit = {}
+				cede_province = FRA
 			}
+			2810 = {
+				cede_province = FRA
+			}
+			4612 = {
+				cede_province = C06
+			}
+			2809 = {
+				cede_province = C06
+			}
+			2939 = {
+				cede_province = C06
+			}
+			huanuco_area = {
+				cede_province = C10
+			}
+			every_province = {
+				limit = {
+					OR = {
+						region = peru_region
+						area = colombian_amazonas_area
+					}
+					controlled_by = C06
 
+				}
+				add_core = PEU
+			}
+			C06 = {
+				release = PEU
+			}
+			create_subject = {
+				subject_type = crown_colony
+				subject = PEU
+			}
 		}
 	}
 }

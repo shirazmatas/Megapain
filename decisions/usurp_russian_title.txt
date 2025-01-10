@@ -41,7 +41,6 @@ country_decisions = {
 				owns_core_province = 306		# Nijni-Novgorod
 				owns_core_province = 307		# Vladimir	
 			}
-			RUS = { humiliated_by = ROOT }
         }
         effect = {
             ural_region = {

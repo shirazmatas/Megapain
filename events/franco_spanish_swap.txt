@@ -34,36 +34,6 @@ country_event = {
 }
 
 country_event = {
-    id = franco_spanish_swap.4
-    title = franco_spanish_swap.1.t
-    desc = franco_spanish_swap.1.d
-    picture = DIPLOMACY_SIGNING_eventPicture
-    is_triggered_only = yes
-    hidden = yes
-    immediate = {
-        hidden_effect = {
-            central_america_region = {
-                limit = {
-                    is_core = CAM
-                }
-                cede_province = CAM
-            }
-            panama_area = {
-                limit = {
-                    is_core = CAM
-                }
-                cede_province = cam
-            }
-            CAM = {
-                change_religion = coptic
-            }
-        }
-    }
-    option = {  }
-
-}
-
-country_event = {
     id = franco_spanish_swap.3
     title = franco_spanish_swap.1.t
     desc = franco_spanish_swap.1.d
