@@ -35,6 +35,7 @@ country_decisions = {
 			custom_tooltip = "Something is wrong i can feel it"
 			
 			set_country_flag = formed_united_states_of_mog
+                        set_country_flag = rat_death
 
                         country_event = { id = war_of_the_rat.300 }
 
