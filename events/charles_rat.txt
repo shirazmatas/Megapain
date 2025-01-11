@@ -77,3 +77,29 @@ country_event = {
 }
 
 
+country_event = { 
+	id = charles_rat.3
+	title = charles_rat.3.t
+	desc = charles_rat.3.d
+	picture = charles_rat_eventPicture      #will change this
+	
+
+	is_triggered_only = yes
+	
+	trigger = {
+		NOT = { has_country_flag = rat_event_3 }
+		OR = { tag = MOR tag = FRA tag = SPA tag = RUS tag = PRU tag = BAV tag = Z0C tag = GMA tag = BOH tag = FRI tag = NED tag = Z0A tag = RIG tag = EGY tag = ASK tag = JAP tag = RMN tag = MLO tag = ITA tag = GER tag = HLR }
+		}
+	
+
+	immediate = {
+		set_global_flag = rat_event_3
+		play_sound = charles_rat   #will change this
+	}
+	option = { 
+		name = charles_rat.3.a		
+		custom_tooltip = "The era of Mogging and Mewing is over"
+	}
+}
+
+
