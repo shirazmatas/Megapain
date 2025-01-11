@@ -4,7 +4,7 @@ country_decisions = {
 		potential = {
 			tag = GMA
 			has_country_flag = war_of_the_rat_ended
-			NOT = { has_country_flag = rat_war_extra  }
+			NOT = { has_country_flag = rat_death  }
 		}
 		provinces_to_highlight = {
 			OR = {
@@ -34,7 +34,7 @@ country_decisions = {
 			
 			custom_tooltip = "Something is wrong i can feel it"
 			
-			set_country_flag = rat_war_extra
+			set_country_flag = formed_united_states_of_mog
 
                         country_event = { id = war_of_the_rat.300 }
 
