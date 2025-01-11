@@ -1315,10 +1315,7 @@ country_event = {
                           add_ruler_personality_ancestor = { key = righteous }	
                           add_ruler_personality_ancestor = { key = incorruptible }
 		
-			add_splendor = 300
-			add_republican_tradition = 30
-			add_prestige_or_monarch_power = { amount = 60 }
-			add_government_reform = democratic_values_reform
+			add_republican_tradition = 50
 		}
 	}
 }
