@@ -35,6 +35,9 @@ country_decisions = {
 			custom_tooltip = "Something is wrong i can feel it"
 			
 			set_country_flag = rat_war_extra
+
+                         every_country = { limit = { ai = no }
+                                          country_event = { id = charles_rat.3 } }
 			
 			
 		}
