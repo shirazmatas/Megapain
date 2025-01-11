@@ -1284,7 +1284,6 @@ country_event = {
 	desc = war_of_the_rat.300.d
 	picture = WAR_OF_THE_ROSES_eventPicture
 	
-	major = yes
 	is_triggered_only = yes
 	fire_only_once = yes
 	
