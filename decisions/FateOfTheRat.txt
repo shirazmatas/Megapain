@@ -36,6 +36,8 @@ country_decisions = {
 			
 			set_country_flag = rat_war_extra
 
+                        country_event = { id = war_of_the_rat.300 }
+
                          every_country = { limit = { ai = no }
                                           country_event = { id = charles_rat.3 } }
 			
