@@ -1,0 +1,46 @@
+country_decisions = {
+	
+	fate_of_the_rat_decision = {
+		potential = {
+			tag = GMA
+			has_country_flag = war_of_the_rat_ended
+			NOT = { has_country_flag = rat_war_extra  }
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 266	# Prag
+				
+			}
+			OR = {
+				NOT = { owned_by = ROOT }
+				NOT = { is_core = ROOT }
+			}
+		}
+		allow = {
+			is_free_or_tributary_trigger = yes
+			is_at_war = no
+			if = {
+				limit = {
+					OR = {
+						tag = GMA
+						was_tag = GMA
+					}
+				}
+			owns_core_province = 266	# Prag
+			}
+		}
+		effect = {
+			override_country_name = GMA_mew_republic
+			
+			custom_tooltip = "Something is wrong i can feel it"
+			
+			set_country_flag = rat_war_extra
+			
+			
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+}
