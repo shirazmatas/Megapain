@@ -81,7 +81,7 @@ country_event = {
 	id = charles_rat.3
 	title = charles_rat.3.t
 	desc = charles_rat.3.d
-	picture = charles_rat_eventPicture      #will change this
+	picture = SIEGE_PRAGUE_CASTLE_eventPicture
 	
 
 	is_triggered_only = yes
