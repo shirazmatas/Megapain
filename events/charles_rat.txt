@@ -94,7 +94,7 @@ country_event = {
 
 	immediate = {
 		set_global_flag = rat_event_3
-		play_sound = baker_romaslavia
+		play_sound = rat_god
 	}
 	option = { 
 		name = charles_rat.3.a		
