@@ -229,4 +229,31 @@ country_decisions = {
 			}
 		}
 	}
+	restore_spanish_super = {
+		major = yes
+		potential = {
+			tag = SPA
+			not = {has_country_flag = restored_spanish_super}
+		}
+		allow = {  }
+		effect = {
+			set_country_flag = restored_spanish_super
+			add_stability = 2
+			add_army_professionalism = 1
+			add_manpower = 400
+			add_sailors = 100000
+			remove_country_modifier = lost_hegemony
+			add_adm_power = 900
+			add_dip_power = 800
+			add_mil_power = 500
+			while = {
+				limit = {
+					not = {army_size = 1251}
+				}
+				capital_scope = {
+					tercio_infantry = SPA
+				}
+			}
+		}
+	}
 }
