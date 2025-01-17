@@ -248,11 +248,14 @@ country_decisions = {
 			add_mil_power = 500
 			while = {
 				limit = {
-					not = {army_size = 1251}
+					not = {army_size = 1151}
 				}
 				capital_scope = {
 					tercio_infantry = SPA
 				}
+			}
+			C10 = {
+				inherit = PEU
 			}
 		}
 	}
