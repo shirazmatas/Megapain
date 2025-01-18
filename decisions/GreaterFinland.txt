@@ -118,6 +118,11 @@ country_decisions = {
 			
 			FIN = {
                 change_government_to_republic = yes
+                change_religion = protestant
+		add_country_modifier = {
+			name = "conversion_zeal"
+			duration = 3650
+		}
 		        add_government_reform = trading_city
 				add_government_reform = democratic_values_reform
 				add_government_reform = consolidation_of_power_reform
