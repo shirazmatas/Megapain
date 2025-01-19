@@ -7,7 +7,7 @@ country_decisions = {
                 value = 2
 
                     area = laponia_area
-                    area = ostrobothnia_area
+                    area = bothnia_area
 
             }
 			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
@@ -22,7 +22,7 @@ country_decisions = {
                 value = 3
 
                     area = laponia_area
-                    area = ostrobothnia_area
+                    area = bothnia_area
 
             }
 			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
@@ -34,7 +34,7 @@ country_decisions = {
 			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
                 value = 1
 
-                    area = south_karelia_area
+                    area = karelia_area
 
             }
 			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
@@ -46,7 +46,7 @@ country_decisions = {
 			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
                 value = 1
 
-                    area = pomorye_area
+                    area = pomor_area
 
             }
 			owns_core_province = 1930
@@ -63,7 +63,7 @@ country_decisions = {
                 cede_province = FIN
                 add_core = FIN
             }
-            ostrobothnia_area = {
+            bothnia_area = {
                 limit = {
                     OR = {
                         owned_by = RUS
