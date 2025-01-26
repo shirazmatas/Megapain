@@ -3,27 +3,14 @@ country_decisions = {
         potential = {
             NOT = { has_country_flag = greater_finland_flag }
             tag = RUS
-            num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
-                value = 2
-
-                    area = laponia_area
-                    area = bothnia_area
-
-            }
-			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
-                value = 3
-
-                    area = finland_area
-
-            }
         }
         allow = {
             num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
                 value = 3
-
-                    area = laponia_area
-                    area = bothnia_area
-
+                    OR = {
+                        area = laponia_area
+                        area = bothnia_area
+                    }
             }
 			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
                 value = 5
@@ -38,91 +25,21 @@ country_decisions = {
 
             }
 			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
-                value = 2
-
-                    area = north_karelia_area
-
-            }
-			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
                 value = 1
 
                     area = pomor_area
 
             }
-			owns_core_province = 1930
+			owns_or_subject_of = 1930
             is_at_war = no
         }
         effect = {
-            laponia_area = {
-                limit = {
-                    OR = {
-                        owned_by = RUS
-                        owned_by_subject_of = RUS
-                    }
-                }
-                cede_province = FIN
-                add_core = FIN
+            SMI = {
+                change_tag = FIN
             }
-            bothnia_area = {
-                limit = {
-                    OR = {
-                        owned_by = RUS
-                        owned_by_subject_of = RUS
-                    }
-                }
-                cede_province = FIN
-                add_core = FIN
-            }
-			finland_area = {
-                limit = {
-                    OR = {
-                        owned_by = RUS
-                        owned_by_subject_of = RUS
-                    }
-                }
-                cede_province = FIN
-                add_core = FIN
-            }
-
-            30 = {
-                cede_province = FIN
-                add_core = FIN
-            }
-            32 = {
-                cede_province = FIN
-                add_core = FIN
-            }
-            4124 = {
-                cede_province = FIN
-                add_core = FIN
-            }
-            1776 = {
-                cede_province = FIN
-                add_core = FIN
-            }
-            1930 = {
-                cede_province = FIN
-                add_core = FIN
-            }
-			
-			create_subject = {
-				subject_type = march
-				subject = FIN
-			}
-
-
-            RUS = {
-                add_historical_friend = FIN
-
-            }
-			
+            add_historical_friend = FIN
 			FIN = {
-                change_government_to_republic = yes
-                change_religion = protestant
-		add_country_modifier = {
-			name = "conversion_zeal"
-			duration = 3650
-		}
+                change_government = republic
 		        add_government_reform = trading_city
 				add_government_reform = democratic_values_reform
 				add_government_reform = consolidation_of_power_reform
@@ -136,21 +53,26 @@ country_decisions = {
 				add_government_reform = military_rulership_reform
 				add_government_reform = universal_suffrage_reform
 				add_government_reform = strengthen_executive_powers_reform
-
-				
 		        add_republican_tradition = 100
-				
+                set_saved_name = {
+                    key = olli
+                    type = simple
+                    name = "Ollithespiker"
+                }
+                set_saved_name = {
+                    key = ggmannerheim
+                    type = simple
+                    name = "Gustaf Mannerheim"
+                }
 				define_ruler = {
-			    name = "OllitheSpiker"
-			    adm = 5
-			    dip = 4
-			    mil = 6
+                    name =  olli
+                    dynasty = "Harkonnen"
+                    adm = 5
+                    dip = 4
+                    mil = 6
 		        }
-				
-		         hidden_effect = { add_ruler_personality_ancestor = { key = strict } add_ruler_personality_ancestor = { key = inspiring_leader } add_ruler_personality_ancestor = { key = tactical_genius } }
-		       define_leader = {
-			    name = "Gustaf Mannerheim"
-				type = general
+		       define_general = {
+			    name = ggmannerheim
 			    fire = 6
 				shock = 4
 				manuever = 6
