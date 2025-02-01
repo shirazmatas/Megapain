@@ -1,0 +1,39 @@
+country_decisions = {
+    final_fix_spain_france = {
+        potential = {
+            NOT = { has_country_flag = final_fixer_flag }
+            tag = SPA
+        }
+        allow = {
+            tag = SPA
+        }
+        effect = {
+            change_unit_type = western
+            set_country_flag = final_fixer_flag
+            arizona_area = {
+                cede_provine = C15
+            }
+            colorado_plateau_area = {
+                cede_province = C15
+            }
+            texas_plains_area = {
+                cede_province = C04
+            }
+            4917 = {
+                cede_province = C17
+            }
+            4612 = {
+                cede_province = C00
+            }
+            eastern_llanos = {
+                cede_province = C00
+            }
+            lower_louisiana_area = {
+                cede_province = C17
+            }
+            921 = {
+                cede_province = C19
+            }
+        }
+    }
+}
