@@ -1,0 +1,11 @@
+namespace = louisiana_purchase
+country_event = {
+    id = louisiana_purchase.1
+    title = louisiana_purchase.1.t
+    desc = louisiana_purchase.1.d
+    picture = AULIC_COUNCIL_eventPicture
+    is_triggered_only = yes
+    option = {
+        name = louisiana_purchase.1.o
+    }
+}

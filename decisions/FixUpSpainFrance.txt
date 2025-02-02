@@ -34,6 +34,15 @@ country_decisions = {
             921 = {
                 cede_province = C19
             }
+            every_country = {
+                limit = {
+                    ai = no
+                }
+                country_event = {
+                    id = louisiana_purchase.1
+                    days = 1
+                }
+            }
         }
     }
 }
