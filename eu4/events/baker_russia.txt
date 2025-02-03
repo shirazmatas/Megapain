@@ -1,0 +1,56 @@
+namespace = baker_russia
+country_event = { 
+	id = baker_russia.1
+	title = baker_russia.1.t
+	desc = baker_russia.1.d
+	picture = LAND_MILITARY_eventPicture
+	
+	trigger = {
+	    tag = RUS
+		NOT = { has_global_flag = baker_russia }	 
+
+			owns = 161
+
+			}
+	
+	mean_time_to_happen = { 
+		days = 2
+	}
+	immediate = {
+		set_global_flag = baker_russia
+		play_sound = baker_romaslavia
+	}
+	fire_only_once = yes
+	option = { 
+		name = baker_russia.1.a		
+		every_country = {
+		limit = { ai = no }
+        country_event = { id = baker_russia.2 }
+		}
+	}
+}
+
+#global counterparts
+country_event = { 
+	id = baker_russia.2
+	title = baker_russia.1.t
+	desc = baker_russia.1.d
+	picture = LAND_MILITARY_eventPicture
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	    OR = { tag = MOR tag = FRA tag = SPA tag = RUS tag = PRU tag = BAV tag = Z0C tag = GMA tag = BOH tag = FRI tag = NED tag = Z0A tag = RIG tag = EGY tag = ASK tag = JAP tag = RMN tag = MLO tag = ITA tag = GER tag = HLR}
+		NOT = { has_global_flag = RUS_had_event_2 }			
+	}
+	
+
+	immediate = {
+		set_global_flag = RUS_had_event_2
+		play_sound = baker_romaslavia
+	}
+
+	option = { 
+		name = baker_russia.1.a		
+	}
+}

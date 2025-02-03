@@ -1,6 +1,0 @@
-
-sound = {
-    name = rat_god
-    file = "rat_god.wav"
-	always_load = yes
-}
