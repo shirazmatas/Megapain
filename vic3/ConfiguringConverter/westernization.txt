@@ -38,14 +38,24 @@
 # - if civlevel <20 (horrible horrible tech, potentially "eurocentric institutions etc") we take the higher of civlevel and euro-civlevel,
 #	so that countries that's normally score higher get out of decentralized territory.
 
+
+link = {
+	# Player Nations
+	westernization = 10
+	industry = 6
+	traits = {
+		german_speaking european_heritage beneluxian_culture_group francophone anglophone 
+                iberian_culture_group italophone hispanophone lusophone middle_eastern_heritage yamato korean_language
+	        british_culture_group italian_culture_group latinophone romanian_culture_group hungarian_culture_group west_slavic 
+	}
+}
+
 link = {
 	# western european
 	westernization = 10
 	industry = 5
 	traits = {
-		german_speaking european_heritage beneluxian_culture_group francophone anglophone celtic_people 
-		iberian_culture_group italophone scandinavian_culture_group finnic hispanophone lusophone
-		african_settler british_culture_group italian_culture_group swiss latinophone
+		 celtic_people scandinavian_culture_group finnic african_settler swiss
 	}
 }
 
@@ -55,7 +65,7 @@ link = {
 	literacy = 4
 	industry = 4
 	traits = {
-		jewish_group jugoslav albanian_language romanian_culture_group hungarian_culture_group west_slavic 
+		jewish_group jugoslav albanian_language 
 		baltic_culture_group east_slavic greek_culture caucasus_group thracian_heritage slavic south_slavic 
 	}
 }
@@ -75,7 +85,7 @@ link = {
 	westernization = 6
 	industry = 2
 	traits = {
-		middle_eastern_heritage arab_speaking iranian_turanian_culture_group
+		arab_speaking iranian_turanian_culture_group
 	}
 }
 
@@ -94,7 +104,7 @@ link = {
 	industry = 2
 	traits = {
 		malay_culture southeast_asian_heritage himalayan tibetan_language east_asian_heritage sinosphere 
-		khmer_language tai burmese_language yamato han_chinese korean_language ainu_language hmong_mien_language
+		khmer_language tai burmese_language han_chinese ainu_language hmong_mien_language
 	}
 }
 
