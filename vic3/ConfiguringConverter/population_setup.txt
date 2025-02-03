@@ -14,5 +14,5 @@ link = { effect = effect_starting_pop_literacy_baseline literacy = 0 }
 
 link = { effect = effect_starting_pop_wealth_very_high averagedev = 40 }
 link = { effect = effect_starting_pop_wealth_high averagedev = 30 }
-link = { effect = effect_starting_pop_wealth_medium averagedev = 20 }
-link = { effect = effect_starting_pop_wealth_low averagedev = 10 }
+link = { effect = effect_starting_pop_wealth_medium averagedev = 18 }
+link = { effect = effect_starting_pop_wealth_low averagedev = 0 }
