@@ -45,7 +45,7 @@ link = {
 	industry = 6
 	traits = {
 		german_speaking european_heritage beneluxian_culture_group francophone anglophone 
-                iberian_culture_group italophone hispanophone lusophone middle_eastern_heritage yamato korean_language
+                iberian_culture_group italophone hispanophone lusophone middle_eastern_heritage 
 	        british_culture_group italian_culture_group latinophone romanian_culture_group hungarian_culture_group west_slavic 
 	}
 }
@@ -103,7 +103,7 @@ link = {
 	westernization = 4
 	industry = 2
 	traits = {
-		malay_culture southeast_asian_heritage himalayan tibetan_language east_asian_heritage sinosphere 
+		malay_culture southeast_asian_heritage himalayan tibetan_language east_asian_heritage sinosphere yamato korean_language
 		khmer_language tai burmese_language han_chinese ainu_language hmong_mien_language
 	}
 }
