@@ -8,8 +8,8 @@ old_world = {
 	east_indies_superregion = { assimilation = 1 }
 	oceania_superregion = { assimilation = 4 }
 	china_superregion = { assimilation = 1 }
-	europe_superregion = { assimilation = 1 }
-	eastern_europe_superregion = { assimilation = 1 }
+	europe_superregion = { assimilation = 2 }
+	eastern_europe_superregion = { assimilation = 2 }
 	tartary_superregion = { assimilation = 1 }
 	far_east_superregion = { assimilation = 1 }
 	africa_superregion = { assimilation = 2 }
