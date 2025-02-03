@@ -13,7 +13,6 @@
 # If an IG gets boosted two or more times, it also becomes one of the ruling IGs.
 
 administrative_ideas = {
-	literacy = 4
 	adm = 2
 }
 
@@ -33,14 +32,12 @@ humanist_ideas = {
 }
 
 innovativeness_ideas = {
-	literacy = 3
 	adm = 1
 	dip = 1
 	mil = 1
 }
 
 religious_ideas = {
-	literacy = 3
 	adm = 1
 	ig = ig_devout
 	noig = ig_intelligentsia
@@ -127,7 +124,6 @@ offensive_ideas = {
 }
 
 quality_ideas = {
-	literacy = 2
 	mil = 1
 }
 
