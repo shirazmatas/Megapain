@@ -43,7 +43,7 @@ infrastructure = {
 }
 
 military = {
-	weight = 12
+	weight = 6
 
 	building_barracks
 
@@ -58,7 +58,7 @@ military = {
 }
 
 naval = {
-	weight = 3
+	weight = 2
 
 	building_naval_base
 }
