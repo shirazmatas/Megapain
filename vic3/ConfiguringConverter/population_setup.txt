@@ -13,6 +13,6 @@ link = { effect = effect_starting_pop_literacy_baseline literacy = 0 }
 # Anything above a level would fall into that level.
 
 link = { effect = effect_starting_pop_wealth_very_high averagedev = 40 }
-link = { effect = effect_starting_pop_wealth_high averagedev = 30 }
-link = { effect = effect_starting_pop_wealth_medium averagedev = 18 }
+link = { effect = effect_starting_pop_wealth_high averagedev = 27 }
+link = { effect = effect_starting_pop_wealth_medium averagedev = 16 }
 link = { effect = effect_starting_pop_wealth_low averagedev = 0 }
