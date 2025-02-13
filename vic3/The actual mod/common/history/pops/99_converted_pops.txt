@@ -37582,6 +37582,13 @@
 				size = 716
 			}
 		}
+		region_state:SPA = {
+		    create_pop = {
+		        culture = khmer
+		        religion = oriental_orthodox
+		        size = 45000
+		    }
+		}
 		region_state:LAO = {
 			create_pop = {
 				culture = lao
@@ -38642,229 +38649,227 @@
 		}
 	}
 	s:STATE_NEW_MEXICO = {
-		region_state:CAL = {
-			create_pop = {
-				culture = navajo
-				religion = animist
-				size = 402
-			}
-			create_pop = {
-				culture = chichimecan
-				religion = animist
-				size = 25
-			}
-			create_pop = {
-				culture = dixie
-				religion = protestant
-				size = 522
-			}
-			create_pop = {
-				culture = dixie
-				religion = protestant
-				size = 1261
-			}
-			create_pop = {
-				culture = apache
-				religion = animist
-				size = 2032
-			}
-			create_pop = {
-				culture = neo-texas_colony-dynamic-andalucian-berber-culture-num1
-				religion = oriental_orthodox
-				size = 6325
-			}
-			create_pop = {
-				culture = pueblo
-				religion = animist
-				size = 500
-			}
-			create_pop = {
-				culture = dixie
-				religion = protestant
-				size = 601
-			}
-			create_pop = {
-				culture = dixie
-				religion = oriental_orthodox
-				size = 1287
-			}
-		}
 		region_state:MEX = {
-			create_pop = {
-				culture = pueblo
-				religion = animist
-				size = 425
-			}
-			create_pop = {
-				culture = chichimecan
-				religion = animist
-				size = 48
-			}
-			create_pop = {
-				culture = dixie
-				religion = protestant
-				size = 743
-			}
-			create_pop = {
-				culture = dixie
-				religion = oriental_orthodox
-				size = 1397
-			}
-			create_pop = {
-				culture = apache
-				religion = animist
-				size = 1302
-			}
-			create_pop = {
-				culture = chichimecan
-				religion = animist
-				size = 80
-			}
-			create_pop = {
-				culture = cajun
-				religion = catholic
-				size = 154
-			}
-			create_pop = {
-				culture = cajun
-				religion = catholic
-				size = 2178
-			}
-			create_pop = {
-				culture = cajun
-				religion = oriental_orthodox
-				size = 1569
-			}
-			create_pop = {
-				culture = neo-texas_colony-dynamic-andalucian-berber-culture-num1
-				religion = oriental_orthodox
-				size = 6207
-			}
-			create_pop = {
-				culture = apache
-				religion = animist
-				size = 1403
-			}
-			create_pop = {
-				culture = chichimecan
-				religion = animist
-				size = 157
-			}
-			create_pop = {
-				culture = dixie
-				religion = protestant
-				size = 3632
-			}
-			create_pop = {
-				culture = dixie
-				religion = oriental_orthodox
-				size = 5776
-			}
-			create_pop = {
-				culture = pueblo
-				religion = animist
-				size = 880
-			}
-			create_pop = {
-				culture = chichimecan
-				religion = animist
-				size = 40
-			}
-			create_pop = {
-				culture = dixie
-				religion = protestant
-				size = 892
-			}
-			create_pop = {
-				culture = dixie
-				religion = protestant
-				size = 861
-			}
-			create_pop = {
-				culture = dixie
-				religion = oriental_orthodox
-				size = 3072
-			}
-			create_pop = {
-				culture = apache
-				religion = animist
-				size = 682
-			}
-			create_pop = {
-				culture = chichimecan
-				religion = animist
-				size = 45
-			}
-			create_pop = {
-				culture = dixie
-				religion = protestant
-				size = 1202
-			}
-			create_pop = {
-				culture = dixie
-				religion = oriental_orthodox
-				size = 2250
-			}
-			create_pop = {
-				culture = apache
-				religion = animist
-				size = 1100
-			}
-			create_pop = {
-				culture = chichimecan
-				religion = animist
-				size = 91
-			}
-			create_pop = {
-				culture = dixie
-				religion = protestant
-				size = 2749
-			}
-			create_pop = {
-				culture = dixie
-				religion = oriental_orthodox
-				size = 4418
-			}
-			create_pop = {
-				culture = pueblo
-				religion = animist
-				size = 1046
-			}
-			create_pop = {
-				culture = chichimecan
-				religion = animist
-				size = 91
-			}
-			create_pop = {
-				culture = dixie
-				religion = protestant
-				size = 1804
-			}
-			create_pop = {
-				culture = dixie
-				religion = oriental_orthodox
-				size = 3327
-			}
-			create_pop = {
-				culture = pueblo
-				religion = animist
-				size = 901
-			}
-			create_pop = {
-				culture = chichimecan
-				religion = animist
-				size = 85
-			}
-			create_pop = {
-				culture = dixie
-				religion = protestant
-				size = 1437
-			}
-			create_pop = {
-				culture = dixie
-				religion = oriental_orthodox
-				size = 2800
-			}
+            create_pop = {
+                culture = navajo
+                religion = animist
+                size = 402
+            }
+            create_pop = {
+                culture = chichimecan
+                religion = animist
+                size = 25
+            }
+            create_pop = {
+                culture = dixie
+                religion = protestant
+                size = 522
+            }
+            create_pop = {
+                culture = dixie
+                religion = protestant
+                size = 1261
+            }
+            create_pop = {
+                culture = apache
+                religion = animist
+                size = 2032
+            }
+            create_pop = {
+                culture = neo-texas_colony-dynamic-andalucian-berber-culture-num1
+                religion = oriental_orthodox
+                size = 6325
+            }
+            create_pop = {
+                culture = pueblo
+                religion = animist
+                size = 500
+            }
+            create_pop = {
+                culture = dixie
+                religion = protestant
+                size = 601
+            }
+            create_pop = {
+                culture = dixie
+                religion = oriental_orthodox
+                size = 1287
+            }
+            create_pop = {
+                culture = pueblo
+                religion = animist
+                size = 425
+            }
+            create_pop = {
+                culture = chichimecan
+                religion = animist
+                size = 48
+            }
+            create_pop = {
+                culture = dixie
+                religion = protestant
+                size = 743
+            }
+            create_pop = {
+                culture = dixie
+                religion = oriental_orthodox
+                size = 1397
+            }
+            create_pop = {
+                culture = apache
+                religion = animist
+                size = 1302
+            }
+            create_pop = {
+                culture = chichimecan
+                religion = animist
+                size = 80
+            }
+            create_pop = {
+                culture = cajun
+                religion = catholic
+                size = 154
+            }
+            create_pop = {
+                culture = cajun
+                religion = catholic
+                size = 2178
+            }
+            create_pop = {
+                culture = cajun
+                religion = oriental_orthodox
+                size = 1569
+            }
+            create_pop = {
+                culture = neo-texas_colony-dynamic-andalucian-berber-culture-num1
+                religion = oriental_orthodox
+                size = 6207
+            }
+            create_pop = {
+                culture = apache
+                religion = animist
+                size = 1403
+            }
+            create_pop = {
+                culture = chichimecan
+                religion = animist
+                size = 157
+            }
+            create_pop = {
+                culture = dixie
+                religion = protestant
+                size = 3632
+            }
+            create_pop = {
+                culture = dixie
+                religion = oriental_orthodox
+                size = 5776
+            }
+            create_pop = {
+                culture = pueblo
+                religion = animist
+                size = 880
+            }
+            create_pop = {
+                culture = chichimecan
+                religion = animist
+                size = 40
+            }
+            create_pop = {
+                culture = dixie
+                religion = protestant
+                size = 892
+            }
+            create_pop = {
+                culture = dixie
+                religion = protestant
+                size = 861
+            }
+            create_pop = {
+                culture = dixie
+                religion = oriental_orthodox
+                size = 3072
+            }
+            create_pop = {
+                culture = apache
+                religion = animist
+                size = 682
+            }
+            create_pop = {
+                culture = chichimecan
+                religion = animist
+                size = 45
+            }
+            create_pop = {
+                culture = dixie
+                religion = protestant
+                size = 1202
+            }
+            create_pop = {
+                culture = dixie
+                religion = oriental_orthodox
+                size = 2250
+            }
+            create_pop = {
+                culture = apache
+                religion = animist
+                size = 1100
+            }
+            create_pop = {
+                culture = chichimecan
+                religion = animist
+                size = 91
+            }
+            create_pop = {
+                culture = dixie
+                religion = protestant
+                size = 2749
+            }
+            create_pop = {
+                culture = dixie
+                religion = oriental_orthodox
+                size = 4418
+            }
+            create_pop = {
+                culture = pueblo
+                religion = animist
+                size = 1046
+            }
+            create_pop = {
+                culture = chichimecan
+                religion = animist
+                size = 91
+            }
+            create_pop = {
+                culture = dixie
+                religion = protestant
+                size = 1804
+            }
+            create_pop = {
+                culture = dixie
+                religion = oriental_orthodox
+                size = 3327
+            }
+            create_pop = {
+                culture = pueblo
+                religion = animist
+                size = 901
+            }
+            create_pop = {
+                culture = chichimecan
+                religion = animist
+                size = 85
+            }
+            create_pop = {
+                culture = dixie
+                religion = protestant
+                size = 1437
+            }
+            create_pop = {
+                culture = dixie
+                religion = oriental_orthodox
+                size = 2800
+            }
 		}
 	}
 	s:STATE_NEW_SOUTH_WALES = {
@@ -41541,19 +41546,17 @@
 		}
 	}
 	s:STATE_NORTH_DAKOTA = {
-		region_state:X17 = {
-			create_pop = {
-				culture = siouan
-				religion = animist
-				size = 1537
-			}
-			create_pop = {
-				culture = franco_canadian
-				religion = catholic
-				size = 4617
-			}
-		}
 		region_state:X24 = {
+		    create_pop = {
+                culture = siouan
+                religion = animist
+                size = 1537
+            }
+            create_pop = {
+                culture = franco_canadian
+                religion = catholic
+                size = 4617
+            }
 			create_pop = {
 				culture = dakota
 				religion = animist
@@ -50505,28 +50508,26 @@
 				religion = jewish
 				size = 49
 			}
-		}
-		region_state:SWE = {
 			create_pop = {
-				culture = swedish
-				religion = catholic
-				size = 2272
-			}
-			create_pop = {
-				culture = swedish
-				religion = protestant
-				size = 6038
-			}
-			create_pop = {
-				culture = swedish
-				religion = oriental_orthodox
-				size = 6002
-			}
-			create_pop = {
-				culture = ashkenazi
-				religion = jewish
-				size = 6
-			}
+                culture = swedish
+                religion = catholic
+                size = 2272
+            }
+            create_pop = {
+                culture = swedish
+                religion = protestant
+                size = 6038
+            }
+            create_pop = {
+                culture = swedish
+                religion = oriental_orthodox
+                size = 6002
+            }
+            create_pop = {
+                culture = ashkenazi
+                religion = jewish
+                size = 6
+            }
 		}
 	}
 	s:STATE_SCHLESWIG_HOLSTEIN = {
@@ -50945,14 +50946,14 @@
 			create_pop = {
 				culture = han
 				religion = confucian
-				size = 4409825
+				size = 409825
 			}
 		}
 		region_state:X28 = {
 			create_pop = {
 				culture = han
 				religion = confucian
-				size = 3720790
+				size = 7720790
 			}
 			create_pop = {
 				culture = han
@@ -54053,14 +54054,14 @@
 			create_pop = {
 				culture = han
 				religion = confucian
-				size = 13104048
+				size = 404048
 			}
 		}
 		region_state:X28 = {
 			create_pop = {
 				culture = han
 				religion = confucian
-				size = 4567960
+				size = 17267960
 			}
 		}
 	}
@@ -65381,26 +65382,31 @@
 			create_pop = {
 				culture = han
 				religion = confucian
-				size = 1412240
+				size = 212240
 			}
 			create_pop = {
 				culture = han
 				religion = oriental_orthodox
-				size = 956010
+				size = 200010
 			}
 		}
 		region_state:NET = {
 			create_pop = {
 				culture = han
 				religion = confucian
-				size = 1507068
+				size = 407068
 			}
 		}
 		region_state:X28 = {
+            create_pop = {
+                culture = han
+                religion = oriental_orthodox
+                size = 756010
+            }
 			create_pop = {
 				culture = han
 				religion = confucian
-				size = 1794129
+				size = 4094129
 			}
 			create_pop = {
 				culture = han
