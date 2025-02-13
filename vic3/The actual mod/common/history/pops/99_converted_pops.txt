@@ -3177,38 +3177,36 @@
 				religion = mahayana
 				size = 2920
 			}
-		}
-		region_state:SH0 = {
 			create_pop = {
-				culture = sumatran
-				religion = hindu
-				size = 40409
-			}
-			create_pop = {
-				culture = sumatran
-				religion = hindu
-				size = 511
-			}
-			create_pop = {
-				culture = sumatran
-				religion = mahayana
-				size = 45292
-			}
-			create_pop = {
-				culture = sumatran
-				religion = mahayana
-				size = 573
-			}
-			create_pop = {
-				culture = sumatran
-				religion = oriental_orthodox
-				size = 84243
-			}
-			create_pop = {
-				culture = sumatran
-				religion = oriental_orthodox
-				size = 1066
-			}
+                culture = sumatran
+                religion = hindu
+                size = 40409
+            }
+            create_pop = {
+                culture = sumatran
+                religion = hindu
+                size = 511
+            }
+            create_pop = {
+                culture = sumatran
+                religion = mahayana
+                size = 45292
+            }
+            create_pop = {
+                culture = sumatran
+                religion = mahayana
+                size = 573
+            }
+            create_pop = {
+                culture = sumatran
+                religion = oriental_orthodox
+                size = 84243
+            }
+            create_pop = {
+                culture = sumatran
+                religion = oriental_orthodox
+                size = 1066
+            }
 		}
 	}
 	s:STATE_ANTIOQUIA = {
@@ -12310,33 +12308,11 @@
 				size = 4941
 			}
 		}
-		region_state:CAL = {
-			create_pop = {
-				culture = navajo
-				religion = animist
-				size = 321
-			}
-			create_pop = {
-				culture = chichimecan
-				religion = animist
-				size = 20
-			}
-			create_pop = {
-				culture = anglo_saxon
-				religion = protestant
-				size = 418
-			}
-			create_pop = {
-				culture = anglo_saxon
-				religion = protestant
-				size = 1009
-			}
-		}
 		region_state:MEX = {
 			create_pop = {
 				culture = pueblo
 				religion = animist
-				size = 255
+				size = 570
 			}
 			create_pop = {
 				culture = chichimecan
@@ -12346,12 +12322,12 @@
 			create_pop = {
 				culture = anglo_saxon
 				religion = protestant
-				size = 445
+				size = 863
 			}
 			create_pop = {
 				culture = anglo_saxon
 				religion = oriental_orthodox
-				size = 838
+				size = 1838
 			}
 		}
 		region_state:UTE = {
@@ -18558,14 +18534,14 @@
 			create_pop = {
 				culture = min
 				religion = confucian
-				size = 6024640
+				size = 400000
 			}
 		}
 		region_state:X28 = {
 			create_pop = {
 				culture = min
 				religion = confucian
-				size = 1912047
+				size = 7536687
 			}
 			create_pop = {
 				culture = min
@@ -25922,20 +25898,21 @@
 	s:STATE_JIANGSU = {
 		region_state:RUS = {
 			create_pop = {
-				culture = han
-				religion = confucian
-				size = 753352
+			    culture = romanian
+			    religion = orthodox
+			    size = 50000
 			}
 			create_pop = {
-				culture = han
-				religion = orthodox
-				size = 365849
+			    culture = han
+			    religion = orthodox
+			    size = 70000
 			}
 			create_pop = {
-				culture = romanian
-				religion = orthodox
-				size = 560049
+			    culture = han
+			    religion = confucian
+			    size = 290000
 			}
+
 		}
 		region_state:X28 = {
 			create_pop = {
@@ -25944,10 +25921,25 @@
 				size = 4571291
 			}
 			create_pop = {
+                culture = han
+                religion = confucian
+                size = 463352
+            }
+			create_pop = {
+                culture = han
+                religion = orthodox
+                size = 295849
+            }
+			create_pop = {
 				culture = han
 				religion = confucian
 				size = 1332738
 			}
+			create_pop = {
+                culture = romanian
+                religion = orthodox
+                size = 510049
+            }
 			create_pop = {
 				culture = han
 				religion = confucian
