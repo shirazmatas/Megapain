@@ -1,0 +1,13 @@
+﻿CHARACTERS = {
+	c:X53 = {
+		create_character = {
+			first_name = "Bagula_II"
+			last_name = "Sonni"
+			ruler = yes
+			culture = cu:mande
+			religion = rel:oriental_orthodox
+			birth_date = 1818.2.10
+		}
+
+	}
+}

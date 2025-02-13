@@ -1,0 +1,27 @@
+﻿CHARACTERS = {
+	c:CAL = {
+		create_character = {
+			first_name = "Luis_Grimaldi"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_1
+			culture = cu:neo-usa_north_colony-dynamic-andalucian-berber-culture-num1
+			religion = rel:oriental_orthodox
+			birth_date = 1769.2.12
+			traits = {
+				basic_diplomat cautious 
+			}
+		}
+
+		create_character = {
+			first_name = "Francisco_Folch_de_Cardona"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1765.7.30
+			traits = {
+				cocaine_addiction kidney_stones 
+			}
+		}
+
+	}
+}

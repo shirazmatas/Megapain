@@ -1,0 +1,82 @@
+﻿CHARACTERS = {
+	c:X35 = {
+		create_character = {
+			first_name = "Kokkala_Haihaya"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1799.2.3
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Sanghatissa_Shahi"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1796.7.2
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Kokkala_Raj_Gondi"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1779.10.4
+		}
+
+		create_character = {
+			first_name = "Hemavati"
+			last_name = "ud_Daula"
+			female = yes
+			culture = cu:rajput
+			religion = rel:hindu
+			birth_date = 1790.12.25
+			traits = {
+				experienced_political_operator innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Dharmapala"
+			last_name = "Pritampalid"
+			heir = yes
+			culture = cu:rajput
+			religion = rel:hindu
+			birth_date = 1816.5.21
+			traits = {
+				basic_political_operator direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Yashkarna_III"
+			last_name = "Pritampalid"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:rajput
+			religion = rel:hindu
+			birth_date = 1791.5.21
+			traits = {
+				ambitious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Nagapala_Chandi"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1778.11.12
+			traits = {
+				imposing resupply_commander 
+			}
+		}
+
+	}
+}

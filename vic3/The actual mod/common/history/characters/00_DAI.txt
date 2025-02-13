@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:DAI = {
+		create_character = {
+			first_name = "Duy_Phuong_I"
+			last_name = "Nguyen_Quang"
+			ruler = yes
+			culture = cu:vietnamese
+			religion = rel:mahayana
+			birth_date = 1802.6.30
+			traits = {
+				basic_political_operator hedonist 
+			}
+		}
+
+	}
+}

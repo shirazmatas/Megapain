@@ -44,9 +44,9 @@ link = {
 	westernization = 10
 	industry = 6
 	traits = {
-		german_speaking european_heritage beneluxian_culture_group francophone anglophone 
-                iberian_culture_group italophone hispanophone lusophone middle_eastern_heritage 
-	        british_culture_group italian_culture_group latinophone romanian_culture_group hungarian_culture_group west_slavic 
+		german_speaking european_heritage beneluxian_culture_group francophone anglophone
+		iberian_culture_group italophone hispanophone lusophone middle_eastern_heritage
+	    british_culture_group italian_culture_group latinophone romanian_culture_group hungarian_culture_group west_slavic
 	}
 }
 

@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:NEP = {
+		create_character = {
+			first_name = "Jayanripendramalla_Magar"
+			ruler = yes
+			culture = cu:nepali
+			religion = rel:hindu
+			birth_date = 1781.1.25
+			traits = {
+				innovative 
+			}
+		}
+
+	}
+}

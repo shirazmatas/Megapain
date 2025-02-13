@@ -1,0 +1,52 @@
+﻿CHARACTERS = {
+	c:ORI = {
+		create_character = {
+			first_name = "Hkyam"
+			last_name = "Gangavanshi"
+			female = yes
+			culture = cu:oriya
+			religion = rel:hindu
+			birth_date = 1790.3.6
+			traits = {
+				basic_diplomat charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Dharma"
+			last_name = "Singha"
+			heir = yes
+			female = yes
+			culture = cu:oriya
+			religion = rel:hindu
+			birth_date = 1810.2.3
+			traits = {
+				basic_political_operator wrathful 
+			}
+		}
+
+		create_character = {
+			first_name = "Abhimanyu_VI"
+			last_name = "Singha"
+			ruler = yes
+			interest_group = ig_industrialists
+			culture = cu:oriya
+			religion = rel:hindu
+			birth_date = 1794.9.2
+			traits = {
+				ambitious basic_political_operator 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Kalahastambha_Vansa"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1778.3.9
+		}
+
+	}
+}

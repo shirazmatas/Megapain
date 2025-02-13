@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:TRA = {
+		create_character = {
+			first_name = "Marthanda_Varma_Kaimal"
+			ruler = yes
+			culture = cu:malayalam
+			religion = rel:hindu
+			birth_date = 1769.6.30
+			traits = {
+				direct 
+			}
+		}
+
+	}
+}

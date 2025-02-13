@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:W75 = {
+		create_character = {
+			first_name = "Sulaym0n_Salim"
+			ruler = yes
+			culture = cu:swahili
+			religion = rel:oriental_orthodox
+			birth_date = 1771.6.30
+			traits = {
+				hedonist 
+			}
+		}
+
+	}
+}

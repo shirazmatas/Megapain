@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:X50 = {
+		create_character = {
+			first_name = "Bakar_I"
+			last_name = "Birayamb"
+			ruler = yes
+			culture = cu:mande
+			religion = rel:sunni
+			birth_date = 1803.6.30
+			traits = {
+				basic_colonial_administrator hedonist 
+			}
+		}
+
+	}
+}

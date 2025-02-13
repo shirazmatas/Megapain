@@ -1,0 +1,65 @@
+﻿CHARACTERS = {
+	c:RAJ = {
+		create_character = {
+			first_name = "Mallugi_Bhati"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1785.1.13
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Singhraja_Chudasama"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1774.12.12
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Sattiyavvai"
+			last_name = "Khalji"
+			female = yes
+			culture = cu:rajput
+			religion = rel:hindu
+			birth_date = 1778.1.28
+			traits = {
+				basic_political_operator charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Viryarama"
+			last_name = "Bhatti"
+			heir = yes
+			culture = cu:rajput
+			religion = rel:hindu
+			birth_date = 1799.5.14
+			traits = {
+				meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Viryarama_II"
+			last_name = "Bhatti"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:rajput
+			religion = rel:hindu
+			birth_date = 1765.12.26
+			traits = {
+				basic_political_operator cautious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}

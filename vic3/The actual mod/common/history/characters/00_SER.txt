@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:SER = {
+		create_character = {
+			first_name = "Mutimir_Obrenovic"
+			ruler = yes
+			culture = cu:greek
+			religion = rel:orthodox
+			birth_date = 1785.6.30
+			traits = {
+				experienced_political_operator tactful 
+			}
+		}
+
+	}
+}

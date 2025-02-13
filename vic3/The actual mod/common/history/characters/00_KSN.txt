@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:KSN = {
+		create_character = {
+			first_name = "ka_Imbe_I"
+			last_name = "Kalumbwe"
+			ruler = yes
+			culture = cu:lunda
+			religion = rel:animist
+			birth_date = 1701.3.21
+			traits = {
+				cancer innovative 
+			}
+		}
+
+	}
+}

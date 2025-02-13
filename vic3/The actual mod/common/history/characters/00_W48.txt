@@ -1,0 +1,64 @@
+﻿CHARACTERS = {
+	c:W48 = {
+		create_character = {
+			first_name = "Vuppadeva_Shah_Miri"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1776.5.20
+			traits = {
+				inept 
+			}
+		}
+
+		create_character = {
+			first_name = "Charanpal"
+			last_name = "Sayyidi"
+			culture = cu:kashmiri
+			religion = rel:sunni
+			birth_date = 1781.10.31
+			traits = {
+				charismatic experienced_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Candala"
+			last_name = "Ardshirid"
+			heir = yes
+			female = yes
+			culture = cu:kashmiri
+			religion = rel:sunni
+			birth_date = 1814.2.20
+			traits = {
+				direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Candala_V"
+			last_name = "Ardshirid"
+			ruler = yes
+			female = yes
+			culture = cu:kashmiri
+			religion = rel:sunni
+			birth_date = 1794.2.8
+			traits = {
+				cautious 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Kuldip_Shah_Miri"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1748.8.19
+			traits = {
+				cancer grifter 
+			}
+		}
+
+	}
+}

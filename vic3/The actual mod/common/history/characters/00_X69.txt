@@ -1,0 +1,97 @@
+﻿CHARACTERS = {
+	c:X69 = {
+		create_character = {
+			first_name = "Iracentira_Saraf"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1784.10.23
+		}
+
+		create_character = {
+			first_name = "Arulmolivarman_Mudaliar"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1789.12.1
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Accinataratippan_Thondaiman"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1789.9.28
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Cevakattevan_Sastri"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1790.7.30
+		}
+
+		create_character = {
+			first_name = "Uttama"
+			last_name = "Suryavansha"
+			heir = yes
+			culture = cu:tamil
+			religion = rel:hindu
+			birth_date = 1808.3.31
+			traits = {
+				basic_diplomat pious 
+			}
+		}
+
+		create_character = {
+			first_name = "Pulakesi"
+			last_name = "Suryavansha"
+			culture = cu:tamil
+			religion = rel:hindu
+			birth_date = 1779.3.28
+			traits = {
+				ambitious basic_political_operator 
+			}
+		}
+
+		create_character = {
+			first_name = "Amrapali_VII"
+			last_name = "Suryavansha"
+			ruler = yes
+			female = yes
+			culture = cu:tamil
+			religion = rel:hindu
+			birth_date = 1762.2.11
+			traits = {
+				cautious senile 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Miroslav_Nayak"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1762.3.1
+			traits = {
+				basic_offensive_planner senile 
+			}
+		}
+
+		create_character = {
+			first_name = "Vicayaraka_Chetty"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1763.10.3
+			traits = {
+				basic_defensive_strategist persistent 
+			}
+		}
+
+	}
+}

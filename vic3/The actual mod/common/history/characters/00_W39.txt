@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:W39 = {
+		create_character = {
+			first_name = "Bai_I"
+			last_name = "Duan"
+			ruler = yes
+			culture = cu:kachin
+			religion = rel:animist
+			birth_date = 1802.6.30
+			traits = {
+				basic_political_operator meticulous 
+			}
+		}
+
+	}
+}

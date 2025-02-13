@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:AFG = {
+		create_character = {
+			first_name = "Abhimanyu_Hotaki"
+			ruler = yes
+			culture = cu:pashtun
+			religion = rel:oriental_orthodox
+			birth_date = 1769.8.12
+			traits = {
+				innovative 
+			}
+		}
+
+	}
+}

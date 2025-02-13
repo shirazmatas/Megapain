@@ -1,0 +1,140 @@
+﻿CHARACTERS = {
+	c:JAP = {
+		create_character = {
+			first_name = "Sen"
+			last_name = "Katsura"
+			female = yes
+			culture = cu:japanese
+			religion = rel:mahayana
+			birth_date = 1796.9.28
+			traits = {
+				pious 
+			}
+		}
+
+		create_character = {
+			first_name = "Asahito"
+			last_name = "Yamato"
+			heir = yes
+			culture = cu:japanese
+			religion = rel:mahayana
+			birth_date = 1821.6.30
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Ietsuna_I"
+			last_name = "Yamato"
+			ruler = yes
+			culture = cu:japanese
+			religion = rel:mahayana
+			birth_date = 1802.6.30
+			traits = {
+				expert_political_operator romantic 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Tomohito_Ouchi"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1793.12.20
+		}
+
+		create_character = {
+			first_name = "Mihito_Shimazu"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1791.12.25
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Hideyori_Matsunaga"
+			is_admiral = yes
+			commander_rank = commander_rank_4
+			birth_date = 1779.8.7
+			traits = {
+				traditionalist_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Kotohito_Akechi"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1778.9.6
+			traits = {
+				grifter 
+			}
+		}
+
+		create_character = {
+			first_name = "Tsuguhito_Toki"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1785.8.30
+			traits = {
+				ambitious 
+			}
+		}
+
+		create_character = {
+			first_name = "Yoshiteru_Maeda"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1774.8.31
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Ieyasu_Mori"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1765.12.28
+			traits = {
+				resupply_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Yoshimitsu_Otomo"
+			is_admiral = yes
+			commander_rank = commander_rank_3
+			birth_date = 1762.5.21
+			traits = {
+				senile 
+			}
+		}
+
+		create_character = {
+			first_name = "Yoshiaki_Yamana"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1761.6.3
+			traits = {
+				basic_offensive_planner charismatic 
+			}
+		}
+
+		create_character = {
+			first_name = "Yoshimasa_Shibata"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1763.4.20
+			traits = {
+				basic_offensive_planner senile 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:W57 = {
+		create_character = {
+			first_name = "Anak_II"
+			last_name = "Balewa"
+			ruler = yes
+			culture = cu:dynamic-hausa-mossi-culture-num1
+			religion = rel:sunni
+			birth_date = 1801.6.30
+			traits = {
+				basic_political_operator cautious 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:HTH = {
+		create_character = {
+			first_name = "Binnya_Kyan_I"
+			last_name = "Thaton"
+			ruler = yes
+			culture = cu:mon
+			religion = rel:theravada
+			birth_date = 1803.6.30
+			traits = {
+				arrogant 
+			}
+		}
+
+	}
+}

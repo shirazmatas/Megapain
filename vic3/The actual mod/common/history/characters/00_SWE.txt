@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:SWE = {
+		create_character = {
+			first_name = "Anundr_IV"
+			last_name = "Harkonnen"
+			ruler = yes
+			culture = cu:anglo_saxon
+			religion = rel:oriental_orthodox
+			birth_date = 1803.6.30
+			traits = {
+				ambitious basic_political_operator 
+			}
+		}
+
+	}
+}

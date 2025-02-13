@@ -1,0 +1,36 @@
+﻿CHARACTERS = {
+	c:CMI = {
+		create_character = {
+			first_name = "Phra_Chaiyathip_I"
+			last_name = "Chet_Ton"
+			ruler = yes
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1804.12.24
+			traits = {
+				experienced_political_operator romantic 
+			}
+		}
+
+		create_character = {
+			first_name = "Phra_Choi_Ngao"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1800.5.19
+			traits = {
+				direct 
+			}
+		}
+
+		create_character = {
+			first_name = "Mangraenara_Chun"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1773.2.5
+			traits = {
+				shellshocked 
+			}
+		}
+
+	}
+}

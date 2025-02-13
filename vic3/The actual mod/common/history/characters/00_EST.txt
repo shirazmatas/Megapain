@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:EST = {
+		create_character = {
+			first_name = "Nomedas_Carpelan"
+			ruler = yes
+			culture = cu:estonian
+			religion = rel:orthodox
+			birth_date = 1785.6.30
+			traits = {
+				basic_diplomat charismatic 
+			}
+		}
+
+	}
+}

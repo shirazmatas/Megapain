@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:NOR = {
+		create_character = {
+			first_name = "Haraldr_VI"
+			last_name = "Harkonnen"
+			ruler = yes
+			culture = cu:norwegian
+			religion = rel:oriental_orthodox
+			birth_date = 1801.6.30
+			traits = {
+				hedonist 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:BRY = {
+		create_character = {
+			first_name = "Darayisung_I"
+			last_name = "Mangit"
+			ruler = yes
+			culture = cu:buryat
+			religion = rel:sunni
+			birth_date = 1776.10.16
+			traits = {
+				basic_colonial_administrator meticulous 
+			}
+		}
+
+	}
+}

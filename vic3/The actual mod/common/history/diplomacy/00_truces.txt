@@ -1,0 +1,38 @@
+﻿DIPLOMACY = {
+	c:BUL ?= {
+		create_bidirectional_truce = {
+			country = c:RUS
+			months = 59
+		}
+	}
+	c:EGY ?= {
+		create_bidirectional_truce = {
+			country = c:W23
+			months = 59
+		}
+	}
+	c:ITA ?= {
+		create_bidirectional_truce = {
+			country = c:X08
+			months = 59
+		}
+	}
+	c:RUS ?= {
+		create_bidirectional_truce = {
+			country = c:BUL
+			months = 59
+		}
+	}
+	c:W23 ?= {
+		create_bidirectional_truce = {
+			country = c:EGY
+			months = 59
+		}
+	}
+	c:X08 ?= {
+		create_bidirectional_truce = {
+			country = c:ITA
+			months = 59
+		}
+	}
+}

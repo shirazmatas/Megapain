@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:DEI = {
+		create_character = {
+			first_name = "Jacob_Van_Wassenaer"
+			ruler = yes
+			culture = cu:dutch
+			religion = rel:protestant
+			birth_date = 1780.8.12
+			traits = {
+				experienced_political_operator reserved 
+			}
+		}
+
+	}
+}

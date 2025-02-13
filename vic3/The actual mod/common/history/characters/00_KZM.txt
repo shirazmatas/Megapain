@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:KZM = {
+		create_character = {
+			first_name = "Cinkonkole_II"
+			last_name = "Lukeni"
+			ruler = yes
+			culture = cu:bakongo
+			religion = rel:animist
+			birth_date = 1673.10.31
+			traits = {
+				basic_diplomat direct 
+			}
+		}
+
+	}
+}

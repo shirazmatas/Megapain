@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:BUL = {
+		create_character = {
+			first_name = "Boleslav_Frujin"
+			ruler = yes
+			culture = cu:greek
+			religion = rel:orthodox
+			birth_date = 1779.2.10
+			traits = {
+				experienced_diplomat 
+			}
+		}
+
+	}
+}

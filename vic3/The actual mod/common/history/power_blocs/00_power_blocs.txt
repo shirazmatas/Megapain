@@ -1,0 +1,66 @@
+﻿POWER_BLOCS = {
+	c:EGY = {
+		create_power_bloc = {
+			name = EGY_BLOC
+			map_color = { 255 205 155 }
+			founding_date = 1770.2.10
+			identity = identity_trade_league
+			principle = principle_internal_trade_1
+			
+			member = c:W23
+		}
+	}
+
+	c:FRA = {
+		create_power_bloc = {
+			name = FRA_BLOC
+			map_color = { 20 50 210 }
+			founding_date = 1747.8.13
+			identity = identity_sovereign_empire
+			principle = principle_vassalization_1
+			
+			member = c:SH0
+		}
+	}
+
+	c:ITA = {
+		create_power_bloc = {
+			name = ITA_BLOC
+			map_color = { 125 171 84 }
+			founding_date = 1770.2.10
+			identity = identity_trade_league
+			principle = principle_internal_trade_1
+			
+			member = c:X08
+		}
+	}
+
+	c:RUS = {
+		create_power_bloc = {
+			name = RUS_BLOC
+			map_color = { 47 91 18 }
+			founding_date = 1755.6.30
+			identity = identity_trade_league
+			principle = principle_internal_trade_1
+			
+			member = c:AFG
+			member = c:BUL
+			member = c:EST
+			member = c:PAN
+			member = c:SER
+		}
+	}
+
+	c:SPA = {
+		create_power_bloc = {
+			name = SPA_BLOC
+			map_color = { 211 136 6 }
+			founding_date = 1755.6.30
+			identity = identity_sovereign_empire
+			principle = principle_vassalization_1
+			
+			member = c:DAI
+		}
+	}
+
+}

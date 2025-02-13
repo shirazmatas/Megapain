@@ -1,0 +1,74 @@
+﻿CHARACTERS = {
+	c:NZL = {
+		create_character = {
+			first_name = "Vincent_Van_Diemen"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_2
+			culture = cu:dutch
+			religion = rel:protestant
+			birth_date = 1778.10.24
+			traits = {
+				hedonist 
+			}
+		}
+
+		create_character = {
+			first_name = "Isaac_Nachtegaal"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1794.2.25
+			traits = {
+				inexperienced 
+			}
+		}
+
+		create_character = {
+			first_name = "Roeland_Van_Heemskerck"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1798.5.3
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Barthout_Van_Brederode"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1790.6.27
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Filips_Willem_Van_der_Werff"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1794.7.29
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Paul_Van_der_Werff"
+			is_admiral = yes
+			commander_rank = commander_rank_3
+			birth_date = 1792.6.23
+			traits = {
+				syphilis 
+			}
+		}
+
+		create_character = {
+			first_name = "Frans_Van_Wijngaarden"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1793.4.30
+		}
+
+	}
+}

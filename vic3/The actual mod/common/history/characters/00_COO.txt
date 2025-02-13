@@ -1,0 +1,27 @@
+﻿CHARACTERS = {
+	c:COO = {
+		create_character = {
+			first_name = "Chakradhwaj_Narayan"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_1
+			culture = cu:kamarupan
+			religion = rel:hindu
+			birth_date = 1767.1.31
+			traits = {
+				basic_colonial_administrator imperious 
+			}
+		}
+
+		create_character = {
+			first_name = "Mriganka_Borphukan"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1783.7.13
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,51 @@
+﻿CHARACTERS = {
+	c:SIA = {
+		create_character = {
+			first_name = "Naresuen"
+			last_name = "Ayutthaya"
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1789.5.27
+			traits = {
+				meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Amporn"
+			last_name = "Thonburi"
+			heir = yes
+			female = yes
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1815.3.1
+			traits = {
+				basic_diplomat reserved 
+			}
+		}
+
+		create_character = {
+			first_name = "Amporn_V"
+			last_name = "Thonburi"
+			ruler = yes
+			female = yes
+			culture = cu:thai
+			religion = rel:theravada
+			birth_date = 1793.3.25
+			traits = {
+				basic_diplomat innovative 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Ramathibodi_Na_Chumphon"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1771.4.5
+		}
+
+	}
+}

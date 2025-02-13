@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:HAU = {
+		create_character = {
+			first_name = "Muhammad_I"
+			last_name = "Balewa"
+			ruler = yes
+			culture = cu:hausa
+			religion = rel:sunni
+			birth_date = 1803.6.30
+			traits = {
+				cautious experienced_colonial_administrator 
+			}
+		}
+
+	}
+}

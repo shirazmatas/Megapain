@@ -1,0 +1,15 @@
+﻿CHARACTERS = {
+	c:PAN = {
+		create_character = {
+			first_name = "Balbir_Ahluwalia"
+			ruler = yes
+			culture = cu:panjabi
+			religion = rel:orthodox
+			birth_date = 1791.8.12
+			traits = {
+				wrathful 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:CHK = {
+		create_character = {
+			first_name = "Chinguli_IV"
+			last_name = "Lukeni"
+			ruler = yes
+			culture = cu:lunda
+			religion = rel:animist
+			birth_date = 1779.3.22
+			traits = {
+				direct 
+			}
+		}
+
+	}
+}

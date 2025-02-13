@@ -1,0 +1,29 @@
+﻿CHARACTERS = {
+	c:ARK = {
+		create_character = {
+			first_name = "Anawrahta"
+			last_name = "Mrauk-U"
+			heir = yes
+			culture = cu:burmese
+			religion = rel:theravada
+			birth_date = 1782.7.10
+			traits = {
+				cautious experienced_colonial_administrator 
+			}
+		}
+
+		create_character = {
+			first_name = "Saw_Pu_Nyo_I"
+			last_name = "Mrauk-U"
+			ruler = yes
+			female = yes
+			culture = cu:burmese
+			religion = rel:theravada
+			birth_date = 1767.7.10
+			traits = {
+				cautious 
+			}
+		}
+
+	}
+}

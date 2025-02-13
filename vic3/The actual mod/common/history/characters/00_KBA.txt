@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:KBA = {
+		create_character = {
+			first_name = "Bope_Kena_I"
+			last_name = "Kuba"
+			ruler = yes
+			culture = cu:mongo
+			religion = rel:animist
+			birth_date = 1585.1.26
+			traits = {
+				basic_political_operator persistent 
+			}
+		}
+
+	}
+}

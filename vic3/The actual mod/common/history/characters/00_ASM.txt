@@ -1,0 +1,35 @@
+﻿CHARACTERS = {
+	c:ASM = {
+		create_character = {
+			first_name = "Khsetravridha_Baruah"
+			ruler = yes
+			culture = cu:bengali
+			religion = rel:mahayana
+			birth_date = 1784.3.1
+			traits = {
+				persistent 
+			}
+		}
+
+		create_character = {
+			first_name = "Rajrajendranarayan_Kalita"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1785.3.13
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Mahendravarman_Roy"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1753.5.3
+			traits = {
+				ruthless senile 
+			}
+		}
+
+	}
+}

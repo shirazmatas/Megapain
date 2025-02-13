@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:KON = {
+		create_character = {
+			first_name = "Afonso_VII"
+			last_name = "Lukeni"
+			ruler = yes
+			culture = cu:bakongo
+			religion = rel:catholic
+			birth_date = 1751.6.29
+			traits = {
+				basic_political_operator wrathful 
+			}
+		}
+
+	}
+}

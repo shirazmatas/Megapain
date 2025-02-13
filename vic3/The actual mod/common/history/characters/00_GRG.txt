@@ -1,0 +1,36 @@
+﻿CHARACTERS = {
+	c:GRG = {
+		create_character = {
+			first_name = "Louis_de_Caumartin"
+			ruler = yes
+			is_general = yes
+			culture = cu:cajun
+			religion = rel:catholic
+			birth_date = 1785.10.15
+			traits = {
+				innovative 
+			}
+		}
+
+		create_character = {
+			first_name = "Philippe_d_Entraigues"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1796.3.4
+			traits = {
+				syphilis 
+			}
+		}
+
+		create_character = {
+			first_name = "Robert_de_Chevigny"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1784.12.26
+			traits = {
+				cocaine_addiction 
+			}
+		}
+
+	}
+}

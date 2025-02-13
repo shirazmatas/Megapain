@@ -1,0 +1,135 @@
+﻿CHARACTERS = {
+	c:ITA = {
+		create_character = {
+			first_name = "Lodovico_Doria-Landi"
+			ruler = yes
+			culture = cu:north_italian
+			religion = rel:catholic
+			birth_date = 1787.8.12
+			traits = {
+				imperious 
+			}
+		}
+
+		create_character = {
+			first_name = "Ermes_Corsini"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1792.10.22
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Sforza_Maria_Paradisi"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1798.5.16
+			traits = {
+				basic_offensive_planner 
+			}
+		}
+
+		create_character = {
+			first_name = "Severino_Doria-Landi"
+			is_general = yes
+			commander_rank = commander_rank_4
+			birth_date = 1786.10.29
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Filippo_Borghese"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1775.4.25
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Agostino_Barberini"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1780.10.1
+			traits = {
+				shellshocked 
+			}
+		}
+
+		create_character = {
+			first_name = "Giordano_Sforza"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1788.6.29
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Sforza_Maria_Buonarroti"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1776.4.5
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+		create_character = {
+			first_name = "Constanzo_Grimaldi"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1769.3.14
+			traits = {
+				basic_defensive_strategist meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Augusto_Pignatelli"
+			is_admiral = yes
+			commander_rank = commander_rank_3
+			birth_date = 1770.6.8
+			traits = {
+				traditionalist_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Sforza_Maria_Buonarroti"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1777.6.28
+			traits = {
+				basic_defensive_strategist 
+			}
+		}
+
+		create_character = {
+			first_name = "Augusto_d_Este"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1781.10.14
+			traits = {
+				basic_artillery_commander 
+			}
+		}
+
+		create_character = {
+			first_name = "Gian_Gastone_Gentileschi"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1769.8.27
+			traits = {
+				expensive_tastes 
+			}
+		}
+
+	}
+}

@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:I09 = {
+		create_character = {
+			first_name = "Aiaan_IV"
+			last_name = "Khorints"
+			ruler = yes
+			culture = cu:yakut
+			religion = rel:tengri_pagan_reformed
+			birth_date = 1761.9.16
+			traits = {
+				hedonist senile 
+			}
+		}
+
+	}
+}

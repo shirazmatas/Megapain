@@ -1,0 +1,16 @@
+﻿CHARACTERS = {
+	c:LBA = {
+		create_character = {
+			first_name = "Ilunga_Kabale_II"
+			last_name = "Kuba"
+			ruler = yes
+			culture = cu:luba
+			religion = rel:animist
+			birth_date = 1628.10.16
+			traits = {
+				experienced_colonial_administrator innovative 
+			}
+		}
+
+	}
+}

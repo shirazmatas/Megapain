@@ -1,0 +1,27 @@
+﻿CHARACTERS = {
+	c:FIN = {
+		create_character = {
+			first_name = "Tuomas_Horn"
+			is_admiral = yes
+			birth_date = 1758.6.17
+			traits = {
+				opium_addiction sickly 
+			}
+		}
+
+		create_character = {
+			first_name = "Ollithespiker"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_3
+			interest_group = ig_industrialists
+			culture = cu:sami
+			religion = rel:orthodox
+			birth_date = 1753.6.6
+			traits = {
+				basic_offensive_planner expert_political_operator persistent 
+			}
+		}
+
+	}
+}

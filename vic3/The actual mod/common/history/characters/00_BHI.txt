@@ -1,0 +1,77 @@
+﻿CHARACTERS = {
+	c:BHI = {
+		create_character = {
+			first_name = "Domingo_Campomanes"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1801.4.16
+			traits = {
+				inept 
+			}
+		}
+
+		create_character = {
+			first_name = "Jorge_de_Ayala"
+			is_general = yes
+			commander_rank = commander_rank_2
+			birth_date = 1781.2.18
+			traits = {
+				psychological_affliction 
+			}
+		}
+
+		create_character = {
+			first_name = "Sancho_de_Guzman"
+			ruler = yes
+			is_general = yes
+			commander_rank = commander_rank_1
+			culture = cu:neo-brazil_colony-dynamic-andalucian-berber-culture-num1
+			religion = rel:oriental_orthodox
+			birth_date = 1781.12.23
+			traits = {
+				meticulous 
+			}
+		}
+
+		create_character = {
+			first_name = "Juan_Bautista_de_Austria"
+			is_general = yes
+			commander_rank = commander_rank_3
+			birth_date = 1774.12.25
+			traits = {
+				psychological_affliction 
+			}
+		}
+
+		create_character = {
+			first_name = "Gabriel_Elhuyar"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1777.7.9
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Gonzalo_Fernandez_de_Castro"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1784.4.20
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Jaime_de_Austria"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1785.12.25
+			traits = {
+				inept 
+			}
+		}
+
+	}
+}

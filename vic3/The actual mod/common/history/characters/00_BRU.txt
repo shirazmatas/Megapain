@@ -1,0 +1,83 @@
+﻿CHARACTERS = {
+	c:BRU = {
+		create_character = {
+			first_name = "Azura"
+			last_name = "Sibu"
+			female = yes
+			culture = cu:bornean
+			religion = rel:sunni
+			birth_date = 1791.2.17
+			traits = {
+				basic_political_operator romantic 
+			}
+		}
+
+		create_character = {
+			first_name = "Nasr_ad-D0n"
+			last_name = "Bolkiah"
+			heir = yes
+			culture = cu:bornean
+			religion = rel:sunni
+			birth_date = 1815.6.9
+			traits = {
+				expert_political_operator imperious 
+			}
+		}
+
+		create_character = {
+			first_name = "Sulaym0n_I"
+			last_name = "Bolkiah"
+			ruler = yes
+			culture = cu:bornean
+			religion = rel:sunni
+			birth_date = 1798.8.17
+			traits = {
+				experienced_diplomat reserved 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+		create_character = {
+			first_name = "Bulkiah_Natzar"
+			is_admiral = yes
+			commander_rank = commander_rank_2
+			birth_date = 1780.3.14
+			traits = {
+				opium_addiction 
+			}
+		}
+
+		create_character = {
+			first_name = "Sulaym0n_Ibnu"
+			is_admiral = yes
+			commander_rank = commander_rank_1
+			birth_date = 1781.9.26
+			traits = {
+				alcoholic 
+			}
+		}
+
+		create_character = {
+			first_name = "Sayf_ar-Rijal_Hamzah"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1784.9.13
+			traits = {
+				ruthless 
+			}
+		}
+
+		create_character = {
+			first_name = "Muhammad_Hasanuddin"
+			is_general = yes
+			commander_rank = commander_rank_1
+			birth_date = 1775.3.23
+			traits = {
+				alcoholic 
+			}
+		}
+
+	}
+}

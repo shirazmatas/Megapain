@@ -1,0 +1,44 @@
+﻿CHARACTERS = {
+	c:BOR = {
+		create_character = {
+			first_name = "Khadija"
+			last_name = "Nahor"
+			female = yes
+			culture = cu:teda
+			religion = rel:sunni
+			birth_date = 1814.7.4
+			traits = {
+				cruel 
+			}
+		}
+
+		create_character = {
+			first_name = "Khadija"
+			last_name = "Sayfawa"
+			heir = yes
+			female = yes
+			culture = cu:teda
+			religion = rel:sunni
+			birth_date = 1836.1.2
+			traits = {
+				basic_political_operator trait_child 
+			}
+		}
+
+		create_character = {
+			first_name = "Aritso_II"
+			last_name = "Sayfawa"
+			ruler = yes
+			culture = cu:teda
+			religion = rel:sunni
+			birth_date = 1811.3.23
+			traits = {
+				innovative 
+			}
+			on_created = {
+				set_variable = is_married
+			}
+		}
+
+	}
+}
