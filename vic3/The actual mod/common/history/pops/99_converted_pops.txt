@@ -5114,12 +5114,12 @@
 			create_pop = {
 				culture = armenian
 				religion = orthodox
-				size = 9209
+				size = 19209
 			}
 			create_pop = {
 				culture = armenian
 				religion = oriental_orthodox
-				size = 14657
+				size = 114657
 			}
 			create_pop = {
 				culture = sephardic
@@ -5139,19 +5139,9 @@
 				size = 30547
 			}
 			create_pop = {
-				culture = romanian
-				religion = orthodox
-				size = 50572
-			}
-			create_pop = {
 				culture = sephardic
 				religion = jewish
 				size = 1278
-			}
-			create_pop = {
-				culture = azerbaijani
-				religion = orthodox
-				size = 54211
 			}
 			create_pop = {
 				culture = romanian
@@ -11716,7 +11706,7 @@
 		}
 	}
 	s:STATE_CHIANG_MAI = {
-		region_state:CMI = {
+		region_state:SIA = {
 			create_pop = {
 				culture = thai
 				religion = theravada
@@ -11780,34 +11770,12 @@
 			create_pop = {
 				culture = thai
 				religion = theravada
-				size = 148831
+				size = 348831
 			}
 			create_pop = {
 				culture = thai
 				religion = theravada
 				size = 5028
-			}
-		}
-		region_state:SIA = {
-			create_pop = {
-				culture = thai
-				religion = theravada
-				size = 160981
-			}
-			create_pop = {
-				culture = thai
-				religion = theravada
-				size = 5438
-			}
-			create_pop = {
-				culture = thai
-				religion = theravada
-				size = 52648
-			}
-			create_pop = {
-				culture = thai
-				religion = theravada
-				size = 1778
 			}
 		}
 	}
@@ -29667,95 +29635,11 @@
 		}
 	}
 	s:STATE_LAOS = {
-		region_state:CAM = {
-			create_pop = {
-				culture = khmer
-				religion = animist
-				size = 1638
-			}
-			create_pop = {
-				culture = khmer
-				religion = animist
-				size = 88
-			}
-			create_pop = {
-				culture = khmer
-				religion = theravada
-				size = 732
-			}
-			create_pop = {
-				culture = khmer
-				religion = theravada
-				size = 40
-			}
-			create_pop = {
-				culture = khmer
-				religion = mahayana
-				size = 2538
-			}
-			create_pop = {
-				culture = khmer
-				religion = mahayana
-				size = 137
-			}
-			create_pop = {
-				culture = khmer
-				religion = oriental_orthodox
-				size = 3708
-			}
-			create_pop = {
-				culture = khmer
-				religion = oriental_orthodox
-				size = 200
-			}
-			create_pop = {
-				culture = khmer
-				religion = hindu
-				size = 1764
-			}
-			create_pop = {
-				culture = khmer
-				religion = hindu
-				size = 95
-			}
-			create_pop = {
-				culture = khmer
-				religion = theravada
-				size = 2649
-			}
-			create_pop = {
-				culture = khmer
-				religion = theravada
-				size = 143
-			}
-			create_pop = {
-				culture = khmer
-				religion = oriental_orthodox
-				size = 3342
-			}
-			create_pop = {
-				culture = khmer
-				religion = oriental_orthodox
-				size = 181
-			}
-		}
-		region_state:CMI = {
-			create_pop = {
-				culture = thai
-				religion = theravada
-				size = 32745
-			}
-			create_pop = {
-				culture = thai
-				religion = theravada
-				size = 1768
-			}
-		}
 		region_state:LAO = {
 			create_pop = {
 				culture = lao
 				religion = animist
-				size = 19640
+				size = 49640
 			}
 			create_pop = {
 				culture = lao
@@ -45559,55 +45443,11 @@
 				size = 993
 			}
 		}
-		region_state:HTH = {
-			create_pop = {
-				culture = mon
-				religion = theravada
-				size = 170388
-			}
-			create_pop = {
-				culture = mon
-				religion = theravada
-				size = 4729
-			}
-			create_pop = {
-				culture = mon
-				religion = oriental_orthodox
-				size = 108643
-			}
-			create_pop = {
-				culture = mon
-				religion = oriental_orthodox
-				size = 3016
-			}
-		}
-		region_state:SIA = {
-			create_pop = {
-				culture = burmese
-				religion = theravada
-				size = 269882
-			}
-			create_pop = {
-				culture = burmese
-				religion = theravada
-				size = 7491
-			}
-			create_pop = {
-				culture = mon
-				religion = theravada
-				size = 212704
-			}
-			create_pop = {
-				culture = mon
-				religion = theravada
-				size = 5904
-			}
-		}
 		region_state:X09 = {
 			create_pop = {
 				culture = mon
 				religion = theravada
-				size = 128080
+				size = 528080
 			}
 			create_pop = {
 				culture = mon
@@ -45617,7 +45457,7 @@
 			create_pop = {
 				culture = burmese
 				religion = theravada
-				size = 115881
+				size = 215881
 			}
 			create_pop = {
 				culture = burmese
@@ -46586,62 +46426,24 @@
 			create_pop = {
 				culture = dynamic-polish-culture-num1
 				religion = catholic
-				size = 282321
+				size = 700000
 			}
 			create_pop = {
 				culture = ashkenazi
 				religion = jewish
-				size = 2909
+				size = 52909
 			}
+		}
+		region_state:X37 = {
 			create_pop = {
 				culture = dynamic-polish-culture-num1
 				religion = catholic
-				size = 245724
+				size = 700000
 			}
 			create_pop = {
 				culture = ashkenazi
 				religion = jewish
-				size = 2532
-			}
-			create_pop = {
-				culture = polish
-				religion = catholic
-				size = 224811
-			}
-			create_pop = {
-				culture = ashkenazi
-				religion = jewish
-				size = 2316
-			}
-			create_pop = {
-				culture = polish
-				religion = catholic
-				size = 313690
-			}
-			create_pop = {
-				culture = ashkenazi
-				religion = jewish
-				size = 3232
-			}
-			create_pop = {
-				culture = dynamic-polish-culture-num1
-				religion = catholic
-				size = 230039
-			}
-			create_pop = {
-				culture = ashkenazi
-				religion = jewish
-				size = 2370
-			}
-			create_pop = {
-				culture = polish
-				religion = catholic
-				size = 256180
-			}
-			create_pop = {
-				culture = ashkenazi
-				religion = jewish
-				size = 2640
+				size = 52909
 			}
 		}
 	}
@@ -51487,7 +51289,17 @@
 		}
 	}
 	s:STATE_SILESIA = {
-		region_state:GER = {
+		region_state:X37 = {
+			create_pop = {
+				culture = polish
+				religion = catholic
+				size = 190794
+			}
+			create_pop = {
+				culture = polish
+				religion = protestant
+				size = 211674
+			}
 			create_pop = {
 				culture = polish
 				religion = catholic
@@ -51502,18 +51314,6 @@
 				culture = ashkenazi
 				religion = jewish
 				size = 1803
-			}
-		}
-		region_state:X37 = {
-			create_pop = {
-				culture = polish
-				religion = catholic
-				size = 190794
-			}
-			create_pop = {
-				culture = polish
-				religion = protestant
-				size = 211674
 			}
 			create_pop = {
 				culture = ashkenazi
@@ -64756,28 +64556,6 @@
 		}
 	}
 	s:STATE_YUNNAN = {
-		region_state:DAI = {
-			create_pop = {
-				culture = lao
-				religion = animist
-				size = 31280
-			}
-			create_pop = {
-				culture = lao
-				religion = theravada
-				size = 41518
-			}
-			create_pop = {
-				culture = lao
-				religion = oriental_orthodox
-				size = 49646
-			}
-			create_pop = {
-				culture = vietnamese
-				religion = mahayana
-				size = 90958
-			}
-		}
 		region_state:X28 = {
 			create_pop = {
 				culture = shan
@@ -64792,7 +64570,7 @@
 			create_pop = {
 				culture = yi
 				religion = theravada
-				size = 780213
+				size = 1780213
 			}
 			create_pop = {
 				culture = yi
