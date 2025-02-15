@@ -12795,6 +12795,17 @@
 				reserves = 1
 				activate_production_methods = { "pm_general_training" }
 			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:NET
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_basic_port" }
+			}
 		}
 	}
 	s:STATE_EAST_KARELIA = {
@@ -14392,17 +14403,7 @@
 	}
 	s:STATE_FUJIAN = {
 		region_state:FRA = {
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:FRA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
+			
 			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
@@ -14416,41 +14417,13 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-			create_building = {
-				building = "building_logging_camp"
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:FRA
-						levels = 1
-						region = STATE_FUJIAN
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:FRA
-						levels = 1
-						region = STATE_FUJIAN
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_logging_camp
-						country = c:FRA
-						levels = 2
-						region = STATE_FUJIAN
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_hardwood" "pm_saw_mills" }
-			}
+			
 			create_building = {
 				building = "building_university"
 				add_ownership = {
 					country = {
 						country = c:FRA
-						levels = 7
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -14481,51 +14454,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_dye_plantation"
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:FRA
-						levels = 6
-						region = STATE_FUJIAN
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_arms_industry"
-				add_ownership = {
-					country = {
-						country = c:FRA
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_muskets" }
-			}
-			create_building = {
-				building = "building_tooling_workshops"
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:FRA
-						levels = 2
-						region = STATE_FUJIAN
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_tooling_workshops
-						country = c:FRA
-						levels = 3
-						region = STATE_FUJIAN
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_pig_iron" }
 			}
 			create_building = {
 				building = "building_port"
@@ -14584,6 +14512,141 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_no_naval_theory" }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X28
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_fishing_wharf"
+				add_ownership = {
+					building = {
+						type = building_fishing_wharf
+						country = c:X28
+						levels = 6
+						region = STATE_FUJIAN
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_logging_camp"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 1
+						region = STATE_FUJIAN
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 1
+						region = STATE_FUJIAN
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_logging_camp
+						country = c:X28
+						levels = 2
+						region = STATE_FUJIAN
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_no_hardwood" "pm_saw_mills" }
+			}
+			create_building = {
+				building = "building_university"
+				add_ownership = {
+					country = {
+						country = c:X28
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_tea_plantation"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 2
+						region = STATE_FUJIAN
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_silk_plantation"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 2
+						region = STATE_FUJIAN
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_dye_plantation"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 6
+						region = STATE_FUJIAN
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_arms_industry"
+				add_ownership = {
+					country = {
+						country = c:X28
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_muskets" }
+			}
+			create_building = {
+				building = "building_tooling_workshops"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 2
+						region = STATE_FUJIAN
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_tooling_workshops
+						country = c:X28
+						levels = 3
+						region = STATE_FUJIAN
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_pig_iron" }
 			}
 			create_building = {
 				building = "building_tea_plantation"
@@ -15874,6 +15937,17 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_basic_port" }
+			}
+			create_building = {
+				building = "building_government_administration"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_vertical_filing_cabinets" }
 			}
 		}
 		region_state:X28 = {
@@ -19573,17 +19647,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_naval_base"
 				add_ownership = {
 					country = {
@@ -19593,19 +19656,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_cotton_plantation"
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:RUS
-						levels = 1
-						region = STATE_JIANGSU
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_shipyards"
@@ -19619,48 +19669,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_complex_shipbuilding" }
-			}
-			create_building = {
-				building = "building_furniture_manufacturies"
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:RUS
-						levels = 1
-						region = STATE_JIANGSU
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_furniture_manufacturies
-						country = c:RUS
-						levels = 1
-						region = STATE_JIANGSU
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_lathe" "pm_luxury_furniture" }
-			}
-			create_building = {
-				building = "building_textile_mills"
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:RUS
-						levels = 1
-						region = STATE_JIANGSU
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_textile_mills
-						country = c:RUS
-						levels = 1
-						region = STATE_JIANGSU
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_port"
@@ -19682,6 +19690,98 @@
 						type = building_fishing_wharf
 						country = c:X28
 						levels = 8
+						region = STATE_JIANGSU
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_fishing_wharf"
+				add_ownership = {
+					building = {
+						type = building_fishing_wharf
+						country = c:X28
+						levels = 1
+						region = STATE_JIANGSU
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X28
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_cotton_plantation"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 1
+						region = STATE_JIANGSU
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_shipyards"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 1
+						region = STATE_JIANGSU
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_complex_shipbuilding" }
+			}
+			create_building = {
+				building = "building_furniture_manufacturies"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 1
+						region = STATE_JIANGSU
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_furniture_manufacturies
+						country = c:X28
+						levels = 1
+						region = STATE_JIANGSU
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_lathe" "pm_luxury_furniture" }
+			}
+			create_building = {
+				building = "building_textile_mills"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 1
+						region = STATE_JIANGSU
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_textile_mills
+						country = c:X28
+						levels = 1
 						region = STATE_JIANGSU
 					}
 				}
@@ -22180,6 +22280,17 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_general_training" }
+			}
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_basic_port" }
 			}
 		}
 	}
@@ -27709,6 +27820,19 @@
 				activate_production_methods = { "pm_basic_port" }
 			}
 		}
+		region_state:SPA = {
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:SPA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_basic_port" }
+			}
+		}
 	}
 	s:STATE_NANJING = {
 		region_state:X28 = {
@@ -29540,6 +29664,19 @@
 				add_ownership = {
 					country = {
 						country = c:ITA
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_basic_port" }
+			}
+		}
+		region_state:SPA = {
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:SPA
 						levels = 1
 					}
 				}
@@ -31718,6 +31855,19 @@
 				add_ownership = {
 					country = {
 						country = c:X09
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_basic_port" }
+			}
+		}
+		region_state:NET = {
+			create_building = {
+				building = "building_port"
+				add_ownership = {
+					country = {
+						country = c:NET
 						levels = 1
 					}
 				}
@@ -35496,78 +35646,12 @@
 					building = {
 						type = building_fishing_wharf
 						country = c:GER
-						levels = 7
+						levels = 2
 						region = STATE_SHANDONG
 					}
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:GER
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_logging_camp"
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:GER
-						levels = 1
-						region = STATE_SHANDONG
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:GER
-						levels = 1
-						region = STATE_SHANDONG
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_logging_camp
-						country = c:GER
-						levels = 1
-						region = STATE_SHANDONG
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_hardwood" "pm_saw_mills" }
-			}
-			create_building = {
-				building = "building_silk_plantation"
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:GER
-						levels = 1
-						region = STATE_SHANDONG
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_wheat_farm"
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:GER
-						levels = 4
-						region = STATE_SHANDONG
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_secondary" }
 			}
 			create_building = {
 				building = "building_cotton_plantation"
@@ -35587,61 +35671,11 @@
 				add_ownership = {
 					country = {
 						country = c:GER
-						levels = 6
+						levels = 1
 					}
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_sulfur_mine"
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:GER
-						levels = 2
-						region = STATE_SHANDONG
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:GER
-						levels = 1
-						region = STATE_SHANDONG
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_sulfur_mine
-						country = c:GER
-						levels = 3
-						region = STATE_SHANDONG
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_atmospheric_engine_pump_building_sulfur_mine" }
-			}
-			create_building = {
-				building = "building_tooling_workshops"
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:GER
-						levels = 1
-						region = STATE_SHANDONG
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_tooling_workshops
-						country = c:GER
-						levels = 2
-						region = STATE_SHANDONG
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_pig_iron" }
 			}
 			create_building = {
 				building = "building_port"
@@ -35666,6 +35700,159 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_fishing_wharf"
+				add_ownership = {
+					building = {
+						type = building_fishing_wharf
+						country = c:X28
+						levels = 7
+						region = STATE_SHANDONG
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X28
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_logging_camp"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 1
+						region = STATE_SHANDONG
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 1
+						region = STATE_SHANDONG
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_logging_camp
+						country = c:X28
+						levels = 1
+						region = STATE_SHANDONG
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_no_hardwood" "pm_saw_mills" }
+			}
+			create_building = {
+				building = "building_silk_plantation"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 1
+						region = STATE_SHANDONG
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_wheat_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 4
+						region = STATE_SHANDONG
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_no_secondary" }
+			}
+			create_building = {
+				building = "building_cotton_plantation"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 2
+						region = STATE_SHANDONG
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_university"
+				add_ownership = {
+					country = {
+						country = c:X28
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_sulfur_mine"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 2
+						region = STATE_SHANDONG
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 1
+						region = STATE_SHANDONG
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_sulfur_mine
+						country = c:X28
+						levels = 3
+						region = STATE_SHANDONG
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_atmospheric_engine_pump_building_sulfur_mine" }
+			}
+			create_building = {
+				building = "building_tooling_workshops"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 1
+						region = STATE_SHANDONG
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_tooling_workshops
+						country = c:X28
+						levels = 2
+						region = STATE_SHANDONG
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_pig_iron" }
 			}
 			create_building = {
 				building = "building_barracks"
@@ -38286,46 +38473,6 @@
 	s:STATE_SUZHOU = {
 		region_state:ITA = {
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:ITA
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_logging_camp"
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:ITA
-						levels = 2
-						region = STATE_SUZHOU
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:ITA
-						levels = 2
-						region = STATE_SUZHOU
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_logging_camp
-						country = c:ITA
-						levels = 4
-						region = STATE_SUZHOU
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_hardwood" "pm_saw_mills" }
-			}
-			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
@@ -38339,154 +38486,15 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_rice_farm"
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:ITA
-						levels = 4
-						region = STATE_SUZHOU
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_silk_plantation"
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:ITA
-						levels = 1
-						region = STATE_SUZHOU
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_cotton_plantation"
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:ITA
-						levels = 1
-						region = STATE_SUZHOU
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_university"
 				add_ownership = {
 					country = {
 						country = c:ITA
-						levels = 7
+						levels = 1
 					}
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_textile_mills"
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:ITA
-						levels = 2
-						region = STATE_SUZHOU
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:ITA
-						levels = 1
-						region = STATE_SUZHOU
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_textile_mills
-						country = c:ITA
-						levels = 3
-						region = STATE_SUZHOU
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_food_industry"
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:ITA
-						levels = 1
-						region = STATE_SUZHOU
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:ITA
-						levels = 1
-						region = STATE_LAZIO
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_pot_stills" }
-			}
-			create_building = {
-				building = "building_tooling_workshops"
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:ITA
-						levels = 2
-						region = STATE_SUZHOU
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_tooling_workshops
-						country = c:ITA
-						levels = 3
-						region = STATE_SUZHOU
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_pig_iron" }
-			}
-			create_building = {
-				building = "building_paper_mills"
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:ITA
-						levels = 1
-						region = STATE_SUZHOU
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:ITA
-						levels = 1
-						region = STATE_LAZIO
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_paper_mills
-						country = c:ITA
-						levels = 1
-						region = STATE_SUZHOU
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_pulp_pressing" }
 			}
 			create_building = {
 				building = "building_shipyards"
@@ -38516,54 +38524,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_complex_shipbuilding" }
-			}
-			create_building = {
-				building = "building_furniture_manufacturies"
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:ITA
-						levels = 4
-						region = STATE_SUZHOU
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:ITA
-						levels = 1
-						region = STATE_SUZHOU
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_furniture_manufacturies
-						country = c:ITA
-						levels = 6
-						region = STATE_SUZHOU
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_lathe" "pm_no_luxuries" }
-			}
-			create_building = {
-				building = "building_arms_industry"
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:ITA
-						levels = 1
-						region = STATE_SUZHOU
-					}
-				}
-				add_ownership = {
-					country = {
-						country = c:ITA
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_muskets" }
 			}
 			create_building = {
 				building = "building_port"
@@ -38614,6 +38574,286 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_basic_port" }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X28
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_logging_camp"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 2
+						region = STATE_SUZHOU
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 2
+						region = STATE_SUZHOU
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_logging_camp
+						country = c:X28
+						levels = 4
+						region = STATE_SUZHOU
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_no_hardwood" "pm_saw_mills" }
+			}
+			create_building = {
+				building = "building_fishing_wharf"
+				add_ownership = {
+					building = {
+						type = building_fishing_wharf
+						country = c:X28
+						levels = 18
+						region = STATE_SUZHOU
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_rice_farm"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 4
+						region = STATE_SUZHOU
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_silk_plantation"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 1
+						region = STATE_SUZHOU
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_cotton_plantation"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 1
+						region = STATE_SUZHOU
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_university"
+				add_ownership = {
+					country = {
+						country = c:X28
+						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_textile_mills"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 2
+						region = STATE_SUZHOU
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 1
+						region = STATE_SUZHOU
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_textile_mills
+						country = c:X28
+						levels = 3
+						region = STATE_SUZHOU
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_food_industry"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 1
+						region = STATE_SUZHOU
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 1
+						region = STATE_LAZIO
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_pot_stills" }
+			}
+			create_building = {
+				building = "building_tooling_workshops"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 2
+						region = STATE_SUZHOU
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_tooling_workshops
+						country = c:X28
+						levels = 3
+						region = STATE_SUZHOU
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_pig_iron" }
+			}
+			create_building = {
+				building = "building_paper_mills"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 1
+						region = STATE_SUZHOU
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 1
+						region = STATE_LAZIO
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_paper_mills
+						country = c:X28
+						levels = 1
+						region = STATE_SUZHOU
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_pulp_pressing" }
+			}
+			create_building = {
+				building = "building_shipyards"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 2
+						region = STATE_SUZHOU
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 1
+						region = STATE_SUZHOU
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_shipyards
+						country = c:X28
+						levels = 2
+						region = STATE_SUZHOU
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_complex_shipbuilding" }
+			}
+			create_building = {
+				building = "building_furniture_manufacturies"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 4
+						region = STATE_SUZHOU
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 1
+						region = STATE_SUZHOU
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_furniture_manufacturies
+						country = c:X28
+						levels = 6
+						region = STATE_SUZHOU
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_lathe" "pm_no_luxuries" }
+			}
+			create_building = {
+				building = "building_arms_industry"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 1
+						region = STATE_SUZHOU
+					}
+				}
+				add_ownership = {
+					country = {
+						country = c:X28
+						levels = 3
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_muskets" }
 			}
 		}
 	}
@@ -46418,17 +46658,6 @@
 	s:STATE_ZHEJIANG = {
 		region_state:EGY = {
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
@@ -46440,124 +46669,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_logging_camp"
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:EGY
-						levels = 1
-						region = STATE_ZHEJIANG
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:EGY
-						levels = 1
-						region = STATE_LOWER_EGYPT
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:EGY
-						levels = 1
-						region = STATE_ZHEJIANG
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_logging_camp
-						country = c:EGY
-						levels = 3
-						region = STATE_ZHEJIANG
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_hardwood" "pm_saw_mills" }
-			}
-			create_building = {
-				building = "building_silk_plantation"
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:EGY
-						levels = 1
-						region = STATE_ZHEJIANG
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_paper_mills"
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:EGY
-						levels = 1
-						region = STATE_ZHEJIANG
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_pulp_pressing" }
-			}
-			create_building = {
-				building = "building_tooling_workshops"
-				add_ownership = {
-					building = {
-						type = building_tooling_workshops
-						country = c:EGY
-						levels = 1
-						region = STATE_ZHEJIANG
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_pig_iron" }
-			}
-			create_building = {
-				building = "building_textile_mills"
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:EGY
-						levels = 1
-						region = STATE_ZHEJIANG
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_textile_mills
-						country = c:EGY
-						levels = 1
-						region = STATE_ZHEJIANG
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_furniture_manufacturies"
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:EGY
-						levels = 1
-						region = STATE_ZHEJIANG
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_furniture_manufacturies
-						country = c:EGY
-						levels = 1
-						region = STATE_ZHEJIANG
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_lathe" "pm_luxury_furniture" }
 			}
 			create_building = {
 				building = "building_port"
@@ -46573,17 +46684,6 @@
 		}
 		region_state:NET = {
 			create_building = {
-				building = "building_construction_sector"
-				add_ownership = {
-					country = {
-						country = c:NET
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
@@ -46595,45 +46695,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_tea_plantation"
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:NET
-						levels = 2
-						region = STATE_ZHEJIANG
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_silk_plantation"
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:NET
-						levels = 4
-						region = STATE_ZHEJIANG
-					}
-				}
-				reserves = 1
-				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_paper_mills"
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:NET
-						levels = 1
-						region = STATE_HOME_COUNTIES
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_pulp_pressing" }
 			}
 			create_building = {
 				building = "building_railway"
@@ -46673,6 +46734,187 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_hardwood" "pm_saw_mills" }
+			}
+			create_building = {
+				building = "building_tea_plantation"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 2
+						region = STATE_ZHEJIANG
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_silk_plantation"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 4
+						region = STATE_ZHEJIANG
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_paper_mills"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 1
+						region = STATE_HOME_COUNTIES
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_pulp_pressing" }
+			}
+			create_building = {
+				building = "building_construction_sector"
+				add_ownership = {
+					country = {
+						country = c:X28
+						levels = 2
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_fishing_wharf"
+				add_ownership = {
+					building = {
+						type = building_fishing_wharf
+						country = c:X28
+						levels = 3
+						region = STATE_ZHEJIANG
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_logging_camp"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 1
+						region = STATE_ZHEJIANG
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 1
+						region = STATE_LOWER_EGYPT
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 1
+						region = STATE_ZHEJIANG
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_logging_camp
+						country = c:X28
+						levels = 3
+						region = STATE_ZHEJIANG
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_no_hardwood" "pm_saw_mills" }
+			}
+			create_building = {
+				building = "building_silk_plantation"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:X28
+						levels = 1
+						region = STATE_ZHEJIANG
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_paper_mills"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 1
+						region = STATE_ZHEJIANG
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_pulp_pressing" }
+			}
+			create_building = {
+				building = "building_tooling_workshops"
+				add_ownership = {
+					building = {
+						type = building_tooling_workshops
+						country = c:X28
+						levels = 1
+						region = STATE_ZHEJIANG
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_pig_iron" }
+			}
+			create_building = {
+				building = "building_textile_mills"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 1
+						region = STATE_ZHEJIANG
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_textile_mills
+						country = c:X28
+						levels = 1
+						region = STATE_ZHEJIANG
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_furniture_manufacturies"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X28
+						levels = 1
+						region = STATE_ZHEJIANG
+					}
+				}
+				add_ownership = {
+					building = {
+						type = building_furniture_manufacturies
+						country = c:X28
+						levels = 1
+						region = STATE_ZHEJIANG
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_lathe" "pm_luxury_furniture" }
 			}
 			create_building = {
 				building = "building_tea_plantation"
