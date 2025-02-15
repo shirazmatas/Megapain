@@ -5146,7 +5146,7 @@
 			create_pop = {
 				culture = romanian
 				religion = orthodox
-				size = 35287
+				size = 85287
 			}
 			create_pop = {
 				culture = sephardic
@@ -6060,78 +6060,6 @@
 		}
 	}
 	s:STATE_BALUCHISTAN = {
-		region_state:AFG = {
-			create_pop = {
-				culture = pashtun
-				religion = sunni
-				size = 12097
-			}
-			create_pop = {
-				culture = pashtun
-				religion = sunni
-				size = 632
-			}
-			create_pop = {
-				culture = pashtun
-				religion = shiite
-				size = 5567
-			}
-			create_pop = {
-				culture = pashtun
-				religion = shiite
-				size = 291
-			}
-			create_pop = {
-				culture = pashtun
-				religion = orthodox
-				size = 16717
-			}
-			create_pop = {
-				culture = pashtun
-				religion = orthodox
-				size = 873
-			}
-			create_pop = {
-				culture = panjabi
-				religion = sunni
-				size = 29290
-			}
-			create_pop = {
-				culture = panjabi
-				religion = sunni
-				size = 1530
-			}
-			create_pop = {
-				culture = panjabi
-				religion = shiite
-				size = 15275
-			}
-			create_pop = {
-				culture = panjabi
-				religion = shiite
-				size = 798
-			}
-			create_pop = {
-				culture = panjabi
-				religion = hindu
-				size = 19763
-			}
-			create_pop = {
-				culture = panjabi
-				religion = hindu
-				size = 1032
-			}
-			create_pop = {
-				culture = panjabi
-				religion = orthodox
-				size = 60918
-			}
-			create_pop = {
-				culture = panjabi
-				religion = orthodox
-				size = 3182
-			}
-		}
 		region_state:EGY = {
 			create_pop = {
 				culture = baluchi
@@ -6156,12 +6084,12 @@
 			create_pop = {
 				culture = pashtun
 				religion = sunni
-				size = 75093
+				size = 175093
 			}
 			create_pop = {
 				culture = pashtun
 				religion = sunni
-				size = 3923
+				size = 63923
 			}
 			create_pop = {
 				culture = pashtun
@@ -20616,18 +20544,16 @@
 		}
 	}
 	s:STATE_GUANGXI = {
-		region_state:DAI = {
-			create_pop = {
-				culture = vietnamese
-				religion = mahayana
-				size = 1045506
-			}
-		}
 		region_state:X28 = {
 			create_pop = {
 				culture = zhuang
 				religion = confucian
 				size = 413479
+			}
+			create_pop = {
+				culture = vietnamese
+				religion = mahayana
+				size = 1045506
 			}
 			create_pop = {
 				culture = zhuang
@@ -22360,43 +22286,11 @@
 		}
 	}
 	s:STATE_HERAT = {
-		region_state:AFG = {
-			create_pop = {
-				culture = pashtun
-				religion = sunni
-				size = 62281
-			}
-			create_pop = {
-				culture = pashtun
-				religion = sunni
-				size = 2907
-			}
-			create_pop = {
-				culture = persian
-				religion = sunni
-				size = 17722
-			}
-			create_pop = {
-				culture = persian
-				religion = sunni
-				size = 827
-			}
-			create_pop = {
-				culture = persian
-				religion = orthodox
-				size = 14217
-			}
-			create_pop = {
-				culture = persian
-				religion = orthodox
-				size = 664
-			}
-		}
 		region_state:EGY = {
 			create_pop = {
 				culture = pashtun
 				religion = sunni
-				size = 32877
+				size = 132877
 			}
 			create_pop = {
 				culture = pashtun
@@ -26137,44 +26031,12 @@
 			create_pop = {
 				culture = panjabi
 				religion = orthodox
-				size = 123700
+				size = 324700
 			}
 			create_pop = {
 				culture = panjabi
 				religion = orthodox
 				size = 7155
-			}
-		}
-		region_state:PAN = {
-			create_pop = {
-				culture = panjabi
-				religion = sunni
-				size = 47891
-			}
-			create_pop = {
-				culture = panjabi
-				religion = sunni
-				size = 2770
-			}
-			create_pop = {
-				culture = panjabi
-				religion = shiite
-				size = 53212
-			}
-			create_pop = {
-				culture = panjabi
-				religion = shiite
-				size = 3078
-			}
-			create_pop = {
-				culture = panjabi
-				religion = orthodox
-				size = 106834
-			}
-			create_pop = {
-				culture = panjabi
-				religion = orthodox
-				size = 6180
 			}
 		}
 	}
@@ -40070,38 +39932,6 @@
 		}
 	}
 	s:STATE_NORTHERN_BALUCHISTAN = {
-		region_state:AFG = {
-			create_pop = {
-				culture = pashtun
-				religion = sunni
-				size = 2381
-			}
-			create_pop = {
-				culture = pashtun
-				religion = sunni
-				size = 115
-			}
-			create_pop = {
-				culture = pashtun
-				religion = shiite
-				size = 1123
-			}
-			create_pop = {
-				culture = pashtun
-				religion = shiite
-				size = 54
-			}
-			create_pop = {
-				culture = pashtun
-				religion = orthodox
-				size = 3200
-			}
-			create_pop = {
-				culture = pashtun
-				religion = orthodox
-				size = 154
-			}
-		}
 		region_state:EGY = {
 			create_pop = {
 				culture = pashtun
@@ -40111,7 +39941,7 @@
 			create_pop = {
 				culture = pashtun
 				religion = sunni
-				size = 308
+				size = 7308
 			}
 			create_pop = {
 				culture = pashtun
