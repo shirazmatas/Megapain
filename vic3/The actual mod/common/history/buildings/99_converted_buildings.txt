@@ -666,28 +666,6 @@
 	s:STATE_ALABAMA = {
 		region_state:GRG = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:GRG
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GRG
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
@@ -768,28 +746,6 @@
 	s:STATE_ALASKA = {
 		region_state:CAL = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:CAL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:CAL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -804,17 +760,6 @@
 	}
 	s:STATE_ALBANIA = {
 		region_state:X08 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X08
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_university"
 				add_ownership = {
@@ -955,17 +900,6 @@
 				activate_production_methods = { "pm_hardwood" "pm_saw_mills" }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:HBC
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
@@ -994,17 +928,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
 			}
 			create_building = {
 				building = "building_wheat_farm"
@@ -1047,17 +970,6 @@
 	}
 	s:STATE_ALEPPO = {
 		region_state:EGY = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
@@ -1136,17 +1048,6 @@
 	}
 	s:STATE_ALGIERS = {
 		region_state:SPA = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_livestock_ranch"
 				add_ownership = {
@@ -1507,28 +1408,6 @@
 	s:STATE_ANDALUSIA = {
 		region_state:SPA = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 13
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
@@ -1743,17 +1622,6 @@
 	s:STATE_ANNAM = {
 		region_state:DAI = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:DAI
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
@@ -1955,17 +1823,6 @@
 	s:STATE_ANTOFAGASTA = {
 		region_state:PLT = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:PLT
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
@@ -2003,17 +1860,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:ITA
-						levels = 19
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
 			}
 			create_building = {
 				building = "building_wheat_farm"
@@ -2081,17 +1927,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_hardwood" "pm_saw_mills" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:FRA
-						levels = 16
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
 			}
 			create_building = {
 				building = "building_wheat_farm"
@@ -2308,28 +2143,6 @@
 				activate_production_methods = { "pm_hardwood" "pm_saw_mills" }
 			}
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:PLT
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:PLT
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
@@ -2357,28 +2170,6 @@
 	}
 	s:STATE_AREQUIPA = {
 		region_state:NPU = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NPU
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:NPU
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
 			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
@@ -2433,17 +2224,6 @@
 	}
 	s:STATE_ARIZONA = {
 		region_state:CAL = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:CAL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_cotton_plantation"
 				add_ownership = {
@@ -2515,17 +2295,6 @@
 	}
 	s:STATE_ARKHANGELSK = {
 		region_state:RUS = {
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
 			create_building = {
 				building = "building_port"
 				add_ownership = {
@@ -2772,28 +2541,6 @@
 	s:STATE_ASTURIAS = {
 		region_state:SPA = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
@@ -2847,28 +2594,6 @@
 	}
 	s:STATE_ATTICA = {
 		region_state:X08 = {
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:X08
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X08
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
@@ -2941,17 +2666,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GER
-						levels = 20
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
 			}
 			create_building = {
 				building = "building_logging_camp"
@@ -3075,17 +2789,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_atmospheric_engine_pump_building_coal_mine" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:FRA
-						levels = 14
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
 			}
 			create_building = {
 				building = "building_wheat_farm"
@@ -3455,28 +3158,6 @@
 	s:STATE_AZORES = {
 		region_state:SPA = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
@@ -3572,17 +3253,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GER
-						levels = 10
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_vineyard_plantation"
 				add_ownership = {
 					building = {
@@ -3642,17 +3312,6 @@
 	s:STATE_BAGHDAD = {
 		region_state:EGY = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
@@ -3708,28 +3367,6 @@
 	}
 	s:STATE_BAHAMAS = {
 		region_state:CUB = {
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:CUB
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:CUB
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_construction_sector"
 				add_ownership = {
@@ -3909,17 +3546,6 @@
 	}
 	s:STATE_BAJIO = {
 		region_state:MEX = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:MEX
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_maize_farm"
 				add_ownership = {
@@ -4182,17 +3808,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:AFG
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
 			}
 		}
 		region_state:EGY = {
@@ -4968,17 +4583,6 @@
 	s:STATE_BENIN = {
 		region_state:GER = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GER
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_construction_sector"
 				add_ownership = {
 					country = {
@@ -5019,28 +4623,6 @@
 	}
 	s:STATE_BESSARABIA = {
 		region_state:RUS = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 5
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
 			create_building = {
 				building = "building_cotton_plantation"
 				add_ownership = {
@@ -5445,17 +5027,6 @@
 	}
 	s:STATE_BOHEMIA = {
 		region_state:X37 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X37
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
@@ -6222,17 +5793,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EST
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
@@ -6499,17 +6059,6 @@
 	s:STATE_BUENOS_AIRES = {
 		region_state:PLT = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:PLT
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_vineyard_plantation"
 				add_ownership = {
 					building = {
@@ -6574,17 +6123,6 @@
 	}
 	s:STATE_BULGARIA = {
 		region_state:BUL = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:BUL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_university"
 				add_ownership = {
@@ -6982,17 +6520,6 @@
 	s:STATE_CAJAMARCA = {
 		region_state:NPU = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NPU
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
@@ -7046,17 +6573,6 @@
 	}
 	s:STATE_CALABRIA = {
 		region_state:ITA = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:ITA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_sugar_plantation"
 				add_ownership = {
@@ -7132,17 +6648,6 @@
 	}
 	s:STATE_CALIFORNIA = {
 		region_state:CAL = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:CAL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
@@ -7313,28 +6818,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:ITA
-						levels = 20
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_power_of_the_purse" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:ITA
-						levels = 20
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
 			}
 			create_building = {
 				building = "building_wheat_farm"
@@ -7974,17 +7457,6 @@
 	s:STATE_CENTRAL_HIGHLANDS = {
 		region_state:AFG = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:AFG
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_opium_plantation"
 				add_ownership = {
 					building = {
@@ -8001,17 +7473,6 @@
 	}
 	s:STATE_CENTRAL_HUNGARY = {
 		region_state:RUS = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
@@ -8656,17 +8117,6 @@
 	s:STATE_CHAMPAGNE = {
 		region_state:FRA = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:FRA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
@@ -8707,17 +8157,6 @@
 	}
 	s:STATE_CHELYABINSK = {
 		region_state:RUS = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
@@ -8855,17 +8294,6 @@
 	}
 	s:STATE_CHERSON = {
 		region_state:RUS = {
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
 			create_building = {
 				building = "building_vineyard_plantation"
 				add_ownership = {
@@ -9902,17 +9330,6 @@
 		}
 		region_state:PLT = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:PLT
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_dye_plantation"
 				add_ownership = {
 					building = {
@@ -9958,28 +9375,6 @@
 	s:STATE_COSTA_RICA = {
 		region_state:UCA = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:UCA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:UCA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
@@ -10020,17 +9415,6 @@
 	}
 	s:STATE_COURLAND = {
 		region_state:EST = {
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:EST
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
 			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
@@ -10115,17 +9499,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:X08
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -10165,17 +9538,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
 			}
 			create_building = {
 				building = "building_port"
@@ -10282,28 +9644,6 @@
 	}
 	s:STATE_CUBA = {
 		region_state:CUB = {
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:CUB
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:CUB
-						levels = 6
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_university"
 				add_ownership = {
@@ -10414,17 +9754,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X19
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
 			}
 			create_building = {
 				building = "building_coal_mine"
@@ -10592,17 +9921,6 @@
 	s:STATE_DEIR_EZ_ZOR = {
 		region_state:EGY = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
@@ -10642,28 +9960,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:GRG
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GRG
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
 			}
 			create_building = {
 				building = "building_port"
@@ -10867,17 +10163,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
@@ -10908,28 +10193,6 @@
 	s:STATE_DISTRICT_OF_COLUMBIA = {
 		region_state:GRG = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GRG
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:GRG
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
@@ -10957,17 +10220,6 @@
 	}
 	s:STATE_DIYARBAKIR = {
 		region_state:EGY = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_cotton_plantation"
 				add_ownership = {
@@ -11083,17 +10335,6 @@
 	s:STATE_DONGOLA = {
 		region_state:EGY = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_sugar_plantation"
 				add_ownership = {
 					building = {
@@ -11147,17 +10388,6 @@
 	}
 	s:STATE_DURANGO = {
 		region_state:MEX = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:MEX
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_livestock_ranch"
 				add_ownership = {
@@ -11515,17 +10745,6 @@
 				activate_production_methods = { "pm_hardwood" "pm_saw_mills" }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:DEI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_dye_plantation"
 				add_ownership = {
 					building = {
@@ -11625,17 +10844,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NOR
-						levels = 5
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_shipyards"
 				add_ownership = {
 					building = {
@@ -11675,28 +10883,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_no_hardwood" "pm_saw_mills" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:BUL
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:BUL
-						levels = 10
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
 			}
 			create_building = {
 				building = "building_wheat_farm"
@@ -11817,17 +11003,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NET
-						levels = 5
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
 			}
 			create_building = {
 				building = "building_rye_farm"
@@ -12566,17 +11741,6 @@
 				activate_production_methods = { "pm_picks_and_shovels_building_coal_mine" }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 18
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
@@ -12785,17 +11949,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NET
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -12891,28 +12044,6 @@
 	s:STATE_EAST_PRUSSIA = {
 		region_state:EST = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:EST
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EST
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -12987,17 +12118,6 @@
 	}
 	s:STATE_EAST_SLOVAKIA = {
 		region_state:X37 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X37
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_construction_sector"
 				add_ownership = {
@@ -13253,28 +12373,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
 			}
 			create_building = {
 				building = "building_port"
@@ -13566,17 +12664,6 @@
 	s:STATE_ESTREMADURA = {
 		region_state:SPA = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
@@ -13747,17 +12834,6 @@
 	s:STATE_FEZ = {
 		region_state:SPA = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
@@ -13882,17 +12958,6 @@
 	}
 	s:STATE_FLANDERS = {
 		region_state:NET = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NET
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
@@ -14703,17 +13768,6 @@
 	s:STATE_GABON = {
 		region_state:SPA = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -14792,17 +13846,6 @@
 	}
 	s:STATE_GALICIA = {
 		region_state:SPA = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
@@ -15457,28 +14500,6 @@
 	s:STATE_GOTLAND = {
 		region_state:SWE = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SWE
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:SWE
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -15693,17 +14714,6 @@
 	}
 	s:STATE_GREATER_POLAND = {
 		region_state:X37 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X37
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_rye_farm"
 				add_ownership = {
@@ -16062,17 +15072,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:DAI
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_dye_plantation"
 				add_ownership = {
 					building = {
@@ -16277,17 +15276,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NPU
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
 			}
 		}
 		region_state:X19 = {
@@ -16845,28 +15833,6 @@
 	s:STATE_HAITI = {
 		region_state:HAI = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:HAI
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:HAI
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
@@ -16981,17 +15947,6 @@
 	}
 	s:STATE_HANNOVER = {
 		region_state:GER = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GER
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
@@ -17271,30 +16226,8 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:AFG
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 		}
 		region_state:EGY = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_opium_plantation"
 				add_ownership = {
@@ -17385,17 +16318,6 @@
 	}
 	s:STATE_HESSE = {
 		region_state:GER = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GER
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
@@ -17541,17 +16463,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NET
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
 			}
 			create_building = {
 				building = "building_livestock_ranch"
@@ -17999,17 +16910,6 @@
 	s:STATE_HOME_COUNTIES = {
 		region_state:NET = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NET
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_rye_farm"
 				add_ownership = {
 					building = {
@@ -18130,28 +17030,6 @@
 	}
 	s:STATE_HONDURAS = {
 		region_state:UCA = {
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:UCA
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:UCA
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_dye_plantation"
 				add_ownership = {
@@ -18620,17 +17498,6 @@
 	s:STATE_ICELAND = {
 		region_state:NOR = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:NOR
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_whaling_station"
 				add_ownership = {
 					building = {
@@ -18668,17 +17535,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:CAL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
 			}
 			create_building = {
 				building = "building_wheat_farm"
@@ -18803,17 +17659,6 @@
 	s:STATE_ILLINOIS = {
 		region_state:X17 = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X17
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
@@ -18869,17 +17714,6 @@
 	}
 	s:STATE_INDIANA = {
 		region_state:X17 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X17
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_maize_farm"
 				add_ownership = {
@@ -18975,17 +17809,6 @@
 	}
 	s:STATE_INGRIA = {
 		region_state:RUS = {
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 5
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
 			create_building = {
 				building = "building_shipyards"
 				add_ownership = {
@@ -19123,17 +17946,6 @@
 	}
 	s:STATE_IOWA = {
 		region_state:X17 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X17
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 		}
 	}
 	s:STATE_IRAKAJEMI = {
@@ -19439,17 +18251,6 @@
 	s:STATE_JALISCO = {
 		region_state:MEX = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:MEX
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
@@ -19567,28 +18368,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:CUB
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:CUB
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
@@ -19645,17 +18424,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
 			}
 			create_building = {
 				building = "building_shipyards"
@@ -20031,17 +18799,6 @@
 	s:STATE_JUTLAND = {
 		region_state:GER = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GER
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
@@ -20092,17 +18849,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:AFG
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
 			}
 			create_building = {
 				building = "building_logging_camp"
@@ -20273,17 +19019,6 @@
 	}
 	s:STATE_KALMYKIA = {
 		region_state:RUS = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 		}
 	}
 	s:STATE_KAMCHATKA = {
@@ -20341,17 +19076,6 @@
 	s:STATE_KANAK = {
 		region_state:NET = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:NET
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_power_of_the_purse" }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -20389,17 +19113,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:AFG
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
 			}
 			create_building = {
 				building = "building_opium_plantation"
@@ -20568,17 +19281,6 @@
 	}
 	s:STATE_KANSAS = {
 		region_state:X24 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X24
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_construction_sector"
 				add_ownership = {
@@ -20993,17 +19695,6 @@
 				activate_production_methods = { "pm_no_hardwood" "pm_saw_mills" }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EST
-						levels = 8
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_university"
 				add_ownership = {
 					country = {
@@ -21211,17 +19902,6 @@
 	s:STATE_KERMAN = {
 		region_state:EGY = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
@@ -21263,17 +19943,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_hardwood" "pm_saw_mills" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 19
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
 			}
 			create_building = {
 				building = "building_livestock_ranch"
@@ -21569,17 +20238,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
@@ -21868,17 +20526,6 @@
 				activate_production_methods = { "pm_hardwood" "pm_saw_mills" }
 			}
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 6
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_tea_plantation"
 				add_ownership = {
 					building = {
@@ -22137,17 +20784,6 @@
 				activate_production_methods = { "pm_picks_and_shovels_building_iron_mine" }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 16
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_paper_mills"
 				add_ownership = {
 					building = {
@@ -22269,17 +20905,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
 			}
 			create_building = {
 				building = "building_port"
@@ -22432,17 +21057,6 @@
 	}
 	s:STATE_LANGUEDOC = {
 		region_state:FRA = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:FRA
-						levels = 20
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_furniture_manufacturies"
 				add_ownership = {
@@ -22734,17 +21348,6 @@
 	s:STATE_LA_PAMPA = {
 		region_state:PLT = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:PLT
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
@@ -22879,17 +21482,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 7
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_power_of_the_purse" }
-			}
-			create_building = {
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
@@ -22930,17 +21522,6 @@
 	}
 	s:STATE_LEINSTER = {
 		region_state:NET = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NET
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
@@ -23072,30 +21653,8 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 		}
 		region_state:X37 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X37
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_rye_farm"
 				add_ownership = {
@@ -23347,32 +21906,10 @@
 	}
 	s:STATE_LIBYAN_DESERT = {
 		region_state:EGY = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 		}
 	}
 	s:STATE_LIMA = {
 		region_state:NPU = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NPU
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
@@ -23770,17 +22307,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:X24
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
@@ -23818,17 +22344,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X24
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
 			}
 			create_building = {
 				building = "building_government_administration"
@@ -23896,17 +22411,6 @@
 		}
 		region_state:SPA = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_millet_farm"
 				add_ownership = {
 					building = {
@@ -23948,17 +22452,6 @@
 	s:STATE_LOWER_EGYPT = {
 		region_state:EGY = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 5
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
@@ -23970,17 +22463,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 8
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_power_of_the_purse" }
 			}
 			create_building = {
 				building = "building_wheat_farm"
@@ -24109,17 +22591,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NET
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_rye_farm"
 				add_ownership = {
 					building = {
@@ -24192,17 +22663,6 @@
 	}
 	s:STATE_LURISTAN = {
 		region_state:EGY = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_livestock_ranch"
 				add_ownership = {
@@ -24568,17 +23028,6 @@
 		}
 		region_state:X69 = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X69
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_university"
 				add_ownership = {
 					country = {
@@ -24694,17 +23143,6 @@
 	}
 	s:STATE_MAINE = {
 		region_state:X17 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X17
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
@@ -25262,17 +23700,6 @@
 				activate_production_methods = { "pm_citrus_orchards" }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:HBC
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_government_administration"
 				add_ownership = {
 					country = {
@@ -25452,17 +23879,6 @@
 				activate_production_methods = { "pm_hardwood" "pm_saw_mills" }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GRG
-						levels = 7
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -25477,28 +23893,6 @@
 	}
 	s:STATE_MASSACHUSETTS = {
 		region_state:X17 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X17
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:X17
-						levels = 5
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
 			create_building = {
 				building = "building_tobacco_plantation"
 				add_ownership = {
@@ -25586,17 +23980,6 @@
 	s:STATE_MATO_GROSSO = {
 		region_state:BHI = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:BHI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
@@ -25629,28 +24012,6 @@
 	s:STATE_MAURITANIA = {
 		region_state:SPA = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -25665,17 +24026,6 @@
 	}
 	s:STATE_MAZANDARAN = {
 		region_state:EGY = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_opium_plantation"
 				add_ownership = {
@@ -25763,17 +24113,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GER
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_rye_farm"
 				add_ownership = {
 					building = {
@@ -25824,17 +24163,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
 			}
 			create_building = {
 				building = "building_rye_farm"
@@ -25906,17 +24234,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_basic_shipbuilding" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SH0
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
 			}
 			create_building = {
 				building = "building_logging_camp"
@@ -26039,17 +24356,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:MEX
-						levels = 13
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
 			}
 			create_building = {
 				building = "building_paper_mills"
@@ -26314,17 +24620,6 @@
 	s:STATE_MIDLANDS = {
 		region_state:NET = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NET
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_rye_farm"
 				add_ownership = {
 					building = {
@@ -26571,32 +24866,10 @@
 	}
 	s:STATE_MINNESOTA = {
 		region_state:X17 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X17
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 		}
 	}
 	s:STATE_MINSK = {
 		region_state:EST = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EST
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 		}
 		region_state:RUS = {
 			create_building = {
@@ -26664,28 +24937,6 @@
 	s:STATE_MIRANDA = {
 		region_state:BHI = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:BHI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:BHI
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_food_industry"
 				add_ownership = {
 					building = {
@@ -26734,17 +24985,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X19
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
@@ -26774,17 +25014,6 @@
 	}
 	s:STATE_MISSISSIPPI = {
 		region_state:GRG = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GRG
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_maize_farm"
 				add_ownership = {
@@ -26826,17 +25055,6 @@
 	}
 	s:STATE_MISSOURI = {
 		region_state:X24 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X24
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_maize_farm"
 				add_ownership = {
@@ -27155,17 +25373,6 @@
 	s:STATE_MONTANA = {
 		region_state:X24 = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X24
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
@@ -27194,28 +25401,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_hardwood" "pm_saw_mills" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SER
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:SER
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
 			}
 			create_building = {
 				building = "building_shipyards"
@@ -27410,17 +25595,6 @@
 	s:STATE_MOSUL = {
 		region_state:EGY = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
@@ -27487,17 +25661,6 @@
 	}
 	s:STATE_MUNSTER = {
 		region_state:NET = {
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:NET
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_power_of_the_purse" }
-			}
 			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
@@ -27921,17 +26084,6 @@
 	s:STATE_NAURU = {
 		region_state:SPA = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_banana_plantation"
 				add_ownership = {
 					building = {
@@ -27959,28 +26111,6 @@
 	}
 	s:STATE_NAVARRA = {
 		region_state:SPA = {
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 14
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
@@ -28059,17 +26189,6 @@
 	}
 	s:STATE_NEBRASKA = {
 		region_state:X24 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X24
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 		}
 	}
 	s:STATE_NEJD = {
@@ -28159,28 +26278,6 @@
 	s:STATE_NEW_BRUNSWICK = {
 		region_state:NBS = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NBS
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:NBS
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_university"
 				add_ownership = {
 					country = {
@@ -28256,28 +26353,6 @@
 	}
 	s:STATE_NEW_HAMPSHIRE = {
 		region_state:X17 = {
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:X17
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X17
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_tobacco_plantation"
 				add_ownership = {
@@ -28373,17 +26448,6 @@
 	}
 	s:STATE_NEW_MEXICO = {
 		region_state:CAL = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:CAL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 		}
 		region_state:MEX = {
 			create_building = {
@@ -28396,17 +26460,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:MEX
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
 			}
 		}
 	}
@@ -28489,17 +26542,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X17
-						levels = 15
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
 			}
 			create_building = {
 				building = "building_vineyard_plantation"
@@ -28649,28 +26691,6 @@
 	}
 	s:STATE_NICARAGUA = {
 		region_state:UCA = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:UCA
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:UCA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
 			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
@@ -29125,17 +27145,6 @@
 	s:STATE_NORRLAND = {
 		region_state:SWE = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:SWE
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
@@ -29273,17 +27282,6 @@
 	}
 	s:STATE_NORTHERN_CAPE = {
 		region_state:NET = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NET
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 		}
 	}
 	s:STATE_NORTHERN_MANCHURIA = {
@@ -29412,17 +27410,6 @@
 				activate_production_methods = { "pm_picks_and_shovels_building_iron_mine" }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SER
-						levels = 8
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_vineyard_plantation"
 				add_ownership = {
 					building = {
@@ -29459,17 +27446,6 @@
 	s:STATE_NORTHERN_TERRITORY = {
 		region_state:NZL = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NZL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -29484,17 +27460,6 @@
 	}
 	s:STATE_NORTHERN_THRACE = {
 		region_state:BUL = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:BUL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
@@ -29649,17 +27614,6 @@
 	s:STATE_NORTH_ANGOLA = {
 		region_state:ITA = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:ITA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_power_of_the_purse" }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -29777,17 +27731,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:GRG
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
 			}
 			create_building = {
 				building = "building_cotton_plantation"
@@ -29931,28 +27874,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:NZL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NZL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
 			}
 			create_building = {
 				building = "building_iron_mine"
@@ -30123,17 +28044,6 @@
 	s:STATE_NORTH_SUMATRA = {
 		region_state:BRU = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:BRU
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
@@ -30172,17 +28082,6 @@
 			}
 		}
 		region_state:DEI = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:DEI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
@@ -30361,17 +28260,6 @@
 	s:STATE_OAXACA = {
 		region_state:MEX = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:MEX
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
@@ -30449,17 +28337,6 @@
 	}
 	s:STATE_OHIO = {
 		region_state:X17 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X17
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_tobacco_plantation"
 				add_ownership = {
@@ -30559,17 +28436,6 @@
 	}
 	s:STATE_OKLAHOMA = {
 		region_state:X24 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X24
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_coal_mine"
 				add_ownership = {
@@ -30762,28 +28628,6 @@
 	}
 	s:STATE_OREGON = {
 		region_state:CAL = {
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:CAL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:CAL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_port"
 				add_ownership = {
@@ -31306,17 +29150,6 @@
 	s:STATE_PALESTINE = {
 		region_state:EGY = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_power_of_the_purse" }
-			}
-			create_building = {
 				building = "building_silk_plantation"
 				add_ownership = {
 					building = {
@@ -31384,28 +29217,6 @@
 				activate_production_methods = { "pm_no_hardwood" "pm_saw_mills" }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:UCA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:UCA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_coal_mine"
 				add_ownership = {
 					building = {
@@ -31433,17 +29244,6 @@
 	}
 	s:STATE_PARA = {
 		region_state:BHI = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:BHI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_iron_mine"
 				add_ownership = {
@@ -31513,17 +29313,6 @@
 	}
 	s:STATE_PARANA = {
 		region_state:BHI = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:BHI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_port"
 				add_ownership = {
@@ -31634,17 +29423,6 @@
 	s:STATE_PASTAZA = {
 		region_state:NPU = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NPU
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_dye_plantation"
 				add_ownership = {
 					building = {
@@ -31699,17 +29477,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:DEI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
 			}
 		}
 		region_state:HTH = {
@@ -31925,17 +29692,6 @@
 	}
 	s:STATE_PENNSYLVANIA = {
 		region_state:X17 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X17
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_maize_farm"
 				add_ownership = {
@@ -32483,17 +30239,6 @@
 				activate_production_methods = { "pm_hardwood" "pm_saw_mills" }
 			}
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:FRA
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
@@ -32738,17 +30483,6 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NPU
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 		}
 		region_state:PLT = {
 			create_building = {
@@ -32909,17 +30643,6 @@
 	}
 	s:STATE_PUERTO_RICO = {
 		region_state:CUB = {
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:CUB
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
 			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
@@ -33431,17 +31154,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:AFG
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
@@ -33757,28 +31469,6 @@
 	s:STATE_RHODE_ISLAND = {
 		region_state:X17 = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X17
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:X17
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
@@ -33881,17 +31571,6 @@
 				activate_production_methods = { "pm_lathe" "pm_no_luxuries" }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:FRA
-						levels = 23
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_government_administration"
 				add_ownership = {
 					country = {
@@ -33906,17 +31585,6 @@
 	}
 	s:STATE_RIGA = {
 		region_state:EST = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EST
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
@@ -34019,28 +31687,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:BHI
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:BHI
-						levels = 6
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
@@ -34106,17 +31752,6 @@
 	s:STATE_RIO_GRANDE = {
 		region_state:MEX = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:MEX
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
@@ -34157,17 +31792,6 @@
 	}
 	s:STATE_RIO_GRANDE_DO_NORTE = {
 		region_state:BHI = {
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:BHI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
 			create_building = {
 				building = "building_livestock_ranch"
 				add_ownership = {
@@ -35192,17 +32816,6 @@
 	s:STATE_SASKATCHEWAN = {
 		region_state:HBC = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:HBC
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
@@ -35270,17 +32883,6 @@
 	}
 	s:STATE_SAXONY = {
 		region_state:GER = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GER
-						levels = 20
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_rye_farm"
 				add_ownership = {
@@ -35365,17 +32967,6 @@
 	s:STATE_SCANIA = {
 		region_state:GER = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:GER
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
@@ -35449,17 +33040,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:GER
-						levels = 14
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_rye_farm"
 				add_ownership = {
 					building = {
@@ -35517,17 +33097,6 @@
 	}
 	s:STATE_SEMNAN = {
 		region_state:EGY = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 		}
 	}
 	s:STATE_SENEGAL = {
@@ -36447,17 +34016,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:ITA
-						levels = 23
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
@@ -36544,28 +34102,6 @@
 	s:STATE_SIERRA_LEONE = {
 		region_state:SPA = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 12
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_millet_farm"
 				add_ownership = {
 					building = {
@@ -36643,30 +34179,8 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GER
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 		}
 		region_state:X37 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X37
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_university"
 				add_ownership = {
@@ -36743,17 +34257,6 @@
 	}
 	s:STATE_SINALOA = {
 		region_state:MEX = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:MEX
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_opium_plantation"
 				add_ownership = {
@@ -36938,17 +34441,6 @@
 	s:STATE_SKOPIA = {
 		region_state:BUL = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:BUL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
@@ -37007,17 +34499,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SER
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
 			}
 			create_building = {
 				building = "building_vineyard_plantation"
@@ -37266,28 +34747,6 @@
 	}
 	s:STATE_SONORA = {
 		region_state:CAL = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:CAL
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:CAL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
 			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
@@ -37588,17 +35047,6 @@
 	s:STATE_SOUTHERN_SERBIA = {
 		region_state:SER = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SER
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_university"
 				add_ownership = {
 					country = {
@@ -37855,17 +35303,6 @@
 	s:STATE_SOUTH_CAMEROON = {
 		region_state:GER = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GER
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_dye_plantation"
 				add_ownership = {
 					building = {
@@ -37946,17 +35383,6 @@
 	s:STATE_SOUTH_CAROLINA = {
 		region_state:GRG = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GRG
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_dye_plantation"
 				add_ownership = {
 					building = {
@@ -38024,17 +35450,6 @@
 	s:STATE_SOUTH_DAKOTA = {
 		region_state:X24 = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X24
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
@@ -38076,17 +35491,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NZL
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
 			}
 			create_building = {
 				building = "building_port"
@@ -38240,17 +35644,6 @@
 	}
 	s:STATE_SOUTH_TYROL = {
 		region_state:ITA = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:ITA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 		}
 	}
 	s:STATE_STAVROPOL = {
@@ -38860,28 +36253,6 @@
 	s:STATE_SVEALAND = {
 		region_state:SWE = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:SWE
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SWE
-						levels = 6
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
 					building = {
@@ -39046,17 +36417,6 @@
 	}
 	s:STATE_SYRIA = {
 		region_state:EGY = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_cotton_plantation"
 				add_ownership = {
@@ -39275,28 +36635,6 @@
 	s:STATE_TALINN = {
 		region_state:EST = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:EST
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EST
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_construction_sector"
 				add_ownership = {
 					country = {
@@ -39377,17 +36715,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 15
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
 			}
 			create_building = {
 				building = "building_rye_farm"
@@ -39625,28 +36952,6 @@
 	}
 	s:STATE_TASMANIA = {
 		region_state:NZL = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NZL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:NZL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
 			create_building = {
 				building = "building_opium_plantation"
 				add_ownership = {
@@ -39909,17 +37214,6 @@
 	}
 	s:STATE_TEXAS = {
 		region_state:MEX = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:MEX
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_maize_farm"
 				add_ownership = {
@@ -40196,17 +37490,6 @@
 	s:STATE_TOLEDO = {
 		region_state:SPA = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
@@ -40411,17 +37694,6 @@
 				activate_production_methods = { "pm_no_hardwood" "pm_saw_mills" }
 			}
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:DAI
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_dye_plantation"
 				add_ownership = {
 					building = {
@@ -40573,17 +37845,6 @@
 	s:STATE_TRANSDANUBIA = {
 		region_state:RUS = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 17
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
@@ -40687,17 +37948,6 @@
 	}
 	s:STATE_TRANSJORDAN = {
 		region_state:EGY = {
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_power_of_the_purse" }
-			}
 			create_building = {
 				building = "building_port"
 				add_ownership = {
@@ -41053,17 +38303,6 @@
 	s:STATE_TUNISIA = {
 		region_state:EGY = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_power_of_the_purse" }
-			}
-			create_building = {
 				building = "building_cotton_plantation"
 				add_ownership = {
 					building = {
@@ -41170,17 +38409,6 @@
 			}
 		}
 		region_state:SPA = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 		}
 	}
 	s:STATE_TURKMENIA = {
@@ -41425,17 +38653,6 @@
 	s:STATE_TYROL = {
 		region_state:GER = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GER
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
@@ -41558,28 +38775,6 @@
 	}
 	s:STATE_ULSTER = {
 		region_state:NET = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NET
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:NET
-						levels = 18
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_power_of_the_purse" }
-			}
 			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
@@ -41796,17 +38991,6 @@
 	s:STATE_URAL = {
 		region_state:RUS = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
@@ -41846,17 +39030,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:RUS
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
 			}
 			create_building = {
 				building = "building_livestock_ranch"
@@ -41939,17 +39112,6 @@
 	s:STATE_URMIA = {
 		region_state:EGY = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:EGY
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_dye_plantation"
 				add_ownership = {
 					building = {
@@ -41992,17 +39154,6 @@
 	}
 	s:STATE_URUGUAY = {
 		region_state:PLT = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:PLT
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
@@ -42250,28 +39401,6 @@
 	s:STATE_VALENCIA = {
 		region_state:SPA = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 10
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_rice_farm"
 				add_ownership = {
 					building = {
@@ -42510,17 +39639,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:MEX
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
@@ -42586,17 +39704,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X17
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_tobacco_plantation"
 				add_ownership = {
 					building = {
@@ -42613,17 +39720,6 @@
 	}
 	s:STATE_VICTORIA = {
 		region_state:NZL = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NZL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_cotton_plantation"
 				add_ownership = {
@@ -42736,17 +39832,6 @@
 	s:STATE_VIRGINIA = {
 		region_state:GRG = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GRG
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
@@ -42822,17 +39907,6 @@
 	}
 	s:STATE_VISAYAS = {
 		region_state:SPA = {
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:SPA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
 			create_building = {
 				building = "building_dye_plantation"
 				add_ownership = {
@@ -43120,28 +40194,6 @@
 	s:STATE_WALES = {
 		region_state:NET = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NET
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:NET
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_power_of_the_purse" }
-			}
-			create_building = {
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
@@ -43332,17 +40384,6 @@
 	s:STATE_WALLONIA = {
 		region_state:NET = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NET
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
@@ -43442,17 +40483,6 @@
 	s:STATE_WASHINGTON = {
 		region_state:CAL = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:CAL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
 					building = {
@@ -43480,17 +40510,6 @@
 	}
 	s:STATE_WESTERN_AUSTRALIA = {
 		region_state:NZL = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NZL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_vineyard_plantation"
 				add_ownership = {
@@ -43682,28 +40701,6 @@
 	}
 	s:STATE_WESTERN_NORWAY = {
 		region_state:NOR = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:NOR
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:NOR
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
 			create_building = {
 				building = "building_arts_academy"
 				add_ownership = {
@@ -43974,17 +40971,6 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:X08
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
 			}
 			create_building = {
 				building = "building_port"
@@ -44635,17 +41621,6 @@
 	s:STATE_WEST_COUNTRY = {
 		region_state:FRA = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:FRA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_vineyard_plantation"
 				add_ownership = {
 					building = {
@@ -44790,17 +41765,6 @@
 	s:STATE_WEST_GALICIA = {
 		region_state:X37 = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X37
-						levels = 4
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_furniture_manufacturies"
 				add_ownership = {
 					building = {
@@ -44892,17 +41856,6 @@
 	s:STATE_WEST_INDIES = {
 		region_state:BHI = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:BHI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
@@ -44915,17 +41868,6 @@
 			}
 		}
 		region_state:CUB = {
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:CUB
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
 			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
@@ -44978,28 +41920,6 @@
 			}
 		}
 		region_state:HAI = {
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:HAI
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:HAI
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 			create_building = {
 				building = "building_construction_sector"
 				add_ownership = {
@@ -45343,28 +42263,6 @@
 	s:STATE_WEST_PRUSSIA = {
 		region_state:GER = {
 			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:GER
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GER
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
 				building = "building_tooling_workshops"
 				add_ownership = {
 					building = {
@@ -45413,17 +42311,6 @@
 	}
 	s:STATE_WEST_SLOVAKIA = {
 		region_state:X37 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X37
-						levels = 3
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_livestock_ranch"
 				add_ownership = {
@@ -45496,17 +42383,6 @@
 	}
 	s:STATE_WEST_SWITZERLAND = {
 		region_state:FRA = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:FRA
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_vineyard_plantation"
 				add_ownership = {
@@ -45604,32 +42480,10 @@
 	}
 	s:STATE_WISCONSIN = {
 		region_state:X17 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X17
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 		}
 	}
 	s:STATE_WURTTEMBERG = {
 		region_state:GER = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GER
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
 			create_building = {
 				building = "building_wheat_farm"
 				add_ownership = {
@@ -45735,30 +42589,8 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:CAL
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 		}
 		region_state:X24 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X24
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
 		}
 	}
 	s:STATE_XIAN = {
@@ -46487,17 +43319,6 @@
 	s:STATE_ZACATECAS = {
 		region_state:MEX = {
 			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:MEX
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
 				building = "building_maize_farm"
 				add_ownership = {
 					building = {
@@ -46581,28 +43402,6 @@
 	}
 	s:STATE_ZEALAND = {
 		region_state:GER = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:GER
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_general_training" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:GER
-						levels = 2
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
 			create_building = {
 				building = "building_fishing_wharf"
 				add_ownership = {
@@ -47095,28 +43894,6 @@
 			}
 		}
 		region_state:X19 = {
-			create_building = {
-				building = "building_barracks"
-				add_ownership = {
-					country = {
-						country = c:X19
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_organization" }
-			}
-			create_building = {
-				building = "building_naval_base"
-				add_ownership = {
-					country = {
-						country = c:X19
-						levels = 1
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_no_naval_theory" }
-			}
 			create_building = {
 				building = "building_coal_mine"
 				add_ownership = {
