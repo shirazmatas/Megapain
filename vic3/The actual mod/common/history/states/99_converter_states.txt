@@ -42,7 +42,7 @@
 		create_state = {
 			country = c:EGY
 			owned_provinces = { x2111E0 x39CBF7 x4DA0F1 x63E9DB x7DD48B x8517E9 x909463 xA09060 xA4523A xB0E060 xCCBD19 xDAD836 xE8DCC5 xF657D8 xFA9C84 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:anatolian
 		add_homeland = cu:armenian
@@ -87,7 +87,7 @@
 		create_state = {
 			country = c:RUS
 			owned_provinces = { x03DEAB x05A5D3 x093A29 x0C16D5 x0CDDC8 x10D440 x10F2A4 x10F394 x12B014 x153EF8 x19DB52 x1A0A77 x1A765B x1A973F x1E7905 x1EB604 x1F5F1A x2173E6 x21907E x23B70B x2577CF x2660A5 x2973FB x2D0AAC x2E12FC x3190BF x328878 x32C0C8 x3354E8 x37BB95 x3A7473 x3D0E20 x3F854B x504F54 x510B92 x55C060 x56279A x588F70 x58D48C x59BA59 x5DCF1A x5EF765 x6025C2 x618800 x62EE42 x68D6C0 x6906B2 x69439D x6A8667 x6AD008 x6E0170 x70B0CC x742700 x74A226 x758597 x780B11 x7BAA61 x7FD811 x81BE7E x84FA13 x867C05 x86A90A x881AFB x88A88E x92F404 x94A660 x9C6012 xAE51B4 xAFDF44 xB0FEAB xB16E1C xB62DEC xB92DE8 xBB4E20 xBC84A6 xBD0769 xC05141 xC053C7 xC6E6CD xC866F3 xCBB325 xD04D31 xD32A64 xD4D80A xDAD022 xDB8ABA xDE558E xE2A5AC xE32413 xE4A7D1 xE91FBD xEC9E67 xEE6AAB xEEFA33 xF387A5 xF66290 xF9CD4F xFC1095 xFE2865 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:tatar
 	}
@@ -249,7 +249,7 @@
 		create_state = {
 			country = c:FRA
 			owned_provinces = { x4899A2 x6E4891 xCC3250 xF0C0A0 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:south_german
 	}
@@ -441,7 +441,7 @@
 		create_state = {
 			country = c:EGY
 			owned_provinces = { x03F8EA x04F350 x098D9C x0BD6EC x0D1D4E x15BC1F x17B19B x180265 x1A75C7 x25499A x29D9AF x3041CC x30A0E0 x39B060 x3E9653 x401080 x409000 x431F60 x465D69 x5D2F75 x5F00C0 x62FAA8 x66B13B x785849 x7DD19B x8713CE x895D6B x8E9935 x964F97 x967F78 xA8674E xB556A0 xC09000 xC29DFD xCAF12B xCB8C83 xE17847 xEB1F97 xF470A0 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:anatolian
 		add_homeland = cu:greek
@@ -575,7 +575,7 @@
 		create_state = {
 			country = c:EGY
 			owned_provinces = { x005000 x16A02D x30DF60 x3161E0 x805000 xAB3AF1 xDC0812 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:armenian
 	}
@@ -605,7 +605,7 @@
 		create_state = {
 			country = c:RUS
 			owned_provinces = { x015040 x047D6D x0BABA7 x0E39F5 x176C7A x18458E x214E13 x282DFB x2DED24 x4190C0 x41AA95 x4254FA x444735 x5559FD x60DF21 x702ECE x70BC3A x805140 xAA798E xB5D0F6 xB6EB91 xCFBC40 xD4CB58 xD559DF xDC287A xE06020 xE8B3EC xEC3999 xEDBFF9 xEF0EF7 xFFAEC1 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:tatar
 	}
@@ -663,7 +663,7 @@
 		create_state = {
 			country = c:EGY
 			owned_provinces = { x15CC91 x205020 x20AAE2 x6E8DF4 x95ABDB xA090A0 xABD1D0 xB020E0 xBEA226 xC0FCA9 xE8A5DB xFD1F86 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:anatolian
 		add_homeland = cu:dynamic-greek-culture-num1
@@ -1514,7 +1514,7 @@
 		create_state = {
 			country = c:MEX
 			owned_provinces = { x1030C0 x10B0C0 x1521F4 x31E49A x4DBDE9 x8E26C5 xA087F6 xA46BA0 xA6550F xB70B3B xD03040 xE0AADA xE8CFA0 xF19260 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:mayan
 		add_homeland = cu:zapotec
@@ -1814,7 +1814,7 @@
 		create_state = {
 			country = c:EGY
 			owned_provinces = { x40B020 x79685E xBF3020 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:dynamic-greek-culture-num1
 	}
@@ -2399,7 +2399,7 @@
 		create_state = {
 			country = c:EGY
 			owned_provinces = { x25E046 x27689E x3051BD x31B08C x409080 x4F6E8F x52EB9A x59E513 x5C223C x60677E x669A31 x740ED1 x795751 x7BC870 x801080 x81F589 x895074 x8F5A6A x90BA49 x92A943 xA23F9A xC01080 xC41BC3 xC7DC49 xD0901D xF51B98 xFDB72C }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:armenian
 		add_homeland = cu:dynamic-greek-culture-num4
@@ -2687,7 +2687,7 @@
 		create_state = {
 			country = c:EGY
 			owned_provinces = { x011141 x3537D5 x40D001 x4A4DF9 x73A639 x74A861 x801000 x85DCE4 x9BC69B xC0CF80 xC27075 xC9B445 xD15CBD xD1A8AF xD62036 xD65AC8 xF0E0DF xFB38B0 xFB53B8 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:georgian
 	}
@@ -2743,7 +2743,7 @@
 		create_state = {
 			country = c:MEX
 			owned_provinces = { x011E0F x02073E x0F5049 x2D4EB6 x30E01C x42124E x464F6A x50B040 x50B0C0 x5449D0 x65C19A x6D71DA x702CD9 x78C465 x7D333F xA9090A xB2E11E xBD8628 xC67219 xD030C0 xD0B040 xD176F3 xD9BEFE xDEC8D3 xFA4B41 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:mayan
 		add_claim = c:UCA
@@ -3085,7 +3085,7 @@
 		create_state = {
 			country = c:EGY
 			owned_provinces = { x13886D x2F78D7 x3020E0 x30A060 x31CD7B x34C810 x3F1505 x809000 xB0A060 xB4D60B xB8FEBB }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:anatolian
 	}
@@ -3549,7 +3549,7 @@
 		create_state = {
 			country = c:EGY
 			owned_provinces = { x009000 x327755 x467F92 x809001 x8A9689 xB8481F xC09080 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:georgian
 	}
@@ -3599,7 +3599,7 @@
 		create_state = {
 			country = c:EGY
 			owned_provinces = { x1D8401 x312F4B x415C04 x449057 x6089D1 x747BB5 x7A7E06 xB82B24 xBEBB3F xC01000 xC1C893 xE1E090 xF040E0 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:anatolian
 	}
@@ -3786,7 +3786,7 @@
 		create_state = {
 			country = c:EGY
 			owned_provinces = { x02FE8B x04C595 x0EABBE x1D4A61 x375BA2 x401060 x472F2C x47B8CA x4CEBB4 x547B95 x55148F x56087A x601020 x602629 x65DE76 x661DB3 x669397 x6DB349 x70373E x76099B x76C0DF x802F12 x8505DE x8F7C3D x93F78F x9E386C x9FFCAB xA4ED5C xB54481 xBACCB8 xBB0729 xBC2D46 xC0A9EB xC1905F xCB2093 xCCE5E0 xDE59BB xE01020 xE090A0 xE8D503 xEB98F3 xF28CC2 xF7871B xFA1AEF }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:anatolian
 		add_homeland = cu:dynamic-greek-culture-num1
@@ -4222,7 +4222,7 @@
 		create_state = {
 			country = c:DEI
 			owned_provinces = { x0080B0 x23578B x374A68 x660411 x66170B x6CFA94 x76546D x8080B0 x80C0B0 x8E3305 xAA2287 xAF3737 xB6B53D xC00130 xC84C4C xCAB9F2 xCF3E8D xD8E596 xE87C53 xF9F87A xFCBAFC }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		create_state = {
 			country = c:X55
@@ -6368,7 +6368,7 @@
 		create_state = {
 			country = c:MEX
 			owned_provinces = { x107040 x3DB036 xB0D0C7 xCC1FCA }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:mayan
 		add_claim = c:UCA
@@ -7119,7 +7119,7 @@
 		create_state = {
 			country = c:RUS
 			owned_provinces = { x000AE0 x055C67 x0EBC1D x135B1E x19213B x35FCF1 x4202ED x580D2A x58331B x5AB195 x637D8D x7020DF x7141E0 x71E0E0 x76E2A3 x87109C x8A09FD xA1BAF7 xAD4F1C xB06935 xB69E4B xC262E0 xCFBD13 xE6C06A xF06161 xF0E061 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:tatar
 	}
@@ -7340,7 +7340,7 @@
 		create_state = {
 			country = c:EGY
 			owned_provinces = { x001080 x009080 x1357F8 x146DD9 x288BCD x809080 x9655BD xA88EEC xAE07E3 xB526B3 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:greek
 	}
@@ -8360,7 +8360,7 @@
 		create_state = {
 			country = c:MEX
 			owned_provinces = { x1DB7A7 x23EF68 x2C4E34 x35FEEB x40B001 x47D122 x4F7405 x5030C0 x51E4B6 x54250B x68F271 x69E5AF x8BE638 x90AC14 x91484C xA59F7B xA8DEBE xB598B9 xCE98DE xCE9FD1 xD1EC91 xDB85B0 xDD8B61 xE280B2 xE31B45 xE3AD92 xE68FD8 xFEE4D4 }
-			state_type = unincorporated
+			state_type = incorporated
 		}
 		add_homeland = cu:mayan
 		add_claim = c:UCA
