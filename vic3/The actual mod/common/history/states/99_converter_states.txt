@@ -2737,6 +2737,7 @@
 		add_homeland = cu:vietnamese
 		add_homeland = cu:yue
 		add_homeland = cu:zhuang
+		add_claim = c:DAI
 	}
 	s:STATE_GUATEMALA = {
 		create_state = {
