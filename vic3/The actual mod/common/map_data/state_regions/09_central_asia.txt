@@ -286,7 +286,6 @@ STATE_NORTHERN_BALUCHISTAN = {
     arable_land = 10
     arable_resources = { "bg_livestock_ranches" }
     capped_resources = {
-        bg_coal_mining = 2
     }
 }
 
