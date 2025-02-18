@@ -8,19 +8,19 @@
 			combat_unit = {
 				type = unit_type:combat_unit_type_skirmish_infantry
 				state_region = s:STATE_LIBYA
-				count = 14
+				count = 16
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_lancers
 				state_region = s:STATE_TUNISIA
-				count = 2
+				count = 1
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
 				state_region = s:STATE_TRIPOLI
-				count = 14
+				count = 13
 			}
 
 		}
@@ -33,32 +33,63 @@
 			combat_unit = {
 				type = unit_type:combat_unit_type_skirmish_infantry
 				state_region = s:STATE_HUDAVENDIGAR
-				count = 14
+				count = 16
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_lancers
 				state_region = s:STATE_KONYA
-				count = 2
+				count = 1
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
 				state_region = s:STATE_AYDIN
-				count = 14
+				count = 13
 			}
 
 		}
 		
 		create_military_formation = {
 			type = army
-			hq_region = sr:region_nile
+			hq_region = sr:region_nile_basin
+			name = 3_Egyptian_Army
+
+			combat_unit = {
+				type = unit_type:combat_unit_type_skirmish_infantry
+				state_region = s:STATE_DONGOLA
+				count = 25
+			}
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_skirmish_infantry
+				state_region = s:STATE_KORDOFAN
+				count = 2
+			}
+
+			combat_unit = {
+				type = unit_type:combat_unit_type_mobile_artillery
+				state_region = s:STATE_BLUE_NILE
+				count = 3
+			}
+
+		}
+		
+		create_military_formation = {
+			type = army
+			hq_region = sr:region_nile_basin
 			name = 3_Egyptian_Army
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_skirmish_infantry
 				state_region = s:STATE_LOWER_EGYPT
-				count = 27
+				count = 25
+			}
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_skirmish_infantry
+				state_region = s:STATE_SINAI
+				count = 2
 			}
 
 			combat_unit = {
@@ -71,13 +102,19 @@
 		
 		create_military_formation = {
 			type = army
-			hq_region = sr:region_arabia
+			hq_region = sr:region_arabic
 			name = 4_Egyptian_Army
 
 			combat_unit = {
-				type = unit_type:combat_unit_type_skirmish_infantry
+				type = unit_type:combat_unit_type_line_infantry
 				state_region = s:STATE_YEMEN
-				count = 27
+				count = 25
+			}
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_HEDJAZ
+				count = 2
 			}
 
 			combat_unit = {
@@ -94,9 +131,15 @@
 			name = 5_Egyptian_Army
 
 			combat_unit = {
-				type = unit_type:combat_unit_type_skirmish_infantry
+				type = unit_type:combat_unit_type_line_infantry
 				state_region = s:STATE_IRAKAJEMI
-				count = 27
+				count = 25
+			}
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_FARS
+				count = 2
 			}
 
 			combat_unit = {
@@ -113,9 +156,15 @@
 			name = 6_Egyptian_Army
 
 			combat_unit = {
-				type = unit_type:combat_unit_type_skirmish_infantry
+				type = unit_type:combat_unit_type_line_infantry
 				state_region = s:STATE_GREATER_CAUCASUS
-				count = 27
+				count = 25
+			}
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_KARS
+				count = 2
 			}
 
 			combat_unit = {
@@ -134,13 +183,13 @@
 			combat_unit = {
 				type = unit_type:combat_unit_type_man_o_war
 				state_region = s:STATE_LIBYA
-				count = 18
+				count = 15
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_frigate
 				state_region = s:STATE_TRIPOLI
-				count = 27
+				count = 26
 			}
 
 			save_scope_as = 1_egyptian_fleet_fleet
@@ -148,13 +197,13 @@
 		
 		create_military_formation = {
 			type = fleet
-			hq_region = sr:region_nile
+			hq_region = sr:region_nile_basin
 			name = 2_Egyptian_Fleet
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_man_o_war
 				state_region = s:STATE_MIDDLE_EGYPT
-				count = 18
+				count = 15
 			}
 
 			combat_unit = {
@@ -168,19 +217,19 @@
 		
 		create_military_formation = {
 			type = fleet
-			hq_region = sr:region_arabia
+			hq_region = sr:region_arabic
 			name = 3_Egyptian_Fleet
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_man_o_war
 				state_region = s:STATE_HEDJAZ
-				count = 18
+				count = 15
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_frigate
 				state_region = s:STATE_YEMEN
-				count = 27
+				count = 26
 			}
 
 			save_scope_as = 3_egyptian_fleet_fleet
@@ -194,13 +243,13 @@
 			combat_unit = {
 				type = unit_type:combat_unit_type_man_o_war
 				state_region = s:STATE_CYPRUS
-				count = 18
+				count = 15
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_frigate
 				state_region = s:STATE_ADANA
-				count = 27
+				count = 26
 			}
 
 			save_scope_as = 4_egyptian_fleet_fleet

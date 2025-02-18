@@ -9,13 +9,13 @@
 			combat_unit = {
 				type = unit_type:combat_unit_type_skirmish_infantry
 				state_region = s:STATE_POMERANIA
-				count = 11
+				count = 14
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_lancers
 				state_region = s:STATE_MECKLENBURG
-				count = 4
+				count = 1
 			}
 
 			# III. Armee-Korps
@@ -36,13 +36,13 @@
 			combat_unit = {
 				type = unit_type:combat_unit_type_skirmish_infantry
 				state_region = s:STATE_EAST_PRUSSIA
-				count = 11
+				count = 14
 			}
 			
 			combat_unit = {
 				type = unit_type:combat_unit_type_lancers
 				state_region = s:STATE_MAZOVIA
-				count = 4
+				count = 1
 			}
 
 
@@ -51,9 +51,6 @@
 				state_region = s:STATE_WEST_PRUSSIA
 				count = 11
 			}
-
-			
-
 			save_scope_as = 2_Armee
 		}
 		
@@ -69,13 +66,11 @@
 				count = 27
 			}
 
-
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
 				state_region = s:STATE_RUHR
 				count = 3
 			}
-
 			save_scope_as = 3_Armee
 		}
 		
@@ -86,18 +81,16 @@
 
 			# VII. Armee-Korps
 			combat_unit = {
-				type = unit_type:combat_unit_type_skirmish_infantry
+				type = unit_type:combat_unit_type_line_infantry
 				state_region = s:STATE_WURTTEMBERG
 				count = 27
 			}
-
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
 				state_region = s:STATE_FRANCONIA
 				count = 3
 			}
-
 			save_scope_as = 4_Armee
 		}
 		
@@ -108,21 +101,18 @@
 
 			# VII. Armee-Korps
 			combat_unit = {
-				type = unit_type:combat_unit_type_skirmish_infantry
+				type = unit_type:combat_unit_type_line_infantry
 				state_region = s:STATE_BAVARIA
 				count = 27
 			}
-
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
 				state_region = s:STATE_AUSTRIA
 				count = 3
 			}
-
 			save_scope_as = 5_Armee
 		}
-
 
 		create_military_formation = {
 			type = army
@@ -131,21 +121,18 @@
 
 			# VII. Armee-Korps
 			combat_unit = {
-				type = unit_type:combat_unit_type_skirmish_infantry
+				type = unit_type:combat_unit_type_line_infantry
 				state_region = s:STATE_RUHR
 				count = 27
 			}
-
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
 				state_region = s:STATE_WESTPHALIA
 				count = 3
 			}
-
 			save_scope_as = main_Armee
 		}
-
 
 		create_military_formation = {
 			type = fleet
@@ -185,8 +172,6 @@
 				
 	}
 
-	
-
 	c:FRA ?= {
 		create_military_formation = {
 			type = army
@@ -196,13 +181,13 @@
 			combat_unit = {
 				type = unit_type:combat_unit_type_skirmish_infantry
 				state_region = s:STATE_ILE_DE_FRANCE
-				count = 11
+				count = 13
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_lancers
 				state_region = s:STATE_CHAMPAGNE
-				count = 3
+				count = 1
 			}
 
 			combat_unit = {
@@ -220,16 +205,14 @@
 			combat_unit = {
 				type = unit_type:combat_unit_type_skirmish_infantry
 				state_region = s:STATE_AUVERGNE_LIMOUSIN
-				count = 13
+				count = 22
 			}
 			
-
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
 				state_region = s:STATE_PROVENCE
-				count = 12
+				count = 3
 			}
-
 			save_scope_as = secondcorpfra
 		}
 		
@@ -241,16 +224,14 @@
 			combat_unit = {
 				type = unit_type:combat_unit_type_skirmish_infantry
 				state_region = s:STATE_ALSACE_LORRAINE
-				count = 13
+				count = 22
 			}
 			
-
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
 				state_region = s:STATE_ALSACE_LORRAINE
-				count = 12
+				count = 3
 			}
-
 			save_scope_as = thirdcorpfra
 		}
 
@@ -266,7 +247,6 @@
 				count = 15
 			}
 
-
 			combat_unit = {
 				type = unit_type:combat_unit_type_frigate
 				state_region = s:STATE_BRITTANY
@@ -274,8 +254,6 @@
 			}
 
 		}
-
-		
 		
 	}
 
@@ -288,19 +266,19 @@
 			combat_unit = {
 				type = unit_type:combat_unit_type_skirmish_infantry
 				state_region = s:STATE_HOME_COUNTIES
-				count = 14
+				count = 16
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_lancers
 				state_region = s:STATE_WEST_COUNTRY
-				count = 2
+				count = 1
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
 				state_region = s:STATE_EAST_ANGLIA
-				count = 14
+				count = 13
 			}
 			save_scope_as = home_army_army
 		}
@@ -315,7 +293,6 @@
 				state_region = s:STATE_FLANDERS
 				count = 27
 			}
-
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
@@ -336,7 +313,6 @@
 				count = 27
 			}
 
-
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
 				state_region = s:STATE_CAPE_COLONY
@@ -344,9 +320,6 @@
 			}
 			save_scope_as = 3_net_army_army
 		}
-
-
-
 
 		create_military_formation = {
 			type = fleet
@@ -392,7 +365,7 @@
 		
 		create_military_formation = {
 			type = fleet
-			hq_region = sr:region_north_sea
+			hq_region = sr:region_north_sea_coast
 			name = 3_Net_Fleet
 			
 			combat_unit = {
@@ -408,12 +381,11 @@
 			}
 
 			save_scope_as = 3_net_fleet_fleet
-
 		}
 		
 		create_military_formation = {
 			type = fleet
-			hq_region = sr:region_north_sea
+			hq_region = sr:region_north_sea_coast
 			name = 4_Net_Fleet
 			
 			combat_unit = {
@@ -429,16 +401,9 @@
 			}
 
 			save_scope_as = 4_net_fleet_fleet
-
 		}
 
-
-        
-			
 	}
-
-
-	
 
 	c:SPA ?= {
 		create_military_formation = {
@@ -449,19 +414,19 @@
 			combat_unit = {
 				type = unit_type:combat_unit_type_skirmish_infantry
 				state_region = s:STATE_TOLEDO
-				count = 14
+				count = 16
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_lancers
 				state_region = s:STATE_TOLEDO
-				count = 2
+				count = 1
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
 				state_region = s:STATE_TOLEDO
-				count = 14
+				count = 13
 			}
 
 		}
@@ -483,7 +448,6 @@
 				count = 3
 			}
 
-
 		}
 		
 		create_military_formation = {
@@ -494,21 +458,20 @@
 			combat_unit = {
 				type = unit_type:combat_unit_type_skirmish_infantry
 				state_region = s:STATE_MARRAKECH
-				count = 14
+				count = 16
 			}
 			
 			combat_unit = {
 				type = unit_type:combat_unit_type_lancers
 				state_region = s:STATE_INNER_MOROCCO
-				count = 2
+				count = 1
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
 				state_region = s:STATE_FEZ
-				count = 14
+				count = 13
 			}
-
 
 		}
 		
@@ -518,23 +481,18 @@
 			name = 4_Arraki_Army
 
 			combat_unit = {
-				type = unit_type:combat_unit_type_skirmish_infantry
+				type = unit_type:combat_unit_type_line_infantry
 				state_region = s:STATE_CONSTANTINE
 				count = 27
 			}
 			
-
-
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
 				state_region = s:STATE_ALGIERS
 				count = 3
 			}
 
-
 		}
-
-
 
 		create_military_formation = {
 			type = fleet
@@ -618,7 +576,6 @@
 		
 	}
 
-
     c:X37 ?= {
 		create_military_formation = {
 			type = army
@@ -628,21 +585,22 @@
 			combat_unit = {
 				type = unit_type:combat_unit_type_skirmish_infantry
 				state_region = s:STATE_BOHEMIA
-				count = 12
+				count = 14
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_lancers
 				state_region = s:STATE_MORAVIA
-				count = 2
+				count = 1
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
 				state_region = s:STATE_BOHEMIA
-				count = 12
+				count = 11
 			}
-
+			
+          save_scope_as = 1_moravian_army_army
 		}
 		
 		create_military_formation = {
@@ -652,17 +610,17 @@
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_skirmish_infantry
-				state_region = s:STATE_BOHEMIA
+				state_region = s:STATE_WEST_GALICIA
 				count = 24
 			}
 
-
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
-				state_region = s:STATE_BOHEMIA
+				state_region = s:STATE_SILESIA
 				count = 2
 			}
-
+			
+          save_scope_as = 2_moravian_army_army 
 		}
 	}
 	
@@ -675,13 +633,13 @@
 			combat_unit = {
 				type = unit_type:combat_unit_type_skirmish_infantry
 				state_region = s:STATE_LAZIO
-				count = 11
+				count = 13
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_lancers
 				state_region = s:STATE_CALABRIA
-				count = 3
+				count = 1
 			}
 
 			combat_unit = {
@@ -702,7 +660,6 @@
 				state_region = s:STATE_LOMBARDY
 				count = 24
 			}
-
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
@@ -822,19 +779,19 @@
 			combat_unit = {
 				type = unit_type:combat_unit_type_skirmish_infantry
 				state_region = s:STATE_MOSCOW
-				count = 14
+				count = 16
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_lancers
-				state_region = s:STATE_SARATOV
+				state_region = s:STATE_TARTARIA
 				count = 2
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
-				state_region = s:STATE_TULA
-				count = 14
+				state_region = s:STATE_ORYOL
+				count = 13
 			}
 
 		}
@@ -847,19 +804,19 @@
 			combat_unit = {
 				type = unit_type:combat_unit_type_skirmish_infantry
 				state_region = s:STATE_TRANSDANUBIA
-				count = 14
+				count = 16
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_lancers
 				state_region = s:STATE_CENTRAL_HUNGARY
-				count = 2
+				count = 1
 			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
 				state_region = s:STATE_WALLACHIA
-				count = 14
+				count = 13
 			}
 
 		}
@@ -872,9 +829,14 @@
 			combat_unit = {
 				type = unit_type:combat_unit_type_skirmish_infantry
 				state_region = s:STATE_SOUTHERN_TRANSYLVANIA
-				count = 27
+				count = 25
 			}
-
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_skirmish_infantry
+				state_region = s:STATE_SOUTHERN_MOLDAVIA
+				count = 2
+			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
@@ -890,11 +852,16 @@
 			name = 4_Russian_Army
 
 			combat_unit = {
-				type = unit_type:combat_unit_type_skirmish_infantry
+				type = unit_type:combat_unit_type_line_infantry
 				state_region = s:STATE_KUBAN
-				count = 27
+				count = 25
 			}
-
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_STAVROPOL
+				count = 2
+			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
@@ -910,11 +877,16 @@
 			name = 5_Russian_Army
 
 			combat_unit = {
-				type = unit_type:combat_unit_type_skirmish_infantry
+				type = unit_type:combat_unit_type_line_infantry
 				state_region = s:STATE_URALSK
-				count = 27
+				count = 25
 			}
-
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_AKTOBE
+				count = 2
+			}
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
@@ -935,7 +907,6 @@
 				count = 15
 			}
 
-
 			combat_unit = {
 				type = unit_type:combat_unit_type_frigate
 				state_region = s:STATE_CRIMEA
@@ -949,7 +920,7 @@
 	c:EST ?= {
 		create_military_formation = {
 			type = army
-			hq_region = sr:region_livonia
+			hq_region = sr:region_baltic_states
 			name = 1_Estonian_Army
 
 			combat_unit = {
@@ -957,13 +928,11 @@
 				state_region = s:STATE_COURLAND
 				count = 3
 			}
-
-
 		}
 		
 		create_military_formation = {
 			type = fleet
-			hq_region = sr:region_livonia
+			hq_region = sr:region_baltic_states
 			name = 1_Livonian_Fleet
 
 			combat_unit = {
@@ -971,7 +940,6 @@
 				state_region = s:STATE_KAUNAS
 				count = 3
 			}
-
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_frigate
@@ -994,8 +962,6 @@
 				state_region = s:STATE_NORTHERN_SERBIA
 				count = 1
 			}
-
-
 		}
 		
 	}
@@ -1011,8 +977,6 @@
 				state_region = s:STATE_EASTERN_THRACE
 				count = 3
 			}
-
-
 		}
 		
 	}
@@ -1028,8 +992,7 @@
 				state_region = s:STATE_ATTICA
 				count = 2
 			}
-
-
+			
 		}
 		
 		create_military_formation = {
@@ -1042,7 +1005,6 @@
 				state_region = s:STATE_THESSALIA
 				count = 3
 			}
-
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_frigate
@@ -1058,7 +1020,7 @@
 	c:SWE ?= {
 		create_military_formation = {
 			type = army
-			hq_region = sr:region_scandinavia
+			hq_region = sr:region_baltic
 			name = 1_Swedish_Army
 
 			combat_unit = {
@@ -1067,12 +1029,11 @@
 				count = 5
 			}
 
-
 		}
 		
 		create_military_formation = {
 			type = fleet
-			hq_region = sr:region_scandinavia
+			hq_region = sr:region_baltic
 			name = 1_Swedish_Fleet
 
 			combat_unit = {
@@ -1080,7 +1041,6 @@
 				state_region = s:STATE_SVEALAND
 				count = 3
 			}
-
 
 			combat_unit = {
 				type = unit_type:combat_unit_type_frigate
@@ -1096,7 +1056,7 @@
 	c:NOR ?= {
 		create_military_formation = {
 			type = army
-			hq_region = sr:region_scandinavia
+			hq_region = sr:region_baltic
 			name = 1_Norwegian_Army
 
 			combat_unit = {
@@ -1105,12 +1065,11 @@
 				count = 1
 			}
 
-
 		}
 		
 		create_military_formation = {
 			type = fleet
-			hq_region = sr:region_scandinavia
+			hq_region = sr:region_baltic
 			name = 1_Norwegian_Fleet
 
 			combat_unit = {
@@ -1125,7 +1084,6 @@
 				state_region = s:STATE_EASTERN_NORWAY
 				count = 10
 			}
-
 			save_scope_as = 1_norwegian_fleet_fleet
 		}
 		
