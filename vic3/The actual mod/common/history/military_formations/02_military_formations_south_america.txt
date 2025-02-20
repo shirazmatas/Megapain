@@ -1,0 +1,254 @@
+﻿MILITARY_FORMATIONS = {
+	c:X19 ?= {
+		create_military_formation = {
+			type = army
+			hq_region = sr:region_gran_colombia
+			name = 1_COL_Army
+
+
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_ANTIOQUIA
+				count = 5
+			}
+			
+
+		}
+		
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_gran_colombia
+			name = 1_COL_Fleet
+
+			combat_unit = {
+				type = unit_type:combat_unit_type_man_o_war
+				state_region = s:STATE_ZULIA
+				count = 3
+			}
+
+			combat_unit = {
+				type = unit_type:combat_unit_type_frigate
+				state_region = s:STATE_ANTIOQUIA
+				count = 10
+			}
+
+			save_scope_as = 1_col_fleet_fleet
+		}
+	}
+	
+	c:UCA ?= {
+		create_military_formation = {
+			type = army
+			hq_region = sr:region_central_america
+			name = 1_UCA_Army
+
+
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_HONDURAS
+				count = 2
+			}
+			
+
+		}
+		
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_central_america
+			name = 1_UCA_Fleet
+
+			combat_unit = {
+				type = unit_type:combat_unit_type_man_o_war
+				state_region = s:STATE_NICARAGUA
+				count = 3
+			}
+
+			combat_unit = {
+				type = unit_type:combat_unit_type_frigate
+				state_region = s:STATE_HONDURAS
+				count = 10
+			}
+
+			save_scope_as = 1_uca_fleet_fleet
+		}
+	}
+	
+	c:NPU ?= {
+		create_military_formation = {
+			type = army
+			hq_region = sr:region_the_andes
+			name = 1_NPU_Army
+
+
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_ECUADOR
+				count = 5
+			}
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_LIMA
+				count = 5
+			}
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_CAJAMARCA
+				count = 1
+			}
+			
+
+		}
+		
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_the_andes
+			name = 1_NPU_Fleet
+
+			combat_unit = {
+				type = unit_type:combat_unit_type_man_o_war
+				state_region = s:STATE_LIMA
+				count = 3
+			}
+
+			combat_unit = {
+				type = unit_type:combat_unit_type_frigate
+				state_region = s:STATE_ECUADOR
+				count = 10
+			}
+
+			save_scope_as = 1_npu_fleet_fleet
+		}
+	}
+	
+	c:BHI ?= {
+		create_military_formation = {
+			type = army
+			hq_region = sr:region_brazil
+			name = 1_BHI_Army
+
+
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_BAHIA
+				count = 5
+			}
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_RIO_DE_JANEIRO
+				count = 5
+			}
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_PERNAMBUCO
+				count = 5
+			}
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_MINAS_GERAIS
+				count = 5
+			}
+			
+			
+
+		}
+		
+		create_military_formation = {
+			type = army
+			hq_region = sr:region_gran_colombia
+			name = 2_BHI_Army
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_GUAYANA
+				count = 5
+			}
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_BOLIVAR
+				count = 2
+			}
+			
+
+		}
+		
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_brazil
+			name = 1_BHI_Fleet
+
+			combat_unit = {
+				type = unit_type:combat_unit_type_man_o_war
+				state_region = s:STATE_RIO_DE_JANEIRO
+				count = 6
+			}
+
+			combat_unit = {
+				type = unit_type:combat_unit_type_frigate
+				state_region = s:STATE_BAHIA
+				count = 20
+			}
+
+			save_scope_as = 1_bhi_fleet_fleet
+		}
+	}
+	
+	c:PLT ?= {
+		create_military_formation = {
+			type = army
+			hq_region = sr:region_la_plata
+			name = 1_PLT_Army
+
+
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_BUENOS_AIRES
+				count = 5
+			}
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_SANTIAGO
+				count = 5
+			}
+			
+			combat_unit = {
+				type = unit_type:combat_unit_type_line_infantry
+				state_region = s:STATE_LOS_RIOS
+				count = 3
+			}
+			
+
+		}
+		
+		create_military_formation = {
+			type = fleet
+			hq_region = sr:region_la_plata
+			name = 1_PLT_Fleet
+
+			combat_unit = {
+				type = unit_type:combat_unit_type_man_o_war
+				state_region = s:STATE_SANTIAGO
+				count = 3
+			}
+
+			combat_unit = {
+				type = unit_type:combat_unit_type_frigate
+				state_region = s:STATE_BUENOS_AIRES
+				count = 10
+			}
+
+			save_scope_as = 1_plt_fleet_fleet
+		}
+	}
+}
