@@ -151,31 +151,6 @@
 		}
 		
 		create_military_formation = {
-			type = army
-			hq_region = sr:region_caucasus
-			name = 6_Egyptian_Army
-
-			combat_unit = {
-				type = unit_type:combat_unit_type_line_infantry
-				state_region = s:STATE_GREATER_CAUCASUS
-				count = 25
-			}
-			
-			combat_unit = {
-				type = unit_type:combat_unit_type_line_infantry
-				state_region = s:STATE_KARS
-				count = 2
-			}
-
-			combat_unit = {
-				type = unit_type:combat_unit_type_mobile_artillery
-				state_region = s:STATE_ARMENIA
-				count = 3
-			}
-
-		}
-		
-		create_military_formation = {
 			type = fleet
 			hq_region = sr:region_north_africa
 			name = 1_Egyptian_Fleet

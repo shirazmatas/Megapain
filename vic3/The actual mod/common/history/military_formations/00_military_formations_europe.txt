@@ -77,26 +77,6 @@
 		create_military_formation = {
 			type = army
 			hq_region = sr:region_south_germany
-			name = 4_Armee
-
-			# VII. Armee-Korps
-			combat_unit = {
-				type = unit_type:combat_unit_type_line_infantry
-				state_region = s:STATE_WURTTEMBERG
-				count = 27
-			}
-
-			combat_unit = {
-				type = unit_type:combat_unit_type_mobile_artillery
-				state_region = s:STATE_FRANCONIA
-				count = 3
-			}
-			save_scope_as = 4_Armee
-		}
-		
-		create_military_formation = {
-			type = army
-			hq_region = sr:region_south_germany
 			name = 5_Armee
 
 			# VII. Armee-Korps
@@ -474,25 +454,6 @@
 			}
 
 		}
-		
-		create_military_formation = {
-			type = army
-			hq_region = sr:region_north_africa
-			name = 4_Arraki_Army
-
-			combat_unit = {
-				type = unit_type:combat_unit_type_line_infantry
-				state_region = s:STATE_CONSTANTINE
-				count = 27
-			}
-			
-			combat_unit = {
-				type = unit_type:combat_unit_type_mobile_artillery
-				state_region = s:STATE_ALGIERS
-				count = 3
-			}
-
-		}
 
 		create_military_formation = {
 			type = fleet
@@ -866,31 +827,6 @@
 			combat_unit = {
 				type = unit_type:combat_unit_type_mobile_artillery
 				state_region = s:STATE_ROSTOV
-				count = 3
-			}
-
-		}
-		
-		create_military_formation = {
-			type = army
-			hq_region = sr:region_central_asia
-			name = 5_Russian_Army
-
-			combat_unit = {
-				type = unit_type:combat_unit_type_line_infantry
-				state_region = s:STATE_URALSK
-				count = 25
-			}
-			
-			combat_unit = {
-				type = unit_type:combat_unit_type_line_infantry
-				state_region = s:STATE_AKTOBE
-				count = 2
-			}
-
-			combat_unit = {
-				type = unit_type:combat_unit_type_mobile_artillery
-				state_region = s:STATE_AKMOLINSK
 				count = 3
 			}
 
