@@ -54514,18 +54514,16 @@
 				religion = orthodox
 				size = 545
 			}
-		}
-		region_state:X28 = {
-			create_pop = {
-				culture = dynamic-tajik-oghuz-culture-num1
-				religion = sunni
-				size = 27338
-			}
-			create_pop = {
-				culture = dynamic-tajik-oghuz-culture-num1
-				religion = sunni
-				size = 1799
-			}
+            create_pop = {
+                culture = dynamic-tajik-oghuz-culture-num1
+                religion = sunni
+                size = 27338
+            }
+            create_pop = {
+                culture = dynamic-tajik-oghuz-culture-num1
+                religion = sunni
+                size = 1799
+            }
 		}
 	}
 	s:STATE_TALINN = {
