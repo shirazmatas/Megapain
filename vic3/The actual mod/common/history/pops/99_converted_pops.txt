@@ -26036,13 +26036,43 @@
 			create_pop = {
 				culture = panjabi
 				religion = orthodox
-				size = 324700
+				size = 123700
 			}
 			create_pop = {
 				culture = panjabi
 				religion = orthodox
 				size = 7155
 			}
+			create_pop = {
+                culture = panjabi
+                religion = sunni
+                size = 47891
+            }
+            create_pop = {
+                culture = panjabi
+                religion = sunni
+                size = 2770
+            }
+            create_pop = {
+                culture = panjabi
+                religion = shiite
+                size = 53212
+            }
+            create_pop = {
+                culture = panjabi
+                religion = shiite
+                size = 3078
+            }
+            create_pop = {
+                culture = panjabi
+                religion = orthodox
+                size = 106834
+            }
+            create_pop = {
+                culture = panjabi
+                religion = orthodox
+                size = 6180
+            }
 		}
 	}
 	s:STATE_KACHIN = {
@@ -39938,6 +39968,36 @@
 	}
 	s:STATE_NORTHERN_BALUCHISTAN = {
 		region_state:EGY = {
+            create_pop = {
+                culture = pashtun
+                religion = sunni
+                size = 2381
+            }
+            create_pop = {
+                culture = pashtun
+                religion = sunni
+                size = 115
+            }
+            create_pop = {
+                culture = pashtun
+                religion = shiite
+                size = 1123
+            }
+            create_pop = {
+                culture = pashtun
+                religion = shiite
+                size = 54
+            }
+            create_pop = {
+                culture = pashtun
+                religion = orthodox
+                size = 3200
+            }
+            create_pop = {
+                culture = pashtun
+                religion = orthodox
+                size = 154
+            }
 			create_pop = {
 				culture = pashtun
 				religion = sunni
@@ -39946,7 +40006,7 @@
 			create_pop = {
 				culture = pashtun
 				religion = sunni
-				size = 7308
+				size = 308
 			}
 			create_pop = {
 				culture = pashtun
