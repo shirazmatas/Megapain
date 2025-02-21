@@ -5114,18 +5114,33 @@
 			create_pop = {
 				culture = armenian
 				religion = orthodox
-				size = 19209
+				size = 9209
 			}
 			create_pop = {
 				culture = armenian
 				religion = oriental_orthodox
-				size = 114657
+				size = 14657
 			}
 			create_pop = {
 				culture = sephardic
 				religion = jewish
 				size = 242
 			}
+			create_pop = {
+                culture = azerbaijani
+                religion = orthodox
+                size = 54211
+            }
+            create_pop = {
+                culture = romanian
+                religion = orthodox
+                size = 37515
+            }
+            create_pop = {
+                culture = azerbaijani
+                religion = orthodox
+                size = 10262
+            }
 		}
 		region_state:RUS = {
 			create_pop = {
@@ -5146,7 +5161,7 @@
 			create_pop = {
 				culture = romanian
 				religion = orthodox
-				size = 85287
+				size = 65287
 			}
 			create_pop = {
 				culture = sephardic
@@ -5157,16 +5172,6 @@
 				culture = azerbaijani
 				religion = orthodox
 				size = 15315
-			}
-			create_pop = {
-				culture = azerbaijani
-				religion = orthodox
-				size = 10262
-			}
-			create_pop = {
-				culture = romanian
-				religion = orthodox
-				size = 17515
 			}
 			create_pop = {
 				culture = sephardic
