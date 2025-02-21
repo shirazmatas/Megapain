@@ -29533,10 +29533,90 @@
 	}
 	s:STATE_LAOS = {
 		region_state:LAO = {
+            create_pop = {
+                culture = thai
+                religion = theravada
+                size = 32745
+            }
+            create_pop = {
+                culture = thai
+                religion = theravada
+                size = 1768
+            }
+		    create_pop = {
+                culture = khmer
+                religion = animist
+                size = 1638
+            }
+            create_pop = {
+                culture = khmer
+                religion = animist
+                size = 88
+            }
+            create_pop = {
+                culture = khmer
+                religion = theravada
+                size = 732
+            }
+            create_pop = {
+                culture = khmer
+                religion = theravada
+                size = 40
+            }
+            create_pop = {
+                culture = khmer
+                religion = mahayana
+                size = 2538
+            }
+            create_pop = {
+                culture = khmer
+                religion = mahayana
+                size = 137
+            }
+            create_pop = {
+                culture = khmer
+                religion = oriental_orthodox
+                size = 3708
+            }
+            create_pop = {
+                culture = khmer
+                religion = oriental_orthodox
+                size = 200
+            }
+            create_pop = {
+                culture = khmer
+                religion = hindu
+                size = 1764
+            }
+            create_pop = {
+                culture = khmer
+                religion = hindu
+                size = 95
+            }
+            create_pop = {
+                culture = khmer
+                religion = theravada
+                size = 2649
+            }
+            create_pop = {
+                culture = khmer
+                religion = theravada
+                size = 143
+            }
+            create_pop = {
+                culture = khmer
+                religion = oriental_orthodox
+                size = 3342
+            }
+            create_pop = {
+                culture = khmer
+                religion = oriental_orthodox
+                size = 181
+            }
 			create_pop = {
 				culture = lao
 				religion = animist
-				size = 49640
+				size = 19640
 			}
 			create_pop = {
 				culture = lao
