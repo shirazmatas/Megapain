@@ -45419,10 +45419,50 @@
 			}
 		}
 		region_state:X09 = {
+		    create_pop = {
+                culture = mon
+                religion = oriental_orthodox
+                size = 170388
+            }
+            create_pop = {
+                culture = mon
+                religion = theravada
+                size = 4729
+            }
+            create_pop = {
+                culture = mon
+                religion = oriental_orthodox
+                size = 108643
+            }
+            create_pop = {
+                culture = mon
+                religion = oriental_orthodox
+                size = 3016
+            }
+		    create_pop = {
+                culture = burmese
+                religion = theravada
+                size = 269882
+            }
+            create_pop = {
+                culture = burmese
+                religion = theravada
+                size = 7491
+            }
+            create_pop = {
+                culture = mon
+                religion = theravada
+                size = 212704
+            }
+            create_pop = {
+                culture = mon
+                religion = theravada
+                size = 5904
+            }
 			create_pop = {
 				culture = mon
 				religion = theravada
-				size = 528080
+				size = 128080
 			}
 			create_pop = {
 				culture = mon
@@ -45432,7 +45472,7 @@
 			create_pop = {
 				culture = burmese
 				religion = theravada
-				size = 215881
+				size = 115881
 			}
 			create_pop = {
 				culture = burmese
@@ -64530,6 +64570,26 @@
 	}
 	s:STATE_YUNNAN = {
 		region_state:X28 = {
+		    create_pop = {
+                culture = lao
+                religion = animist
+                size = 31280
+            }
+            create_pop = {
+                culture = lao
+                religion = theravada
+                size = 41518
+            }
+            create_pop = {
+                culture = lao
+                religion = oriental_orthodox
+                size = 49646
+            }
+            create_pop = {
+                culture = vietnamese
+                religion = mahayana
+                size = 90958
+            }
 			create_pop = {
 				culture = shan
 				religion = theravada
@@ -64543,7 +64603,7 @@
 			create_pop = {
 				culture = yi
 				religion = theravada
-				size = 1780213
+				size = 780213
 			}
 			create_pop = {
 				culture = yi
