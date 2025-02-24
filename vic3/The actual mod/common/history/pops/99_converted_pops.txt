@@ -1715,21 +1715,25 @@
 			create_pop = {
 				culture = maghrebi
 				religion = catholic
+				pop_type = slaves
 				size = 6272
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = catholic
+				pop_type = slaves
 				size = 109
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 3654
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 64
 			}
 			create_pop = {
@@ -1765,11 +1769,13 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 108905
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 1896
 			}
 			create_pop = {
@@ -1815,11 +1821,13 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 328165
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 5714
 			}
 			create_pop = {
@@ -2087,11 +2095,13 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 41184
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 2810
 			}
 			create_pop = {
@@ -5486,6 +5496,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 5101
 			}
 			create_pop = {
@@ -5506,6 +5517,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 5265
 			}
 			create_pop = {
@@ -5530,11 +5542,13 @@
 			create_pop = {
 				culture = tupinamba
 				religion = animist
+				pop_type = slaves
 				size = 7508
 			}
 			create_pop = {
 				culture = tupinamba
 				religion = animist
+				pop_type = slaves
 				size = 1893
 			}
 			create_pop = {
@@ -5550,11 +5564,13 @@
 			create_pop = {
 				culture = tupinamba
 				religion = animist
+				pop_type = slaves
 				size = 4374
 			}
 			create_pop = {
 				culture = tupinamba
 				religion = animist
+				pop_type = slaves
 				size = 1102
 			}
 			create_pop = {
@@ -5570,11 +5586,13 @@
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 4163
 			}
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 1049
 			}
 			create_pop = {
@@ -5590,11 +5608,13 @@
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 10589
 			}
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 2669
 			}
 			create_pop = {
@@ -5610,11 +5630,13 @@
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 8728
 			}
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 2200
 			}
 			create_pop = {
@@ -5630,11 +5652,13 @@
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 4957
 			}
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 1250
 			}
 			create_pop = {
@@ -5650,11 +5674,13 @@
 			create_pop = {
 				culture = tupinamba
 				religion = animist
+				pop_type = slaves
 				size = 5756
 			}
 			create_pop = {
 				culture = tupinamba
 				religion = animist
+				pop_type = slaves
 				size = 1451
 			}
 			create_pop = {
@@ -5670,11 +5696,13 @@
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 10033
 			}
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 2529
 			}
 			create_pop = {
@@ -5690,11 +5718,13 @@
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 8357
 			}
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 2106
 			}
 			create_pop = {
@@ -5758,6 +5788,7 @@
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 31927
 			}
 			create_pop = {
@@ -5768,11 +5799,13 @@
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 20707
 			}
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 2146
 			}
 			create_pop = {
@@ -5783,6 +5816,7 @@
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 20968
 			}
 			create_pop = {
@@ -5798,6 +5832,7 @@
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 22305
 			}
 			create_pop = {
@@ -5813,6 +5848,7 @@
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 16494
 			}
 			create_pop = {
@@ -5828,11 +5864,13 @@
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 20541
 			}
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 1932
 			}
 			create_pop = {
@@ -11717,6 +11755,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 2838
 			}
 			create_pop = {
@@ -11732,6 +11771,7 @@
 			create_pop = {
 				culture = zapotec
 				religion = animist
+				pop_type = slaves
 				size = 6965
 			}
 			create_pop = {
@@ -11742,6 +11782,7 @@
 			create_pop = {
 				culture = zapotec
 				religion = animist
+				pop_type = slaves
 				size = 5163
 			}
 			create_pop = {
@@ -11757,6 +11798,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 4731
 			}
 			create_pop = {
@@ -11772,6 +11814,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 4639
 			}
 			create_pop = {
@@ -11791,11 +11834,13 @@
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 5320
 			}
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 120
 			}
 			create_pop = {
@@ -11816,6 +11861,7 @@
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 5199
 			}
 			create_pop = {
@@ -11846,6 +11892,7 @@
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 5289
 			}
 			create_pop = {
@@ -11856,11 +11903,13 @@
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 5149
 			}
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 760
 			}
 			create_pop = {
@@ -11871,6 +11920,7 @@
 			create_pop = {
 				culture = oodham
 				religion = animist
+				pop_type = slaves
 				size = 6448
 			}
 			create_pop = {
@@ -11881,6 +11931,7 @@
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 1167
 			}
 			create_pop = {
@@ -12528,11 +12579,13 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 76822
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 1799
 			}
 			create_pop = {
@@ -12563,21 +12616,25 @@
 			create_pop = {
 				culture = maghrebi
 				religion = catholic
+				pop_type = slaves
 				size = 3925
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = catholic
+				pop_type = slaves
 				size = 92
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 2287
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 54
 			}
 			create_pop = {
@@ -12618,11 +12675,13 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 15382
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 360
 			}
 			create_pop = {
@@ -12723,11 +12782,13 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 44361
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 1039
 			}
 			create_pop = {
@@ -13119,6 +13180,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 5387
 			}
 			create_pop = {
@@ -13163,6 +13225,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 6514
 			}
 			create_pop = {
@@ -13185,6 +13248,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 6030
 			}
 			create_pop = {
@@ -13207,6 +13271,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 6031
 			}
 			create_pop = {
@@ -13229,6 +13294,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 3783
 			}
 			create_pop = {
@@ -13273,6 +13339,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 7053
 			}
 			create_pop = {
@@ -13317,6 +13384,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 6474
 			}
 			create_pop = {
@@ -13361,6 +13429,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 14007
 			}
 			create_pop = {
@@ -13383,6 +13452,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 19373
 			}
 			create_pop = {
@@ -14262,6 +14332,7 @@
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 10906
 			}
 			create_pop = {
@@ -14272,6 +14343,7 @@
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 9744
 			}
 			create_pop = {
@@ -14282,6 +14354,7 @@
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 11756
 			}
 			create_pop = {
@@ -16115,21 +16188,25 @@
 			create_pop = {
 				culture = maghrebi
 				religion = catholic
+				pop_type = slaves
 				size = 121
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = catholic
+				pop_type = slaves
 				size = 3
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 70
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 2
 			}
 			create_pop = {
@@ -20667,6 +20744,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 11466
 			}
 			create_pop = {
@@ -20677,6 +20755,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 6818
 			}
 			create_pop = {
@@ -20687,6 +20766,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 15116
 			}
 			create_pop = {
@@ -20697,6 +20777,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 8723
 			}
 			create_pop = {
@@ -20707,6 +20788,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 13490
 			}
 			create_pop = {
@@ -20717,6 +20799,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 12208
 			}
 			create_pop = {
@@ -20727,6 +20810,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 6068
 			}
 			create_pop = {
@@ -20737,6 +20821,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 8815
 			}
 			create_pop = {
@@ -21012,6 +21097,7 @@
 			create_pop = {
 				culture = mixtec
 				religion = animist
+				pop_type = slaves
 				size = 5493
 			}
 			create_pop = {
@@ -21027,6 +21113,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 8451
 			}
 			create_pop = {
@@ -21037,6 +21124,7 @@
 			create_pop = {
 				culture = mixtec
 				religion = animist
+				pop_type = slaves
 				size = 6339
 			}
 			create_pop = {
@@ -21052,6 +21140,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 4456
 			}
 			create_pop = {
@@ -21067,6 +21156,7 @@
 			create_pop = {
 				culture = tarascan
 				religion = animist
+				pop_type = slaves
 				size = 9563
 			}
 			create_pop = {
@@ -21082,6 +21172,7 @@
 			create_pop = {
 				culture = mixtec
 				religion = animist
+				pop_type = slaves
 				size = 6301
 			}
 			create_pop = {
@@ -24663,11 +24754,13 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 76911
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 3204
 			}
 			create_pop = {
@@ -24683,11 +24776,13 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 12025
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 501
 			}
 			create_pop = {
@@ -24733,11 +24828,13 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 17009
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 709
 			}
 			create_pop = {
@@ -25473,6 +25570,7 @@
 			create_pop = {
 				culture = mixtec
 				religion = animist
+				pop_type = slaves
 				size = 13767
 			}
 			create_pop = {
@@ -25488,6 +25586,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 50244
 			}
 			create_pop = {
@@ -25498,6 +25597,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 24511
 			}
 			create_pop = {
@@ -25508,6 +25608,7 @@
 			create_pop = {
 				culture = tarascan
 				religion = animist
+				pop_type = slaves
 				size = 7302
 			}
 			create_pop = {
@@ -25523,6 +25624,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 6323
 			}
 			create_pop = {
@@ -25538,6 +25640,7 @@
 			create_pop = {
 				culture = tarascan
 				religion = animist
+				pop_type = slaves
 				size = 24403
 			}
 			create_pop = {
@@ -25553,6 +25656,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 7415
 			}
 			create_pop = {
@@ -25568,6 +25672,7 @@
 			create_pop = {
 				culture = tarascan
 				religion = animist
+				pop_type = slaves
 				size = 16381
 			}
 			create_pop = {
@@ -25583,6 +25688,7 @@
 			create_pop = {
 				culture = tarascan
 				religion = animist
+				pop_type = slaves
 				size = 16552
 			}
 			create_pop = {
@@ -25598,6 +25704,7 @@
 			create_pop = {
 				culture = tarascan
 				religion = animist
+				pop_type = slaves
 				size = 7146
 			}
 			create_pop = {
@@ -25613,6 +25720,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 11116
 			}
 			create_pop = {
@@ -25623,6 +25731,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 9615
 			}
 			create_pop = {
@@ -25633,6 +25742,7 @@
 			create_pop = {
 				culture = tarascan
 				religion = animist
+				pop_type = slaves
 				size = 15286
 			}
 			create_pop = {
@@ -25648,6 +25758,7 @@
 			create_pop = {
 				culture = tarascan
 				religion = animist
+				pop_type = slaves
 				size = 13988
 			}
 			create_pop = {
@@ -25663,6 +25774,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 20272
 			}
 			create_pop = {
@@ -25677,6 +25789,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 46300
 			}
 			create_pop = {
@@ -30680,21 +30793,25 @@
 			create_pop = {
 				culture = mande
 				religion = sunni
+				pop_type = slaves
 				size = 120728
 			}
 			create_pop = {
 				culture = mande
 				religion = sunni
+				pop_type = slaves
 				size = 3107
 			}
 			create_pop = {
 				culture = mande
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 106600
 			}
 			create_pop = {
 				culture = mande
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 2743
 			}
 			create_pop = {
@@ -34819,6 +34936,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 60113
 			}
 			create_pop = {
@@ -34829,6 +34947,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 60612
 			}
 			create_pop = {
@@ -34839,6 +34958,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 22506
 			}
 			create_pop = {
@@ -34849,6 +34969,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 28908
 			}
 			create_pop = {
@@ -34859,6 +34980,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 27891
 			}
 			create_pop = {
@@ -34869,6 +34991,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 41127
 			}
 			create_pop = {
@@ -34879,6 +35002,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 27112
 			}
 			create_pop = {
@@ -34889,6 +35013,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 24790
 			}
 			create_pop = {
@@ -35150,11 +35275,13 @@
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 12245
 			}
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 4047
 			}
 			create_pop = {
@@ -35170,11 +35297,13 @@
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 1265
 			}
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 418
 			}
 			create_pop = {
@@ -35190,11 +35319,13 @@
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 12304
 			}
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 4066
 			}
 			create_pop = {
@@ -35210,11 +35341,13 @@
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 15176
 			}
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 5015
 			}
 			create_pop = {
@@ -35230,11 +35363,13 @@
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 15294
 			}
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 5054
 			}
 			create_pop = {
@@ -35250,11 +35385,13 @@
 			create_pop = {
 				culture = tupinamba
 				religion = animist
+				pop_type = slaves
 				size = 11179
 			}
 			create_pop = {
 				culture = tupinamba
 				religion = animist
+				pop_type = slaves
 				size = 3694
 			}
 			create_pop = {
@@ -35270,11 +35407,13 @@
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 11744
 			}
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 3881
 			}
 			create_pop = {
@@ -35290,11 +35429,13 @@
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 11653
 			}
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 3851
 			}
 			create_pop = {
@@ -35310,11 +35451,13 @@
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 2517
 			}
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 832
 			}
 			create_pop = {
@@ -38514,11 +38657,13 @@
             create_pop = {
                 culture = navajo
                 religion = animist
+				pop_type = slaves
                 size = 402
             }
             create_pop = {
                 culture = chichimecan
                 religion = animist
+				pop_type = slaves
                 size = 25
             }
             create_pop = {
@@ -38534,6 +38679,7 @@
             create_pop = {
                 culture = apache
                 religion = animist
+				pop_type = slaves
                 size = 2032
             }
             create_pop = {
@@ -38544,6 +38690,7 @@
             create_pop = {
                 culture = pueblo
                 religion = animist
+				pop_type = slaves
                 size = 500
             }
             create_pop = {
@@ -38559,11 +38706,13 @@
             create_pop = {
                 culture = pueblo
                 religion = animist
+				pop_type = slaves
                 size = 425
             }
             create_pop = {
                 culture = chichimecan
                 religion = animist
+				pop_type = slaves
                 size = 48
             }
             create_pop = {
@@ -38579,11 +38728,13 @@
             create_pop = {
                 culture = apache
                 religion = animist
+				pop_type = slaves
                 size = 1302
             }
             create_pop = {
                 culture = chichimecan
                 religion = animist
+				pop_type = slaves
                 size = 80
             }
             create_pop = {
@@ -38609,11 +38760,13 @@
             create_pop = {
                 culture = apache
                 religion = animist
+				pop_type = slaves
                 size = 1403
             }
             create_pop = {
                 culture = chichimecan
                 religion = animist
+				pop_type = slaves
                 size = 157
             }
             create_pop = {
@@ -38629,11 +38782,13 @@
             create_pop = {
                 culture = pueblo
                 religion = animist
+				pop_type = slaves
                 size = 880
             }
             create_pop = {
                 culture = chichimecan
                 religion = animist
+				pop_type = slaves
                 size = 40
             }
             create_pop = {
@@ -38654,11 +38809,13 @@
             create_pop = {
                 culture = apache
                 religion = animist
+				pop_type = slaves
                 size = 682
             }
             create_pop = {
                 culture = chichimecan
                 religion = animist
+				pop_type = slaves
                 size = 45
             }
             create_pop = {
@@ -38674,11 +38831,13 @@
             create_pop = {
                 culture = apache
                 religion = animist
+				pop_type = slaves
                 size = 1100
             }
             create_pop = {
                 culture = chichimecan
                 religion = animist
+				pop_type = slaves
                 size = 91
             }
             create_pop = {
@@ -38694,11 +38853,13 @@
             create_pop = {
                 culture = pueblo
                 religion = animist
+				pop_type = slaves
                 size = 1046
             }
             create_pop = {
                 culture = chichimecan
                 religion = animist
+				pop_type = slaves
                 size = 91
             }
             create_pop = {
@@ -38714,11 +38875,13 @@
             create_pop = {
                 culture = pueblo
                 religion = animist
+				pop_type = slaves
                 size = 901
             }
             create_pop = {
                 culture = chichimecan
                 religion = animist
+				pop_type = slaves
                 size = 85
             }
             create_pop = {
@@ -42167,6 +42330,7 @@
 			create_pop = {
 				culture = zapotec
 				religion = animist
+				pop_type = slaves
 				size = 18319
 			}
 			create_pop = {
@@ -42182,6 +42346,7 @@
 			create_pop = {
 				culture = mixtec
 				religion = animist
+				pop_type = slaves
 				size = 27136
 			}
 			create_pop = {
@@ -42192,6 +42357,7 @@
 			create_pop = {
 				culture = mixtec
 				religion = animist
+				pop_type = slaves
 				size = 18401
 			}
 			create_pop = {
@@ -42207,6 +42373,7 @@
 			create_pop = {
 				culture = mixtec
 				religion = animist
+				pop_type = slaves
 				size = 16935
 			}
 			create_pop = {
@@ -42217,6 +42384,7 @@
 			create_pop = {
 				culture = mixtec
 				religion = animist
+				pop_type = slaves
 				size = 6670
 			}
 			create_pop = {
@@ -42227,6 +42395,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 6472
 			}
 			create_pop = {
@@ -42237,6 +42406,7 @@
 			create_pop = {
 				culture = zapotec
 				religion = animist
+				pop_type = slaves
 				size = 9045
 			}
 			create_pop = {
@@ -43318,11 +43488,13 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 162245
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 3924
 			}
 			create_pop = {
@@ -43378,11 +43550,13 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 48565
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 1175
 			}
 			create_pop = {
@@ -43398,11 +43572,13 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 79144
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 1914
 			}
 			create_pop = {
@@ -45015,11 +45191,13 @@
 			create_pop = {
 				culture = guarani
 				religion = animist
+				pop_type = slaves
 				size = 2533
 			}
 			create_pop = {
 				culture = guarani
 				religion = animist
+				pop_type = slaves
 				size = 510
 			}
 			create_pop = {
@@ -45035,11 +45213,13 @@
 			create_pop = {
 				culture = guarani
 				religion = animist
+				pop_type = slaves
 				size = 1744
 			}
 			create_pop = {
 				culture = guarani
 				religion = animist
+				pop_type = slaves
 				size = 351
 			}
 			create_pop = {
@@ -45055,11 +45235,13 @@
 			create_pop = {
 				culture = guarani
 				religion = animist
+				pop_type = slaves
 				size = 2029
 			}
 			create_pop = {
 				culture = guarani
 				religion = animist
+				pop_type = slaves
 				size = 408
 			}
 			create_pop = {
@@ -46691,6 +46873,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 31664
 			}
 			create_pop = {
@@ -48389,11 +48572,13 @@
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 11483
 			}
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 9585
 			}
 			create_pop = {
@@ -48409,11 +48594,13 @@
 			create_pop = {
 				culture = tupinamba
 				religion = animist
+				pop_type = slaves
 				size = 7259
 			}
 			create_pop = {
 				culture = tupinamba
 				religion = animist
+				pop_type = slaves
 				size = 6059
 			}
 			create_pop = {
@@ -48429,11 +48616,13 @@
 			create_pop = {
 				culture = tupinamba
 				religion = animist
+				pop_type = slaves
 				size = 12539
 			}
 			create_pop = {
 				culture = tupinamba
 				religion = animist
+				pop_type = slaves
 				size = 10467
 			}
 			create_pop = {
@@ -48453,6 +48642,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 2812
 			}
 			create_pop = {
@@ -48468,6 +48658,7 @@
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 1854
 			}
 			create_pop = {
@@ -48478,11 +48669,13 @@
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 3531
 			}
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 463
 			}
 			create_pop = {
@@ -48493,6 +48686,7 @@
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 6402
 			}
 			create_pop = {
@@ -48503,6 +48697,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 1556
 			}
 			create_pop = {
@@ -48518,11 +48713,13 @@
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 3995
 			}
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 740
 			}
 			create_pop = {
@@ -48533,16 +48730,19 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 3134
 			}
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 110
 			}
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 464
 			}
 			create_pop = {
@@ -48553,6 +48753,7 @@
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 1915
 			}
 			create_pop = {
@@ -48591,11 +48792,13 @@
 			create_pop = {
 				culture = guarani
 				religion = animist
+				pop_type = slaves
 				size = 7933
 			}
 			create_pop = {
 				culture = guarani
 				religion = animist
+				pop_type = slaves
 				size = 2081
 			}
 			create_pop = {
@@ -48611,11 +48814,13 @@
 			create_pop = {
 				culture = guarani
 				religion = animist
+				pop_type = slaves
 				size = 31785
 			}
 			create_pop = {
 				culture = guarani
 				religion = animist
+				pop_type = slaves
 				size = 8339
 			}
 			create_pop = {
@@ -48631,11 +48836,13 @@
 			create_pop = {
 				culture = guarani
 				religion = animist
+				pop_type = slaves
 				size = 9492
 			}
 			create_pop = {
 				culture = guarani
 				religion = animist
+				pop_type = slaves
 				size = 2490
 			}
 			create_pop = {
@@ -48994,21 +49201,25 @@
 			create_pop = {
 				culture = maghrebi
 				religion = catholic
+				pop_type = slaves
 				size = 72
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = catholic
+				pop_type = slaves
 				size = 7
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 42
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 4
 			}
 			create_pop = {
@@ -49089,11 +49300,13 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 617
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 56
 			}
 			create_pop = {
@@ -49344,11 +49557,13 @@
 			create_pop = {
 				culture = guarani
 				religion = animist
+				pop_type = slaves
 				size = 10518
 			}
 			create_pop = {
 				culture = guarani
 				religion = animist
+				pop_type = slaves
 				size = 2808
 			}
 			create_pop = {
@@ -49562,6 +49777,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 2718
 			}
 			create_pop = {
@@ -49572,6 +49788,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 1495
 			}
 			create_pop = {
@@ -49582,6 +49799,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 1773
 			}
 			create_pop = {
@@ -49592,6 +49810,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 4737
 			}
 			create_pop = {
@@ -49602,6 +49821,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 4504
 			}
 			create_pop = {
@@ -49616,6 +49836,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 53538
 			}
 			create_pop = {
@@ -49635,11 +49856,13 @@
 			create_pop = {
 				culture = tupinamba
 				religion = animist
+				pop_type = slaves
 				size = 5748
 			}
 			create_pop = {
 				culture = tupinamba
 				religion = animist
+				pop_type = slaves
 				size = 2022
 			}
 			create_pop = {
@@ -49655,11 +49878,13 @@
 			create_pop = {
 				culture = tupinamba
 				religion = animist
+				pop_type = slaves
 				size = 6999
 			}
 			create_pop = {
 				culture = tupinamba
 				religion = animist
+				pop_type = slaves
 				size = 2462
 			}
 			create_pop = {
@@ -49675,11 +49900,13 @@
 			create_pop = {
 				culture = tupinamba
 				religion = animist
+				pop_type = slaves
 				size = 7221
 			}
 			create_pop = {
 				culture = tupinamba
 				religion = animist
+				pop_type = slaves
 				size = 2540
 			}
 			create_pop = {
@@ -49695,11 +49922,13 @@
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 25584
 			}
 			create_pop = {
 				culture = je
 				religion = animist
+				pop_type = slaves
 				size = 8999
 			}
 			create_pop = {
@@ -51289,11 +51518,13 @@
 			create_pop = {
 				culture = kissi
 				religion = sunni
+				pop_type = slaves
 				size = 192360
 			}
 			create_pop = {
 				culture = kissi
 				religion = oriental_orthodox
+				pop_type = slaves
 				size = 116822
 			}
 			create_pop = {
@@ -51426,6 +51657,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 15878
 			}
 			create_pop = {
@@ -51436,6 +51668,7 @@
 			create_pop = {
 				culture = oodham
 				religion = animist
+				pop_type = slaves
 				size = 13289
 			}
 			create_pop = {
@@ -55535,16 +55768,19 @@
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 192
 			}
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 13
 			}
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 3
 			}
 			create_pop = {
@@ -55590,11 +55826,13 @@
 			create_pop = {
 				culture = caddoan
 				religion = animist
+				pop_type = slaves
 				size = 314
 			}
 			create_pop = {
 				culture = caddoan
 				religion = animist
+				pop_type = slaves
 				size = 22
 			}
 			create_pop = {
@@ -55610,21 +55848,25 @@
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 312
 			}
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 22
 			}
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 40
 			}
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 3
 			}
 			create_pop = {
@@ -55650,21 +55892,25 @@
 			create_pop = {
 				culture = caddoan
 				religion = animist
+				pop_type = slaves
 				size = 1046
 			}
 			create_pop = {
 				culture = caddoan
 				religion = animist
+				pop_type = slaves
 				size = 73
 			}
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 45
 			}
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 3
 			}
 			create_pop = {
@@ -55690,21 +55936,25 @@
 			create_pop = {
 				culture = caddoan
 				religion = animist
+				pop_type = slaves
 				size = 691
 			}
 			create_pop = {
 				culture = caddoan
 				religion = animist
+				pop_type = slaves
 				size = 48
 			}
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 25
 			}
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 2
 			}
 			create_pop = {
@@ -55740,11 +55990,13 @@
 			create_pop = {
 				culture = caddoan
 				religion = animist
+				pop_type = slaves
 				size = 194
 			}
 			create_pop = {
 				culture = caddoan
 				religion = animist
+				pop_type = slaves
 				size = 13
 			}
 			create_pop = {
@@ -55790,21 +56042,25 @@
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 311
 			}
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 21
 			}
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 36
 			}
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 2
 			}
 			create_pop = {
@@ -55830,16 +56086,19 @@
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 340
 			}
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 24
 			}
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 4
 			}
 			create_pop = {
@@ -55895,21 +56154,25 @@
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 383
 			}
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 26
 			}
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 46
 			}
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 3
 			}
 			create_pop = {
@@ -55925,21 +56188,25 @@
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 430
 			}
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 30
 			}
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 57
 			}
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 4
 			}
 			create_pop = {
@@ -55965,11 +56232,13 @@
 			create_pop = {
 				culture = caddoan
 				religion = animist
+				pop_type = slaves
 				size = 217
 			}
 			create_pop = {
 				culture = caddoan
 				religion = animist
+				pop_type = slaves
 				size = 15
 			}
 			create_pop = {
@@ -56015,11 +56284,13 @@
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 783
 			}
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 54
 			}
 			create_pop = {
@@ -56035,11 +56306,13 @@
 			create_pop = {
 				culture = caddoan
 				religion = animist
+				pop_type = slaves
 				size = 332
 			}
 			create_pop = {
 				culture = caddoan
 				religion = animist
+				pop_type = slaves
 				size = 23
 			}
 			create_pop = {
@@ -56085,21 +56358,25 @@
 			create_pop = {
 				culture = caddoan
 				religion = animist
+				pop_type = slaves
 				size = 557
 			}
 			create_pop = {
 				culture = caddoan
 				religion = animist
+				pop_type = slaves
 				size = 39
 			}
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 11
 			}
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 1
 			}
 			create_pop = {
@@ -56145,21 +56422,25 @@
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 749
 			}
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 52
 			}
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 32
 			}
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 2
 			}
 			create_pop = {
@@ -56205,21 +56486,25 @@
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 645
 			}
 			create_pop = {
 				culture = apache
 				religion = animist
+				pop_type = slaves
 				size = 45
 			}
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 89
 			}
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 6
 			}
 			create_pop = {
@@ -56245,21 +56530,25 @@
 			create_pop = {
 				culture = caddoan
 				religion = animist
+				pop_type = slaves
 				size = 1082
 			}
 			create_pop = {
 				culture = caddoan
 				religion = animist
+				pop_type = slaves
 				size = 75
 			}
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 41
 			}
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 3
 			}
 			create_pop = {
@@ -56295,21 +56584,25 @@
 			create_pop = {
 				culture = caddoan
 				religion = animist
+				pop_type = slaves
 				size = 1138
 			}
 			create_pop = {
 				culture = caddoan
 				religion = animist
+				pop_type = slaves
 				size = 79
 			}
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 75
 			}
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 5
 			}
 			create_pop = {
@@ -56335,21 +56628,25 @@
 			create_pop = {
 				culture = caddoan
 				religion = animist
+				pop_type = slaves
 				size = 751
 			}
 			create_pop = {
 				culture = caddoan
 				religion = animist
+				pop_type = slaves
 				size = 52
 			}
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 27
 			}
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 2
 			}
 			create_pop = {
@@ -60190,6 +60487,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 7898
 			}
 			create_pop = {
@@ -60200,6 +60498,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 7725
 			}
 			create_pop = {
@@ -60210,6 +60509,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 4326
 			}
 			create_pop = {
@@ -60225,6 +60525,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 8475
 			}
 			create_pop = {
@@ -60240,6 +60541,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 4716
 			}
 			create_pop = {
@@ -60250,6 +60552,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 3858
 			}
 			create_pop = {
@@ -62556,6 +62859,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 4092
 			}
 			create_pop = {
@@ -62566,6 +62870,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 4796
 			}
 			create_pop = {
@@ -62576,6 +62881,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 5067
 			}
 			create_pop = {
@@ -62586,6 +62892,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 6537
 			}
 			create_pop = {
@@ -62596,6 +62903,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 4454
 			}
 			create_pop = {
@@ -62606,6 +62914,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 5031
 			}
 			create_pop = {
@@ -62616,6 +62925,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 6730
 			}
 			create_pop = {
@@ -62626,6 +62936,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 4868
 			}
 			create_pop = {
@@ -62636,6 +62947,7 @@
 			create_pop = {
 				culture = taino
 				religion = animist
+				pop_type = slaves
 				size = 4346
 			}
 			create_pop = {
@@ -64404,6 +64716,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 13766
 			}
 			create_pop = {
@@ -64414,6 +64727,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 10008
 			}
 			create_pop = {
@@ -64424,6 +64738,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 18905
 			}
 			create_pop = {
@@ -64434,6 +64749,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 6170
 			}
 			create_pop = {
@@ -64444,6 +64760,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 11655
 			}
 			create_pop = {
@@ -64454,6 +64771,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 7676
 			}
 			create_pop = {
@@ -64464,6 +64782,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 10273
 			}
 			create_pop = {
@@ -64474,6 +64793,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 12112
 			}
 			create_pop = {
@@ -64484,6 +64804,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 12928
 			}
 			create_pop = {
@@ -64494,6 +64815,7 @@
 			create_pop = {
 				culture = mayan
 				religion = animist
+				pop_type = slaves
 				size = 11646
 			}
 			create_pop = {
@@ -64652,6 +64974,7 @@
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 14367
 			}
 			create_pop = {
@@ -64662,6 +64985,7 @@
 			create_pop = {
 				culture = nahua
 				religion = animist
+				pop_type = slaves
 				size = 19932
 			}
 			create_pop = {
@@ -64672,11 +64996,13 @@
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 12890
 			}
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 1476
 			}
 			create_pop = {
@@ -64687,11 +65013,13 @@
 			create_pop = {
 				culture = otomanguean
 				religion = animist
+				pop_type = slaves
 				size = 13580
 			}
 			create_pop = {
 				culture = chichimecan
 				religion = animist
+				pop_type = slaves
 				size = 1058
 			}
 			create_pop = {
