@@ -5891,7 +5891,7 @@
 					building = {
 						type = building_manor_house
 						country = c:X37
-						levels = 5
+						levels = 10
 						region = STATE_BOHEMIA
 					}
 				}
@@ -13241,6 +13241,19 @@
 				activate_production_methods = { }
 			}
 			create_building = {
+				building = "building_logging_camp"
+				add_ownership = {
+					building = {
+						type = building_logging_camp
+						country = c:x37
+						levels = 2
+						region = STATE_EAST_SLOVAKIA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_hardwood" "pm_saw_mills" }
+			}
+			create_building = {
 				building = "building_livestock_ranch"
 				add_ownership = {
 					building = {
@@ -16138,6 +16151,19 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_pig_iron" }
+			}
+			create_building = {
+				building = "building_coal_mine"
+				add_ownership = {
+					building = {
+						type = building_coal_mine
+						country = c:x37
+						levels = 1
+						region = STATE_GREATER_POLAND
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_atmospheric_engine_pump_building_coal_mine" }
 			}
 			create_building = {
 				building = "building_livestock_ranch"
@@ -23823,6 +23849,32 @@
 				activate_production_methods = { }
 			}
 			create_building = {
+				building = "building_sulfur_mine"
+				add_ownership = {
+					building = {
+						type = building_sulfur_mine
+						country = c:X37
+						levels = 1
+						region = STATE_LESSER_POLAND
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_picks_and_shovels_building_sulfur_mine" }
+			}
+			create_building = {
+				building = "building_logging_camp"
+				add_ownership = {
+					building = {
+						type = building_logging_camp
+						country = c:X37
+						levels = 1
+						region = STATE_LESSER_POLAND
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_saw_mills" }
+			}
+			create_building = {
 				building = "building_university"
 				add_ownership = {
 					country = {
@@ -28146,6 +28198,19 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_hardwood" "pm_saw_mills" }
+			}
+			create_building = {
+				building = "building_coal_mine"
+				add_ownership = {
+					building = {
+						type = building_coal_mine
+						country = c:X37
+						levels = 5
+						region = STATE_MORAVIA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_picks_and_shovels_building_coal_mine" }
 			}
 			create_building = {
 				building = "building_textile_mills"
@@ -33581,6 +33646,32 @@
 				activate_production_methods = { "pm_no_secondary" }
 			}
 			create_building = {
+				building = "building_iron_mine"
+				add_ownership = {
+					building = {
+						type = building_iron_mine
+						country = c:x37
+						levels = 1
+						region = STATE_POSEN
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_picks_and_shovels_building_iron_mine" }
+			}
+			create_building = {
+				building = "building_logging_camp"
+				add_ownership = {
+					building = {
+						type = building_logging_camp
+						country = c:X37
+						levels = 5
+						region = STATE_POSEN
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_saw_mills" }
+			}
+			create_building = {
 				building = "building_tooling_workshops"
 				add_ownership = {
 					building = {
@@ -33599,6 +33690,19 @@
 					country = {
 						country = c:X37
 						levels = 1
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_railway"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X37
+						levels = 1
+						region = STATE_POSEN
 					}
 				}
 				reserves = 1
@@ -46765,6 +46869,19 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_citrus_orchards" }
+			}
+			create_building = {
+				building = "building_logging_camp"
+				add_ownership = {
+					building = {
+						type = building_logging_camp
+						country = c:X37
+						levels = 2
+						region = STATE_WEST_SLOVAKIA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { "pm_hardwood" "pm_saw_mills" }
 			}
 			create_building = {
 				building = "building_iron_mine"
