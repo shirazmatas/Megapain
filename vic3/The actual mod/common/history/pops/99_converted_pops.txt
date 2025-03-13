@@ -1639,6 +1639,11 @@
 				size = 4091
 			}
 			create_pop = {
+				culture = mashriqi
+				religion = oriental_orthodox
+				size = 554091
+			}
+			create_pop = {
 				culture = sephardic
 				religion = jewish
 				size = 3776
@@ -1715,25 +1720,21 @@
 			create_pop = {
 				culture = maghrebi
 				religion = catholic
-				pop_type = slaves
 				size = 6272
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = catholic
-				pop_type = slaves
 				size = 109
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 3654
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 64
 			}
 			create_pop = {
@@ -1769,13 +1770,11 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 108905
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 1896
 			}
 			create_pop = {
@@ -1821,13 +1820,11 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 328165
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 5714
 			}
 			create_pop = {
@@ -2095,13 +2092,11 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 41184
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 2810
 			}
 			create_pop = {
@@ -2727,7 +2722,7 @@
 			create_pop = {
 				culture = north_german
 				religion = catholic
-				size = 79845
+				size = 579845
 			}
 			create_pop = {
 				culture = north_german
@@ -2906,7 +2901,7 @@
 			create_pop = {
 				culture = anatolian
 				religion = oriental_orthodox
-				size = 133897
+				size = 633897
 			}
 			create_pop = {
 				culture = anatolian
@@ -5327,7 +5322,7 @@
 			create_pop = {
 				culture = mashriqi
 				religion = oriental_orthodox
-				size = 22917
+				size = 522917
 			}
 			create_pop = {
 				culture = mashriqi
@@ -6366,7 +6361,7 @@
 			create_pop = {
 				culture = bedouin
 				religion = oriental_orthodox
-				size = 56368
+				size = 556368
 			}
 			create_pop = {
 				culture = bedouin
@@ -6540,7 +6535,7 @@
 			create_pop = {
 				culture = south_german
 				religion = catholic
-				size = 68469
+				size = 768469
 			}
 			create_pop = {
 				culture = south_german
@@ -7392,6 +7387,16 @@
 				culture = czech
 				religion = protestant
 				size = 415384
+			}	
+		    create_pop = {
+				culture = czech
+				religion = protestant
+				size = 318630
+			}
+			create_pop = {
+				culture = czech
+				religion = protestant
+				size = 318630
 			}
 			create_pop = {
 				culture = ashkenazi
@@ -12579,13 +12584,11 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 76822
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 1799
 			}
 			create_pop = {
@@ -12616,25 +12619,21 @@
 			create_pop = {
 				culture = maghrebi
 				religion = catholic
-				pop_type = slaves
 				size = 3925
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = catholic
-				pop_type = slaves
 				size = 92
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 2287
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 54
 			}
 			create_pop = {
@@ -12675,13 +12674,11 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 15382
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 360
 			}
 			create_pop = {
@@ -12782,13 +12779,11 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 44361
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 1039
 			}
 			create_pop = {
@@ -14831,7 +14826,7 @@
 			create_pop = {
 				culture = norwegian
 				religion = protestant
-				size = 14825
+				size = 114825
 			}
 			create_pop = {
 				culture = norwegian
@@ -15034,6 +15029,11 @@
 				culture = dynamic-anglosaxon-norwegian-culture-num1
 				religion = protestant
 				size = 72136
+			}
+			create_pop = {
+				culture = dutch
+				religion = protestant
+				size = 222136
 			}
 			create_pop = {
 				culture = dynamic-anglosaxon-norwegian-culture-num1
@@ -16188,25 +16188,21 @@
 			create_pop = {
 				culture = maghrebi
 				religion = catholic
-				pop_type = slaves
 				size = 121
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = catholic
-				pop_type = slaves
 				size = 3
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 70
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 2
 			}
 			create_pop = {
@@ -16884,12 +16880,12 @@
 			create_pop = {
 				culture = north_italian
 				religion = catholic
-				size = 407091
+				size = 807091
 			}
 			create_pop = {
 				culture = north_italian
 				religion = catholic
-				size = 346781
+				size = 446781
 			}
 			create_pop = {
 				culture = north_italian
@@ -18607,11 +18603,13 @@
 			create_pop = {
 				culture = fang
 				religion = animist
+				pop_type = slaves
 				size = 1967
 			}
 			create_pop = {
 				culture = fang
 				religion = animist
+				pop_type = slaves
 				size = 396
 			}
 			create_pop = {
@@ -18627,11 +18625,13 @@
 			create_pop = {
 				culture = bakongo
 				religion = animist
+				pop_type = slaves
 				size = 10336
 			}
 			create_pop = {
 				culture = bakongo
 				religion = animist
+				pop_type = slaves
 				size = 2083
 			}
 			create_pop = {
@@ -18969,11 +18969,13 @@
 			create_pop = {
 				culture = wolof
 				religion = sunni
+				pop_type = slaves
 				size = 70877
 			}
 			create_pop = {
 				culture = wolof
 				religion = sunni
+				pop_type = slaves
 				size = 2047
 			}
 			create_pop = {
@@ -19232,7 +19234,7 @@
 			create_pop = {
 				culture = dixie
 				religion = protestant
-				size = 8146
+				size = 158146
 			}
 			create_pop = {
 				culture = dixie
@@ -19282,7 +19284,7 @@
 			create_pop = {
 				culture = dixie
 				religion = protestant
-				size = 46072
+				size = 96072
 			}
 			create_pop = {
 				culture = dixie
@@ -19573,11 +19575,13 @@
 			create_pop = {
 				culture = dynamic-aka-culture-num1
 				religion = sunni
+				pop_type = slaves
 				size = 77461
 			}
 			create_pop = {
 				culture = dynamic-aka-culture-num1
 				religion = sunni
+				pop_type = slaves
 				size = 1731
 			}
 			create_pop = {
@@ -20128,7 +20132,7 @@
 			create_pop = {
 				culture = swedish
 				religion = protestant
-				size = 36829
+				size = 236829
 			}
 			create_pop = {
 				culture = ashkenazi
@@ -20375,6 +20379,11 @@
 				culture = polish
 				religion = protestant
 				size = 127522
+			}
+			create_pop = {
+				culture = polish
+				religion = protestant
+				size = 318630
 			}
 			create_pop = {
 				culture = ashkenazi
@@ -21216,11 +21225,13 @@
 			create_pop = {
 				culture = wolof
 				religion = sunni
+				pop_type = slaves
 				size = 7392
 			}
 			create_pop = {
 				culture = wolof
 				religion = sunni
+				pop_type = slaves
 				size = 424
 			}
 			create_pop = {
@@ -21236,11 +21247,13 @@
 			create_pop = {
 				culture = wolof
 				religion = sunni
+				pop_type = slaves
 				size = 47332
 			}
 			create_pop = {
 				culture = wolof
 				religion = sunni
+				pop_type = slaves
 				size = 2717
 			}
 			create_pop = {
@@ -22514,7 +22527,7 @@
 			create_pop = {
 				culture = north_german
 				religion = catholic
-				size = 265428
+				size = 465428
 			}
 			create_pop = {
 				culture = ashkenazi
@@ -23295,7 +23308,7 @@
 			create_pop = {
 				culture = dutch
 				religion = protestant
-				size = 207015
+				size = 707015
 			}
 			create_pop = {
 				culture = ashkenazi
@@ -24102,7 +24115,7 @@
 			create_pop = {
 				culture = icelandic
 				religion = protestant
-				size = 5991
+				size = 55991
 			}
 			create_pop = {
 				culture = icelandic
@@ -24278,7 +24291,7 @@
 			create_pop = {
 				culture = french
 				religion = protestant
-				size = 127530
+				size = 627530
 			}
 			create_pop = {
 				culture = ashkenazi
@@ -24754,13 +24767,11 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 76911
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 3204
 			}
 			create_pop = {
@@ -24776,13 +24787,11 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 12025
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 501
 			}
 			create_pop = {
@@ -24828,13 +24837,11 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 17009
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 709
 			}
 			create_pop = {
@@ -25499,11 +25506,13 @@
 			create_pop = {
 				culture = senufo
 				religion = sunni
+				pop_type = slaves
 				size = 2125
 			}
 			create_pop = {
 				culture = senufo
 				religion = sunni
+				pop_type = slaves
 				size = 146
 			}
 			create_pop = {
@@ -30252,7 +30261,7 @@
 			create_pop = {
 				culture = north_italian
 				religion = catholic
-				size = 154012
+				size = 654012
 			}
 			create_pop = {
 				culture = north_italian
@@ -30817,11 +30826,13 @@
 			create_pop = {
 				culture = kru
 				religion = sunni
+				pop_type = slaves
 				size = 168093
 			}
 			create_pop = {
 				culture = kru
 				religion = sunni
+				pop_type = slaves
 				size = 4326
 			}
 			create_pop = {
@@ -31429,7 +31440,7 @@
 			create_pop = {
 				culture = north_italian
 				religion = catholic
-				size = 304084
+				size = 804084
 			}
 			create_pop = {
 				culture = north_italian
@@ -31849,6 +31860,11 @@
 				culture = dynamic-al_misr_arabic-culture-num1
 				religion = oriental_orthodox
 				size = 358463
+			}
+			create_pop = {
+				culture = dynamic-al_misr_arabic-culture-num1
+				religion = oriental_orthodox
+				size = 1058463
 			}
 			create_pop = {
 				culture = dynamic-al_misr_arabic-culture-num1
@@ -32275,11 +32291,13 @@
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 79282
 			}
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 2099
 			}
 			create_pop = {
@@ -32305,11 +32323,13 @@
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 60739
 			}
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 1608
 			}
 			create_pop = {
@@ -32325,11 +32345,13 @@
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 54168
 			}
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 1434
 			}
 			create_pop = {
@@ -32355,11 +32377,13 @@
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 45437
 			}
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 1203
 			}
 			create_pop = {
@@ -32395,11 +32419,13 @@
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 37259
 			}
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 986
 			}
 			create_pop = {
@@ -32435,11 +32461,13 @@
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 72600
 			}
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 1922
 			}
 			create_pop = {
@@ -32455,11 +32483,13 @@
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 48436
 			}
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 1282
 			}
 			create_pop = {
@@ -32475,11 +32505,13 @@
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 45259
 			}
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 1198
 			}
 			create_pop = {
@@ -32555,11 +32587,13 @@
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 69412
 			}
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 1838
 			}
 			create_pop = {
@@ -32808,7 +32842,7 @@
 			create_pop = {
 				culture = neo-usa_north_colony-dutch
 				religion = protestant
-				size = 53449
+				size = 103449
 			}
 			create_pop = {
 				culture = algonquian
@@ -32897,7 +32931,7 @@
 			create_pop = {
 				culture = dynamic-breton-cosmopolitan_french-culture-num1
 				religion = catholic
-				size = 310493
+				size = 810493
 			}
 			create_pop = {
 				culture = dynamic-breton-cosmopolitan_french-culture-num1
@@ -34264,7 +34298,7 @@
 			create_pop = {
 				culture = mazanderani
 				religion = oriental_orthodox
-				size = 202180
+				size = 702180
 			}
 			create_pop = {
 				culture = mazanderani
@@ -35127,6 +35161,11 @@
 			create_pop = {
 				culture = dynamic-al_misr_arabic-culture-num1
 				religion = oriental_orthodox
+				size = 1092839
+			}
+			create_pop = {
+				culture = dynamic-al_misr_arabic-culture-num1
+				religion = oriental_orthodox
 				size = 4681
 			}
 			create_pop = {
@@ -35497,11 +35536,13 @@
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 44000
 			}
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 2348
 			}
 			create_pop = {
@@ -35527,11 +35568,13 @@
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 28817
 			}
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 1538
 			}
 			create_pop = {
@@ -35557,11 +35600,13 @@
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 32727
 			}
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 1747
 			}
 			create_pop = {
@@ -35577,11 +35622,13 @@
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 30714
 			}
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 1639
 			}
 			create_pop = {
@@ -35607,11 +35654,13 @@
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 30538
 			}
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 1630
 			}
 			create_pop = {
@@ -35627,11 +35676,13 @@
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 26542
 			}
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 1417
 			}
 			create_pop = {
@@ -37176,6 +37227,11 @@
 				size = 233398
 			}
 			create_pop = {
+				culture = czech
+				religion = protestant
+				size = 318630
+			}
+			create_pop = {
 				culture = ashkenazi
 				religion = jewish
 				size = 7448
@@ -38450,7 +38506,7 @@
 			create_pop = {
 				culture = neo-canada_colony-dutch
 				religion = protestant
-				size = 29384
+				size = 129384
 			}
 			create_pop = {
 				culture = algonquian
@@ -38648,7 +38704,7 @@
 			create_pop = {
 				culture = neo-usa_north_colony-dutch
 				religion = protestant
-				size = 226439
+				size = 286439
 			}
 		}
 	}
@@ -38957,7 +39013,7 @@
 			create_pop = {
 				culture = dutch
 				religion = protestant
-				size = 5824
+				size = 55824
 			}
 			create_pop = {
 				culture = aborigine
@@ -40659,7 +40715,7 @@
 			create_pop = {
 				culture = dynamic-norwegian-sapmi-culture-num1
 				religion = protestant
-				size = 68639
+				size = 168639
 			}
 			create_pop = {
 				culture = dynamic-norwegian-sapmi-culture-num1
@@ -41032,6 +41088,7 @@
 			create_pop = {
 				culture = yoruba
 				religion = animist
+				pop_type = slaves
 				size = 5721
 			}
 			create_pop = {
@@ -43488,13 +43545,11 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 162245
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 3924
 			}
 			create_pop = {
@@ -43550,13 +43605,11 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 48565
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 1175
 			}
 			create_pop = {
@@ -43572,13 +43625,11 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 79144
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 1914
 			}
 			create_pop = {
@@ -43737,7 +43788,7 @@
 			create_pop = {
 				culture = dynamic-breton-cosmopolitan_french-culture-num1
 				religion = catholic
-				size = 283605
+				size = 783605
 			}
 			create_pop = {
 				culture = dynamic-breton-cosmopolitan_french-culture-num1
@@ -46272,7 +46323,7 @@
 			create_pop = {
 				culture = french
 				religion = catholic
-				size = 653731
+				size = 953731
 			}
 			create_pop = {
 				culture = french
@@ -46287,7 +46338,7 @@
 			create_pop = {
 				culture = french
 				religion = catholic
-				size = 657874
+				size = 857874
 			}
 			create_pop = {
 				culture = french
@@ -46306,7 +46357,7 @@
 			create_pop = {
 				culture = north_italian
 				religion = catholic
-				size = 407418
+				size = 907418
 			}
 			create_pop = {
 				culture = north_italian
@@ -46621,7 +46672,7 @@
 	s:STATE_POSEN = {
 		region_state:GER = {
 			create_pop = {
-				culture = dynamic-polish-culture-num1
+				culture = polish
 				religion = catholic
 				size = 700000
 			}
@@ -46633,7 +46684,7 @@
 		}
 		region_state:X37 = {
 			create_pop = {
-				culture = dynamic-polish-culture-num1
+				culture = polish
 				religion = catholic
 				size = 700000
 			}
@@ -49079,7 +49130,7 @@
 			create_pop = {
 				culture = north_german
 				religion = catholic
-				size = 294149
+				size = 494149
 			}
 			create_pop = {
 				culture = north_german
@@ -49201,25 +49252,21 @@
 			create_pop = {
 				culture = maghrebi
 				religion = catholic
-				pop_type = slaves
 				size = 72
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = catholic
-				pop_type = slaves
 				size = 7
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 42
 			}
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 4
 			}
 			create_pop = {
@@ -49306,7 +49353,6 @@
 			create_pop = {
 				culture = maghrebi
 				religion = oriental_orthodox
-				pop_type = slaves
 				size = 56
 			}
 			create_pop = {
@@ -51537,22 +51583,27 @@
 	s:STATE_SILESIA = {
 		region_state:X37 = {
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 190794
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = protestant
 				size = 211674
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
+				religion = protestant
+				size = 318630
+			}
+			create_pop = {
+				culture = czech
 				religion = catholic
 				size = 123313
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = protestant
 				size = 138119
 			}
@@ -51567,12 +51618,12 @@
 				size = 2776
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = catholic
 				size = 228685
 			}
 			create_pop = {
-				culture = polish
+				culture = czech
 				religion = protestant
 				size = 251180
 			}
@@ -53100,11 +53151,13 @@
 			create_pop = {
 				culture = yoruba
 				religion = animist
+				pop_type = slaves
 				size = 20614
 			}
 			create_pop = {
 				culture = yoruba
 				religion = animist
+				pop_type = slaves
 				size = 2160
 			}
 			create_pop = {
@@ -53130,11 +53183,13 @@
 			create_pop = {
 				culture = fang
 				religion = animist
+				pop_type = slaves
 				size = 22022
 			}
 			create_pop = {
 				culture = fang
 				religion = animist
+				pop_type = slaves
 				size = 2307
 			}
 			create_pop = {
@@ -54123,7 +54178,7 @@
 			create_pop = {
 				culture = swedish
 				religion = protestant
-				size = 92898
+				size = 292898
 			}
 			create_pop = {
 				culture = swedish
@@ -59218,7 +59273,7 @@
 			create_pop = {
 				culture = dynamic-al_misr_arabic-culture-num1
 				religion = oriental_orthodox
-				size = 85261
+				size = 585261
 			}
 			create_pop = {
 				culture = dynamic-al_misr_arabic-culture-num1
@@ -61013,11 +61068,13 @@
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 71517
 			}
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 2119
 			}
 			create_pop = {
@@ -61033,11 +61090,13 @@
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 66194
 			}
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 1962
 			}
 			create_pop = {
@@ -61063,11 +61122,13 @@
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 55724
 			}
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 1651
 			}
 			create_pop = {
@@ -61123,11 +61184,13 @@
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 72297
 			}
 			create_pop = {
 				culture = filipino
 				religion = animist
+				pop_type = slaves
 				size = 2142
 			}
 			create_pop = {
@@ -61733,7 +61796,7 @@
 			create_pop = {
 				culture = dutch
 				religion = protestant
-				size = 145415
+				size = 545415
 			}
 			create_pop = {
 				culture = ashkenazi
@@ -62146,7 +62209,7 @@
 			create_pop = {
 				culture = norwegian
 				religion = protestant
-				size = 27256
+				size = 127256
 			}
 			create_pop = {
 				culture = norwegian
@@ -62249,7 +62312,7 @@
 			create_pop = {
 				culture = north_german
 				religion = catholic
-				size = 375739
+				size = 875739
 			}
 			create_pop = {
 				culture = north_german
@@ -62657,6 +62720,11 @@
 				size = 57200
 			}
 			create_pop = {
+				culture = dutch
+				religion = protestant
+				size = 207200
+			}
+			create_pop = {
 				culture = welsh
 				religion = protestant
 				size = 212617
@@ -62784,6 +62852,11 @@
 				culture = polish
 				religion = protestant
 				size = 423530
+			}
+			create_pop = {
+				culture = polish
+				religion = protestant
+				size = 159315
 			}
 			create_pop = {
 				culture = ashkenazi
@@ -63227,6 +63300,11 @@
 				culture = slovak
 				religion = protestant
 				size = 319621
+			}
+			create_pop = {
+				culture = slovak
+				religion = protestant
+				size = 159315
 			}
 			create_pop = {
 				culture = ashkenazi
@@ -64101,7 +64179,7 @@
 			create_pop = {
 				culture = yemenite
 				religion = oriental_orthodox
-				size = 80226
+				size = 580226
 			}
 			create_pop = {
 				culture = yemenite
@@ -65457,7 +65535,7 @@
 			create_pop = {
 				culture = danish
 				religion = catholic
-				size = 118427
+				size = 618427
 			}
 			create_pop = {
 				culture = danish
