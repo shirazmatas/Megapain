@@ -2519,7 +2519,7 @@ EGY = {
 	color = { 255 205 155 }
 	country_type = recognized
 	tier = hegemony
-	cultures = { dynamic-al_misr_arabic-culture-num1 }
+	cultures = { dynamic-al_misr_arabic-culture-num1 persian mashriqi }
 	religion = oriental_orthodox
 	capital = STATE_LOWER_EGYPT
 }
@@ -2686,7 +2686,7 @@ FRA = {
 	color = { 20 50 210 }
 	country_type = recognized
 	tier = hegemony
-	cultures = { dynamic-breton-cosmopolitan_french-culture-num1 }
+	cultures = { dynamic-breton-cosmopolitan_french-culture-num1 french }
 	religion = catholic
 	capital = STATE_ILE_DE_FRANCE
 }
@@ -6277,7 +6277,7 @@ NET = {
 	color = { 204 95 40 }
 	country_type = recognized
 	tier = hegemony
-	cultures = { dutch }
+	cultures = { dutch dynamic-anglosaxon-norwegian-culture-num1 }
 	religion = protestant
 	capital = STATE_HOME_COUNTIES
 }
@@ -7380,7 +7380,7 @@ RUS = {
 	color = { 47 91 18 }
 	country_type = recognized
 	tier = hegemony
-	cultures = { romanian }
+	cultures = { romanian russian tatar }
 	religion = orthodox
 	capital = STATE_WALLACHIA
 }
@@ -8148,7 +8148,7 @@ SPA = {
 	color = { 211 136 6 }
 	country_type = recognized
 	tier = hegemony
-	cultures = { dynamic-andalucian-berber-culture-num1 }
+	cultures = { dynamic-andalucian-berber-culture-num1 spanish }
 	religion = oriental_orthodox
 	capital = STATE_TOLEDO
 }
@@ -10436,7 +10436,7 @@ X37 = {
 	color = { 215 17 32 }
 	country_type = recognized
 	tier = kingdom
-	cultures = { czech }
+	cultures = { czech polish }
 	religion = protestant
 	capital = STATE_BOHEMIA
 }
