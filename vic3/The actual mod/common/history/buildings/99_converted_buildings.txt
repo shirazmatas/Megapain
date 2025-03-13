@@ -6508,7 +6508,7 @@
 				add_ownership = {
 					country = {
 						country = c:SER
-						levels = 3
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -6546,7 +6546,7 @@
 					building = {
 						type = building_manor_house
 						country = c:SER
-						levels = 3
+						levels = 2
 						region = STATE_BOSNIA
 					}
 				}
@@ -6567,7 +6567,7 @@
 					building = {
 						type = building_financial_district
 						country = c:SER
-						levels = 2
+						levels = 1
 						region = STATE_BOSNIA
 					}
 				}
@@ -6575,7 +6575,7 @@
 					building = {
 						type = building_furniture_manufacturies
 						country = c:SER
-						levels = 3
+						levels = 1
 						region = STATE_BOSNIA
 					}
 				}
@@ -12560,11 +12560,24 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 			create_building = {
+				building = "building_railway"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:BUL
+						levels = 1
+						region = STATE_EASTERN_THRACE
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
 				building = "building_port"
 				add_ownership = {
 					country = {
 						country = c:BUL
-						levels = 1
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -21514,30 +21527,6 @@
 				reserves = 1
 				activate_production_methods = { "pm_no_secondary" }
 			}
-			create_building={
-				building="building_arms_industry"
-				add_ownership={
-					country={
-						country="c:AFG"
-						levels=1
-					}
-				}
-				reserves=1
-				activate_production_methods={ "pm_muskets" "pm_automation_disabled"  }
-			}
-			create_building = {
-				building = "building_tooling_workshops"
-				add_ownership = {
-					building = {
-						type = building_tooling_workshops
-						country = c:AFG
-						levels = 1
-						region = STATE_KABUL
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_pig_iron" }
-			}
 			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
@@ -29415,6 +29404,19 @@
 				activate_production_methods = { }
 			}
 			create_building = {
+				building = "building_railway"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:X37
+						levels = 1
+						region = STATE_MORAVIA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
 				building = "building_university"
 				add_ownership = {
 					country = {
@@ -33079,7 +33081,7 @@
 					building = {
 						type = building_manor_house
 						country = c:W23
-						levels = 8
+						levels = 6
 						region = STATE_OROMIA
 					}
 				}
@@ -36539,11 +36541,24 @@
 				activate_production_methods = { }
 			}
 			create_building = {
+				building = "building_railway"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:EST
+						levels = 1
+						region = STATE_RIGA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
 				building = "building_government_administration"
 				add_ownership = {
 					country = {
 						country = c:EST
-						levels = 3
+						levels = 1
 					}
 				}
 				reserves = 1
@@ -40032,7 +40047,7 @@
 				add_ownership = {
 					country = {
 						country = c:W23
-						levels = 1
+						levels = 3
 					}
 				}
 				reserves = 1
@@ -40195,7 +40210,7 @@
 					building = {
 						type = building_manor_house
 						country = c:X28
-						levels = 16
+						levels = 11
 						region = STATE_SOUTHERN_ANHUI
 					}
 				}
@@ -40229,7 +40244,7 @@
 					building = {
 						type = building_glassworks
 						country = c:X28
-						levels = 10
+						levels = 3
 						region = STATE_SOUTHERN_ANHUI
 					}
 				}
@@ -40405,35 +40420,6 @@
 				activate_production_methods = { }
 			}
 			create_building = {
-				building = "building_coal_mine"
-				add_ownership = {
-					building = {
-						type = building_financial_district
-						country = c:SER
-						levels = 1
-						region = STATE_SOUTHERN_SERBIA
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_manor_house
-						country = c:SER
-						levels = 1
-						region = STATE_SOUTHERN_SERBIA
-					}
-				}
-				add_ownership = {
-					building = {
-						type = building_coal_mine
-						country = c:SER
-						levels = 2
-						region = STATE_SOUTHERN_SERBIA
-					}
-				}
-				reserves = 1
-				activate_production_methods = { "pm_picks_and_shovels_building_coal_mine" }
-			}
-			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
 					building = {
@@ -40514,7 +40500,7 @@
 				add_ownership = {
 					country = {
 						country = c:SER
-						levels = 8
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -41353,7 +41339,7 @@
 					building = {
 						type = building_financial_district
 						country = c:X28
-						levels = 15
+						levels = 10
 						region = STATE_SUZHOU
 					}
 				}
@@ -41625,7 +41611,7 @@
 					building = {
 						type = building_furniture_manufacturies
 						country = c:X28
-						levels = 6
+						levels = 5
 						region = STATE_SUZHOU
 					}
 				}
@@ -42943,7 +42929,7 @@
 				add_ownership = {
 					country = {
 						country = c:X08
-						levels = 1
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -43501,7 +43487,7 @@
 				add_ownership = {
 					country = {
 						country = c:DAI
-						levels = 2
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -45241,7 +45227,7 @@
 				add_ownership = {
 					country = {
 						country = c:FIN
-						levels = 1
+						levels = 4
 					}
 				}
 				reserves = 1
@@ -45755,6 +45741,19 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_no_hardwood" "pm_saw_mills" }
+			}
+			create_building = {
+				building = "building_railway"
+				add_ownership = {
+					building = {
+						type = building_financial_district
+						country = c:EST
+						levels = 1
+						region = STATE_VILNIUS
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
 			}
 			create_building = {
 				building = "building_rye_farm"
