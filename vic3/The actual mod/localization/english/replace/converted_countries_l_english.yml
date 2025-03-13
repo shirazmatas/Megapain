@@ -308,5 +308,12 @@
  NPU_ADJ: "Kaiti"
  PLT: "Lankieveil"
  PLT_ADJ: "Lankieveili"
+ state_trait_vistula_river: "Vistula River"
+ state_trait_thames_river: "Thames River"
+ state_trait_shannon_river: "Shannon River"
+ state_trait_tagus_river: "Tagus River"
+ state_trait_torne_river: "Torne River"
+ state_trait_gota_canal: "Gota Canal"
+ state_trait_clear_river: "Clear River"
 
 
