@@ -34622,7 +34622,7 @@
 			create_pop = {
 				culture = sumatran
 				religion = mahayana
-				size = 112119
+				size = 512119
 			}
 			create_pop = {
 				culture = sumatran
