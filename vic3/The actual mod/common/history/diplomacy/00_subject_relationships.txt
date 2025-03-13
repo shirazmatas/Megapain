@@ -239,6 +239,15 @@
 	c:DAI = {
 		add_liberty_desire = -50
 	}
+	c:SWE = {
+		create_diplomatic_pact = {
+			country = c:NOR
+			type = personal_union
+		}
+	}
+	c:NOR = {
+		add_liberty_desire = -40.71
+	}
 	c:W43 = {
 		create_diplomatic_pact = {
 			country = c:W48
