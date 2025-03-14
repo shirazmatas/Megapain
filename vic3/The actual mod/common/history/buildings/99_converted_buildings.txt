@@ -21585,7 +21585,7 @@
 					building = {
 						type = building_manor_house
 						country = c:AFG
-						levels = 5
+						levels = 4
 						region = STATE_KABUL
 					}
 				}
@@ -21597,7 +21597,7 @@
 				add_ownership = {
 					country = {
 						country = c:AFG
-						levels = 4
+						levels = 2
 					}
 				}
 				reserves = 1
@@ -25909,6 +25909,19 @@
 				activate_production_methods = { }
 			}
 			create_building = {
+				building = "building_opium_plantation"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:EGY
+						levels = 8
+						region = STATE_LOWER_EGYPT
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
 				building = "building_textile_mills"
 				add_ownership = {
 					building = {
@@ -28370,7 +28383,7 @@
 					building = {
 						type = building_manor_house
 						country = c:EGY
-						levels = 2
+						levels = 7
 						region = STATE_MIDDLE_EGYPT
 					}
 				}
@@ -35541,7 +35554,7 @@
 				add_ownership = {
 					country = {
 						country = c:PAN
-						levels = 16
+						levels = 10
 					}
 				}
 				reserves = 1
@@ -35955,6 +35968,19 @@
 						type = building_manor_house
 						country = c:EGY
 						levels = 1
+						region = STATE_RAJPUTANA
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_opium_plantation"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:EGY
+						levels = 8
 						region = STATE_RAJPUTANA
 					}
 				}
@@ -36546,7 +36572,7 @@
 					building = {
 						type = building_financial_district
 						country = c:EST
-						levels = 1
+						levels = 2
 						region = STATE_RIGA
 					}
 				}
@@ -39570,6 +39596,32 @@
 						type = building_fishing_wharf
 						country = c:EGY
 						levels = 6
+						region = STATE_SINDH
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_coffee_plantation"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:EGY
+						levels = 8
+						region = STATE_SINDH
+					}
+				}
+				reserves = 1
+				activate_production_methods = { }
+			}
+			create_building = {
+				building = "building_opium_plantation"
+				add_ownership = {
+					building = {
+						type = building_manor_house
+						country = c:EGY
+						levels = 8
 						region = STATE_SINDH
 					}
 				}
