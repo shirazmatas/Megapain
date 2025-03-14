@@ -2114,7 +2114,7 @@ DAI = {
 	country_type = unrecognized
 	tier = principality
 	cultures = { vietnamese }
-	religion = mahayana
+	religion = oriental_orthodox
 	capital = STATE_TONKIN
 }
 
@@ -10490,7 +10490,7 @@ X43 = {
 	country_type = unrecognized
 	tier = principality
 	cultures = { shan }
-	religion = theravada
+	religion = oriental_orthodox
 	capital = STATE_SHAN_STATES
 }
 
