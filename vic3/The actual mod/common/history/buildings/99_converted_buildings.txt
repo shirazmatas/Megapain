@@ -566,6 +566,10 @@
 				activate_production_methods = { "pm_hardwood" "pm_saw_mills" }
 			}
 			create_building = {
+				building = "building_taj_mahal"
+				level=1
+			}
+			create_building = {
 				building = "building_dye_plantation"
 				add_ownership = {
 					building = {
@@ -3056,6 +3060,10 @@
 				activate_production_methods = { }
 			}
 			create_building={
+					building="building_temple_of_poseidon"
+					level=1
+				}
+			create_building={
 				building="building_arms_industry"
 				add_ownership={
 					country={
@@ -4488,6 +4496,10 @@
 				reserves = 1
 				activate_production_methods = { "pm_no_organization" }
 			}
+			create_building={
+					building="building_wat_arun"
+					level=1
+				}
 			create_building = {
 				building = "building_naval_base"
 				add_ownership = {
@@ -4867,6 +4879,10 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
+			}
+			create_building={
+				building="building_forbidden_city"
+				level=1
 			}
 			create_building = {
 				building = "building_tooling_workshops"
@@ -7940,6 +7956,10 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_saw_mills" }
+			}
+			create_building={
+				building="building_angkor_wat"
+				level=1
 			}
 			create_building = {
 				building = "building_rice_farm"
@@ -11710,6 +11730,14 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
+			create_building={
+				building="building_white_house"
+				level=1
+			}
+			create_building={
+					building="building_capitol_hill"
+					level=1
+				}
 			create_building = {
 				building = "building_port"
 				add_ownership = {
@@ -12235,6 +12263,12 @@
 				activate_production_methods = { "pm_horizontal_drawer_cabinets" }
 			}
 		}
+		region_state:X41 = {
+            create_building={
+				building="building_mosque_of_djenne"
+				level=1
+				}
+			}
 	}
 	s:STATE_EASTERN_NEW_GUINEA = {
 		region_state:DEI = {
@@ -12405,6 +12439,10 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_no_hardwood" "pm_saw_mills" }
+			}
+			create_building={
+				building="building_hagia_sophia"
+				level=1
 			}
 			create_building = {
 				building = "building_iron_mine"
@@ -19241,6 +19279,10 @@
 				reserves = 1
 				activate_production_methods = { "pm_no_secondary" }
 			}
+			create_building={
+					building="building_observatorygreenwich"
+					level=1
+				}
 			create_building = {
 				building = "building_logging_camp"
 				add_ownership = {
@@ -19963,6 +20005,10 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
+			}
+			create_building={
+				building= "building_machu_picchu"
+				level = 1
 			}
 			create_building = {
 				building = "building_port"
@@ -20753,6 +20799,10 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
+			}
+			create_building={
+				building= "building_khaju_bridge"
+				level = 1
 			}
 			create_building = {
 				building = "building_opium_plantation"
@@ -22467,6 +22517,10 @@
 				reserves = 1
 				activate_production_methods = { "pm_handcrafted_furniture" }
 			}
+			create_building={
+					building="building_martandsuntemple"
+					level=1
+				}
 			create_building = {
 				building = "building_government_administration"
 				add_ownership = {
@@ -24444,6 +24498,10 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
+			create_building={
+				building= "building_argebam"
+				level = 1
+			}
 			create_building = {
 				building = "building_port"
 				add_ownership = {
@@ -24471,6 +24529,10 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_pig_iron" }
+			}
+			create_building={
+				building="building_vatican_city"
+				level=1
 			}
 			create_building = {
 				building = "building_fishing_wharf"
@@ -25907,6 +25969,10 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
+			}
+			create_building={
+				building="building_giza_necropolis"
+				level=1
 			}
 			create_building = {
 				building = "building_opium_plantation"
@@ -27670,6 +27736,10 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_basic_port" }
+			}
+			create_building={
+				building= "building_eye_of_sahara"
+				level = 1
 			}
 		}
 	}
@@ -29544,6 +29614,10 @@
 				reserves = 1
 				activate_production_methods = { "pm_no_hardwood" "pm_saw_mills" }
 			}
+			create_building={
+				building="building_saint_basils_cathedral"
+				level=1
+			}
 			create_building = {
 				building = "building_livestock_ranch"
 				add_ownership = {
@@ -30647,6 +30721,10 @@
 				reserves = 1
 				activate_production_methods = { }
 			}
+			create_building={
+					building="building_central_park"
+					level=1
+				}
 			create_building={
 				building="building_arms_industry"
 				add_ownership={
@@ -31807,6 +31885,10 @@
 				reserves = 1
 				activate_production_methods = { "pm_no_hardwood" "pm_saw_mills" }
 			}
+			create_building={
+					building="building_halloween_castledracula"
+					level=1
+				}
 			create_building = {
 				building = "building_vineyard_plantation"
 				add_ownership = {
@@ -33501,6 +33583,10 @@
 				reserves = 1
 				activate_production_methods = { "pm_no_hardwood" "pm_saw_mills" }
 			}
+			create_building={
+				building="building_panama_canal"
+				level=1
+				}
 			create_building = {
 				building = "building_coal_mine"
 				add_ownership = {
@@ -39544,6 +39630,10 @@
 				reserves = 1
 				activate_production_methods = { "pm_basic_port" }
 			}
+			create_building={
+				building="building_suez_canal"
+				level=1
+				}
 		}
 	}
 	s:STATE_SINALOA = {
@@ -43741,6 +43831,10 @@
 				}
 				reserves = 1
 				activate_production_methods = { "pm_basic_port" }
+			}
+			create_building={
+				building= "building_petra"
+				level = 1
 			}
 		}
 	}
@@ -49798,6 +49892,10 @@
 				}
 				reserves = 1
 				activate_production_methods = { }
+			}
+			create_building={
+				building= "building_chichen_itza"
+				level = 1
 			}
 			create_building = {
 				building = "building_maize_farm"
